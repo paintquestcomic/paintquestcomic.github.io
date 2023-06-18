@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paintquestcomic.github.io</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Jun 2023 11:55:09 +0300</pubDate>
+    <lastBuildDate>Sun, 18 Jun 2023 11:55:09 +0300</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>4</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 21:42:56 +0300</pubDate>
+        <link>http://localhost:4000/004</link>
+        <guid isPermaLink="true">http://localhost:4000/004</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 21:42:56 +0300</pubDate>
+        <link>http://localhost:4000/003</link>
+        <guid isPermaLink="true">http://localhost:4000/003</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>2</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 21:42:56 +0300</pubDate>
+        <link>http://localhost:4000/002</link>
+        <guid isPermaLink="true">http://localhost:4000/002</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>1 test</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 21:42:56 +0300</pubDate>
+        <link>http://localhost:4000/001</link>
+        <guid isPermaLink="true">http://localhost:4000/001</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+  </channel>
+</rss>
