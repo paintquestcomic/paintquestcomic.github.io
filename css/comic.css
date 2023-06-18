@@ -61,7 +61,7 @@ body {
 .content {
   /* background-color: blue; */
   max-width: 720px;
-  margin: 0px 15px;
+  /* margin: 0px 15px; */
 }
 
 /* .comic-container {
@@ -81,7 +81,7 @@ body {
 .content h1 {
   font-family: 'Museo';
   font-size: 38px;
-  margin: 30px 0px 10px;
+  margin: 30px 15px 10px;
 }
 .content img {
   display: block;
@@ -95,28 +95,41 @@ body {
   font-size: 19px;
   padding-bottom: 10px;
   line-height: 150%;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.content .p-ignore {
+  padding-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .content h2 {
   font-family: 'Museo';
   font-size: 32px;
-  margin: 10px 0px 0px;
+  margin: 10px 15px 0px;
 }
 
 /* MEDIA QUERIES */
 /*=============================*/
 
 @media (max-width: 767.98px) {
-  .content {
-    margin: 0px 20px;
+  
+  .content p {
+    margin-left: 20px;
+    margin-right: 20px;
   }
+  
 
   .content h1 {
     font-size: 32px;
+    margin: 30px 20px 10px;
   }
 
   .content h2 {
     font-size: 26px;
+    margin: 10px 20px 0px;
   }
 }
 
