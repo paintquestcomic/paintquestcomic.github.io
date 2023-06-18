@@ -14,9 +14,10 @@ body {
 .panel {
   background-color: white;
   min-height: 500px;
+  padding-bottom: 30px;
 }
 
-.panel p {
+/* .panel p {
   padding: 0px 25px 0px 25px;
   font-family: 'Roboto', sans-serif;
 }
@@ -40,18 +41,53 @@ body {
   font-weight: bold;
   font-family: 'Arvo', serif;
   padding: 0px 25px 0px 25px;
-}
+} */
 
-.panel img {
+/* .panel img {
   height: 100%;
   width: 100%;
-}
+} */
 
 .center {
   margin: auto;
   float: none;
 }
 
+
+@font-face {
+  font-family: 'Museo';
+  src: url("../fonts/MuseoSansCyrl-700.ttf") format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url("../fonts/PTSerif-Regular.ttf") format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url("../fonts/PTSerif-Italic.ttf") format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url("../fonts/PTSerif-Bold.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url("../fonts/PTSerif-BoldItalic.ttf") format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
 
 
 /* HEADER STYLES */
@@ -157,7 +193,47 @@ body {
 
 /* COMIC PANEL STYLES */
 /*=============================*/
+.comic-container {
+  padding-bottom: 20px;
+}
+
 .comic-panel {
-  max-width: 700px;
-  margin-left: auto;
+  max-width: 720px;
+  /* margin-left: auto; */
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+}
+
+.comic-panel h1 {
+  font-family: 'Museo';
+  font-size: 38px;
+  margin: 30px 0px 10px;
+}
+
+/* .comic-panel .image-wrapper {
+  margin: 25px auto;
+  max-width: 100%;
+  height: auto;
+} */
+
+.comic-panel img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.comic-panel p {
+  font-family: 'PT Serif';
+  font-size: 19px;
+  padding-bottom: 10px;
+  line-height: 150%;
+}
+
+.comic-panel h2 {
+  font-family: 'Museo';
+  font-size: 32px;
+  margin: 10px 0px 0px;
 }
