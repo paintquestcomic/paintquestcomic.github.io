@@ -16,7 +16,7 @@
 # title: PaintQuest
 tab_title: PaintQuest #This text shows up on the browser tab
 email: paintquestcomic@gmail.com
-url: "https://paintquest.ru/" # the base hostname & protocol for your site
+url: "https://paintquest.ru" # the base hostname & protocol for your site
 
 # Comic Social Media
 twitter_username: http://twitter.com/peahat
