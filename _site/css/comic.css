@@ -13,6 +13,8 @@ body {
   background-color: white;
   min-height: 500px;
   padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 /* .panel p {
@@ -193,11 +195,12 @@ body {
 /*=============================*/
 .comic-container {
   padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .comic-panel {
   max-width: 720px;
-  /* margin-left: auto; */
   display: flex;
   flex-direction: column;
   align-items: left;
@@ -234,4 +237,17 @@ body {
   font-family: 'Museo';
   font-size: 32px;
   margin: 10px 0px 0px;
+}
+
+/* MEDIA QUERIES */
+/*=============================*/
+
+@media (max-width: 767.98px) {
+  .comic-panel h1 {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 575.98px) {
+
 }
