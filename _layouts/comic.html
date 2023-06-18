@@ -14,7 +14,9 @@
     <title>{{ site.tab_title }}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    
 
     <!-- Custom styles for webcomic -->
     <link href="{{ site.url }}/css/comic.css" rel="stylesheet">
@@ -29,31 +31,17 @@
 
   <body>
 
-    <div class="container">
-      <div class="row">
-
-        {% include header.html %}
-
-        <div class="col-md-12 center comic-container">
-          <div class="panel center col-md-12">
-            <div class="comic-panel center">
-              {{ content }}
-              {% if page.category != "extra" %}
-              <ul class="pager">
-                <li><a class="btn btn-outline-secondary" href= {{ site.url }}{{ page.previous.url }} >PREVIOUS</a></li>
-                <li><a class="btn btn-outline-primary" href= {{ site.url }}{{ page.next.url }} >NEXT</a></li>
-              </ul>
-              {% endif %}
-            </div><!--comic div-->
-
-        </div><!--end panel-->
-        </div><!--end main div-->
-      </div><!--end row-->
-    </div><!-- end container-->
+    {% include header.html %}
+    <div class="panel container-md">
+      <div class="content">
+          {{ content }}
+       </div>
+    </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
   </body>
 </html>
