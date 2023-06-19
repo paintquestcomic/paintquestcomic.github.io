@@ -78,7 +78,7 @@ body {
 
 .panel {
   background-color: white;
-  margin: 0px auto 5px;
+  margin: 0px auto 20px;
   padding: 5px 0px 20px;
   display: flex;
   justify-content: center;
