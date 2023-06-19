@@ -41,7 +41,7 @@ body {
 .footer {
   background-color: transparent;
   padding: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .footer-content {
@@ -52,7 +52,7 @@ body {
   border-radius: 20px;
   max-width: 900px;
   font-family: 'Motorola';
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .footer-content p {
@@ -143,19 +143,19 @@ body {
 @media (max-width: 767.98px) {
   
   .content p {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
   }
   
 
   .content h1 {
     font-size: 32px;
-    margin: 30px 10px 10px;
+    margin: 30px 15px 10px;
   }
 
   .content h2 {
     font-size: 26px;
-    margin: 10px 10px 0px;
+    margin: 10px 15px 0px;
   }
 }
 
