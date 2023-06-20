@@ -79,6 +79,11 @@ body {
   color: #FBF236;
 }
 
+
+.navigation a:focus {
+  color: #FBF236;
+}
+
 .panel {
   background-color: white;
   margin: 0px auto 20px;
