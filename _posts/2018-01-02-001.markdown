@@ -1,0 +1,16 @@
+---
+layout: comic
+date:   2018-01-02 00:00:00 -0700
+title: ">НАЧАТЬ ИГРУ"
+category: page
+permalink: /001
+---
+# >НАЧАТЬ ИГРУ
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+## | СОЗДАНИЕ ПЕРСОНАЖА |
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)

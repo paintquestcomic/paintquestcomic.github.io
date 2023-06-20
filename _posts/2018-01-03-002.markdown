@@ -1,0 +1,11 @@
+---
+layout: comic
+date:   2018-01-03 00:00:00 -0700
+title: ">Джонни Надеревьев"
+category: page
+permalink: /002
+---
+# >Джонни Надеревьев
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)

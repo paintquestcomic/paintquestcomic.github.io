@@ -1,0 +1,28 @@
+---
+layout: comic
+date:   2018-01-30 00:00:00 -0700
+title: ">намекнуть спутнику, что у тебя в инвентаре нет места"
+category: page
+permalink: /029
+---
+# >намекнуть спутнику, что у тебя в инвентаре нет места
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><em>— *Слушай, ты не можешь…*</em></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><em>— ТВОЯ МОЗГОВАЯ АКТИВНОСТЬ СВИДЕТЕЛЬСТВУЕТ О ТОМ, ЧТО ТЫ ХОЧЕШЬ ПЕРЕДАТЬ МНЕ ИНФОРМАЦИЮ О НЕДОСТАТОЧНОМ ПРОСТРАНСТВЕ СОБСТВЕННОГО МЕТА-ХРАНИЛИЩА.</em></blockquote>
+
+<blockquote><em>Я ПРИМУ ДАННЫЙ ОБЪЕКТ, НО УЧТИ, ЧТО ДАННАЯ ОБОЛОЧКА НЕСПОСОБНА ПЕРЕНОСИТЬ ПРЕДМЕТЫ В ТАКОМ ЖЕ ОБЪЁМЕ, В КАКОМ СПОСОБНО ТВОЁ ТЕЛО.</em></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>ТУСКЛО СВЕТЯЩИЙ ФОНАРЬ</strong> ДОБАВЛЕН <strong>??? </strong>В ИНВЕНТАРЬ </blockquote>

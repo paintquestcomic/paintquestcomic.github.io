@@ -1,0 +1,64 @@
+---
+layout: comic
+date:   2018-03-28 00:00:00 -0700
+title: ">осмотреть предмет"
+category: page
+permalink: /086
+---
+# >осмотреть предмет
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Ты <strong>перебираешься </strong>на другую сторону уже привычным тебе способом — через отверстия на стене. 
+
+<strong>Марио </strong>также решает к тебе присоединиться.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Вы тщательно осматриваете странный <strong>объект</strong>. Сверху на нём расположены <strong>четыре цветные кнопки</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Хм. Я бы сказал, что это похоже на контейнер с кодовым замком. Нужно ввести правильную комбинацию, и тогда он должен открыться.</blockquote>
+
+<blockquote>Но для этого надо знать комбинацию, конечно же.</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Ты решаешь <strong>взять </strong>его с собой. <em>Кто знает, когда ты наткнёшься на правильную комбинацию.</em>
+
+<blockquote><strong>КОНТЕЙНЕР С ЗАМКОМ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
+
+## >попросить Марио нажать на пластину со странным символом
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Ты также заметил, что есть ещё одна <strong>плита</strong>, которая отличается от других. Ты просишь <strong>Марио </strong>проверить и её.
+
+А ещё ты показываешь, что стоит <strong>пригнуться</strong>. На всякий случай.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Хм. Ну… ладно. Сейчас эту тоже проверю.</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Как только <strong>Марио </strong>оказывается на <strong>плите</strong>, она <strong>открывается</strong>, словно люк!
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Что за <strong>дел-</strong></blockquote>
+
+<blockquote><strong>аааааААААААААА!</strong></blockquote>
+
+<strong>Марио проваливается вниз и скрывается в темноте! </strong>
+
+<em>А вместе с ним и деталь от лифта, если вдруг ты за Марио не особо переживаешь.</em>

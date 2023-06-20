@@ -1,0 +1,71 @@
+---
+layout: comic
+date:   2018-03-11 00:00:00 -0700
+title: ">дорисовать мелом еще одну строку инвентаря"
+category: page
+permalink: /069
+---
+# >дорисовать мелом еще одну строку инвентаря
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Честно говоря, ты не знаешь, как взаимодействовать со своим <strong>инвентарём </strong>помимо <strong>добавления </strong>и <strong>вынимания предметов</strong>.
+
+<em>Хотя</em>…
+
+<strong>Знаешь что?</strong>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<strong>Дай-ка мелок сюда.</strong>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Так и быть, ты через <strong>многое </strong>прошёл, так что заслужил ещё одну <strong>ячейку инвентаря</strong>, <em>но не больше</em>! И не смей мне говорить, что менеджмент инвентаря — это плохая игровая механика!
+
+<blockquote>К ИНВЕНТАРЮ ДОБАВЛЕНА <strong>ОДНА </strong>(<strong>1</strong>) <strong>ЯЧЕЙКА</strong></blockquote>
+
+<em>Я мелок положу обратно в коробку, если что.</em>
+
+## >положить паучка внутрь коробки с мелками
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Правильно, место надо <strong>экономить</strong>, а <strong>мелки </strong>ему не навредят. <strong>Уже </strong>не навредят.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Кажется, <strong>Марио </strong>вспомнил про ваш <strong>трофей </strong>за первое место в первом ежегодном конкурсе фонтанных статуй.
+
+<em>Отличная работа, Марио! Продолжай в том же духе!</em>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>КОРОБКА С МЕЛКАМИ И ПАУКОМ</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
+
+<blockquote><strong>ТРОФЕЙ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
+
+## >пройти через открытые ворота
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Ты решаешь осмотреть, что же находится за <strong>воротами</strong>, ведущими к <strong>пневмолифту</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<strong>Тут темно</strong>.
+
+Где-то за спиной слышен голос <strong>Марио</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Погоди, нам ещё не время туда идти! Это может быть опасно! Да и без деталей лифт не поедет.</blockquote>

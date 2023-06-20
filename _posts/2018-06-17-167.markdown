@@ -1,0 +1,136 @@
+---
+layout: comic
+date:   2018-06-17 00:00:00 -0700
+title: ">спросить, кого здесь можно ожидать увидеть, если не гремлина?"
+category: page
+permalink: /167
+---
+# >спросить, кого здесь можно ожидать увидеть, если не гремлина?
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— А… кого ожидал, тогда?</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Первородных, ищущих приюта. </strong></blockquote>
+
+<blockquote><strong>Ту жизнь, которая была отброшена во времена Создания.</strong></blockquote>
+
+<blockquote><strong>Моих немногочисленных коллег по Великому Ремеслу, нашедших путь сюда.</strong></blockquote>
+
+<blockquote><strong>Жрецов Безмолвного Бога.</strong></blockquote>
+
+<blockquote><strong>А среди них всех гремлинов я не знаю. Кем будешь ты?</strong></blockquote>
+
+## >поздороваться и узнать у существа, кто оно
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Эмм…</blockquote>
+
+<blockquote>Ну, день добрый! Можно же сказать, что «день», да?</blockquote>
+
+<blockquote>Я…</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Не трать силы, маленький гремлин. Сейчас не время.</strong></blockquote>
+
+<blockquote><strong>Ты ищешь что-то?</strong></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Да, я ищу детали механизма пневмолифта…</blockquote>
+
+<blockquote>А кто ты такой?</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Чернокнижник. Алхимик. Узник.</strong></blockquote>
+
+<blockquote><strong>Как и все мы.</strong></blockquote>
+
+<em>Ты не уверен, была ли сказана последняя фраза по отношению ко всем трём словам или к какому-то конкретному.</em>
+
+## >сесть на стул
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<em>Ты присаживаешься на параллелепипед, материализовавшийся позади тебя.</em>
+
+<em>Ты даже не придаёшь этому особого значения. </em>
+
+<em>Уж больно натурально всё произошло.</em>
+
+## >выяснить у сущности: где ты?
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Где м-</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<em>Стоило звуку покинуть твой рот, как под тобой исчезает опора.</em>
+
+<em>Ты падаешь на пол.</em>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Значит, ты несёшь на себе марку Безмолвного Бога. Интересно.</strong></blockquote>
+
+<blockquote><strong>Его жрецы способны творить чудеса из чистого воздуха. В обмен на тишину.</strong></blockquote>
+
+<blockquote><strong>Ничто не даётся даром.</strong></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Так где мы, всё-таки?</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Сейчас мы находимся за пределами явного мира. Всё остальное — излишние подробности, которые тебе не помогут.</strong></blockquote>
+
+<blockquote><strong>Я знаю, зачем ты тут, хоть ты и не знаешь.</strong></blockquote>
+
+<blockquote><strong>Ты пришёл сюда за помощью. Я дам её.</strong></blockquote>
+
+<blockquote><strong>Но перед этим…</strong></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote><strong>— Задай мне вопрос. Один. Любой вопрос. </strong></blockquote>
+
+<blockquote><strong>Мой ответ будет подарком тебе. В довесок к моей помощи.</strong></blockquote>
+
+<blockquote><strong>И поторопись, время идёт. </strong></blockquote>
+
+<blockquote><strong>Хоть это и трудно заметить.</strong></blockquote>

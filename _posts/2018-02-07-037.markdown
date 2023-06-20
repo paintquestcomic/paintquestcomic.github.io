@@ -1,0 +1,18 @@
+---
+layout: comic
+date:   2018-02-07 00:00:00 -0700
+title: ">Изарий Многоклеточный"
+category: page
+permalink: /037
+---
+# >Изарий Многоклеточный
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+(У меня тут места не хватает, давай что-нибудь покороче.)
+
+## >Гарри Стикман
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)

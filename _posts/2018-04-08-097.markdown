@@ -1,0 +1,73 @@
+---
+layout: comic
+date:   2018-04-08 00:00:00 -0700
+title: ">пройти за незнакомцем"
+category: page
+permalink: /097
+---
+# >пройти за незнакомцем
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Ты решаешь больше не рисковать <strong>необдуманными действиями</strong>, поэтому тебе ничего не остаётся, кроме как <strong>слушать команды </strong>вооружённого <strong>неизвестного…</strong>
+
+По крайней мере <strong>временно</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+Под дулом <strong>лазера </strong>(<em>метафорическим </em>дулом, но <strong>настоящего </strong>лазера) тебя подводят к двери <strong>тюремной камеры</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Не спрашивай, почему у меня есть отдельная тюремная камера.</blockquote>
+
+<blockquote>Хотя ты и не спросишь. Я заметил, что ты не особо разговорчивый.</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Располагайся, чувствуй себя как дома. Мне бы хотелось сразу перейти к бизнесу, партнёр, но сначала ты должен посидеть тут и подумать над своим поведением.</blockquote>
+
+<blockquote>А я пока пойду займусь чем-нибудь важным. И прошу, не натвори глупостей к моему возвращению.</blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+С этими словами <strong>незнакомец </strong>захлопывает <strong>дверь </strong>и исчезает из виду.
+
+И вот ты снова <strong>один</strong>, снова в <strong>тюремной камере</strong>, <strong>и- </strong>
+
+<strong>Стоп</strong>, он же что-то говорил про «<strong>предыдущего вора</strong>»…
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— <strong>Клянусь, когда я увижу тёмную дыру в следующий раз…</strong></blockquote>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— <strong>…то кину тебя в неё своими собственными руками.</strong></blockquote>
+
+Из тёмного угла камеры к тебе выходит не кто иной, как <strong>Марио</strong>.
+
+«<em>Наконец-то хоть одно дружелюбное лицо!</em>» — подумал бы ты в любой другой ситуации, если бы встретил <strong>Марио</strong>. Но сейчас у него лицо <strong>отнюдь не дружелюбное</strong>.
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<blockquote>— Из-за тебя мы сюда влипли, сам теперь и расхлёбывай! </blockquote>
+
+<blockquote>Я <strong>очень </strong>надеюсь, что у тебя есть план того, как нам отсюда выбраться. Если его нет, то тебе же хуже будет, клянусь.</blockquote>
