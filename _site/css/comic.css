@@ -61,7 +61,7 @@ body {
 
 .navigation {
   background-color: #222034;
-  border-radius: 25px;
+  border-radius: 50px;
   padding: 0px 20px;
   margin: 0px 5px 5px;
   border-style: solid;
@@ -73,6 +73,7 @@ body {
   color: white;
   font-size: 14px;
   font-family: 'DoNotPress';
+  padding: 2px 15px;
 }
 
 .navigation a:hover {
@@ -93,7 +94,7 @@ body {
 }
 
 .page-controls {
-  padding: 20px 0px 30px;
+  padding: 30px 0px 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -111,7 +112,7 @@ body {
 .content h1 {
   font-family: 'Museo';
   font-size: 38px;
-  margin: 20px 15px 20px;
+  margin: 25px 15px 20px;
 }
 .content img {
   display: block;
@@ -162,7 +163,7 @@ body {
 .content h2 {
   font-family: 'Museo';
   font-size: 32px;
-  margin: 30px 15px 0px;
+  margin: 26px 15px 0px;
 }
 
 .content h2 + * {
@@ -184,6 +185,10 @@ body {
 }
 
 @media (max-width: 767.98px) {
+  .navigation a {
+    font-size: 12px;
+  }
+
   .content {
     max-width: 750px;
     min-width: 0px;
@@ -197,12 +202,11 @@ body {
 
   .content h1 {
     font-size: 32px;
-    margin: 30px 15px 10px;
+    margin: 20px 15px 10px;
   }
 
   .content h2 {
     font-size: 26px;
-    margin: 10px 15px 0px;
   }
 }
 
