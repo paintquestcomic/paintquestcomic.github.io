@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Экстра
-permalink: /extra
+title: Архив
+permalink: /archive
 ---
-# ЭКСТРА
+# Архив
 
 <ul class="post-list archive-ul">
-  {% for post in site.categories.extra %}
+  {% for post in site.categories.page %}
     <li class="archive-li">
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
