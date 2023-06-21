@@ -35,6 +35,9 @@
       <div class="panel container-md">
         <div class="content">
             {{ content }}
+            {% if page.category == "page" %}
+            {% include page-controls.html %}
+            {% endif %}
         </div>
       </div>
     </div>
