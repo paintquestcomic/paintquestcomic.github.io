@@ -11,7 +11,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{{ site.tab_title }}</title>
+    <meta property="og:title" content="{{ page.title }}">
+    <!-- <meta property="og:description" content="Write the body text here"> -->
+    <meta property="og:image" content="{{ site.url }}/pages/REPLACE.png">
+
+    <!-- <title>{{ site.tab_title }}</title> -->
+    <title>{{ page.title }}</title>
     <link rel="shortcut icon" href="../assets/favicon.ico">
 
     <!-- Bootstrap core CSS -->
