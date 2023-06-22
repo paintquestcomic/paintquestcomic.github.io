@@ -172,6 +172,29 @@ body {
   margin-top: 12px;
 }
 
+/*
+  game-wrapper is a div that helps preserve the aspect ratio of our game by
+  leveraging percentage-based padding.
+*/
+.game-wrapper-450x600 {
+  margin: 30px auto 20px;
+  position: relative;
+  height: 450px;
+  width: 600px;
+}
+
+/*
+game-frame is a div that tells our iframe to take up all of the
+space it's allowed to - the game-wrapper will set the bounds.
+*/
+.game-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* MEDIA QUERIES */
 /*=============================*/
 

@@ -22,6 +22,6 @@ permalink: /233
 
 <em>Есть лишь <strong>один способ</strong> узнать наверняка:</em>
 
-<cite>▶️</cite>
+<cite><a href="/away.php?to=https%3A%2F%2Fpaintquestcomic.github.io%2Fpaintquest-233%2F">▶️</a></cite>
 
 <em>Кто знает, какие тайны скрывает эта машина. Какие возможности.</em>

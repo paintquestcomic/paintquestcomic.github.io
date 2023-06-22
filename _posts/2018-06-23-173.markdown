@@ -16,6 +16,6 @@ permalink: /173
 
 А, точно. Вот <strong>кнопка</strong>:
 
-<cite>▶️</cite>
+<cite><a href="/away.php?to=https%3A%2F%2Fpaintquestcomic.github.io%2Fpaintquest-173%2F">▶️</a></cite>
 
 <em>Как разберёшься с кодом, можешь приступать к укладке паркета и прочим твоим любимым строительно-монтажным работам. Если желание не пропало.</em>
