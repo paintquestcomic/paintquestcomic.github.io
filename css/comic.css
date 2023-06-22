@@ -172,18 +172,23 @@ body {
   margin-top: 12px;
 }
 
+
+.godot-wrapper-450x600 {
+  max-width: 600px;
+  max-height: 450px;
+  margin: 30px auto;
+}
+
 /*
   game-wrapper is a div that helps preserve the aspect ratio of our game by
   leveraging percentage-based padding.
 */
-.game-wrapper-450x600 {
+.game-wrapper {
   margin: 30px auto;
   position: relative;
   overflow: hidden;
-  max-width: 600px;
-  max-height: 450px;
   width: 100%;
-  padding-top: 60%;
+  padding-top: 75%;
 }
 
 /*
