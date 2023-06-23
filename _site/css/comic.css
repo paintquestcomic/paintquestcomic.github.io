@@ -128,7 +128,6 @@ body {
   line-height: 150%;
   margin-left: 15px;
   margin-right: 15px;
-  /* margin-bottom: 14px; */
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
@@ -152,7 +151,6 @@ body {
 .content blockquote + blockquote {
   margin-top: 0px;
   padding-top: 20px;
-  /* padding-bottom: 26px; */
 }
 
 .content .p-ignore {
@@ -175,6 +173,12 @@ body {
   max-width: 600px;
   max-height: 450px;
   margin: 30px auto;
+}
+
+.godot-wrapper-600x800 {
+  max-width: 800px;
+  max-height: 600px;
+  margin: 30px -25px;
 }
 
 /*
@@ -213,6 +217,13 @@ space it's allowed to - the game-wrapper will set the bounds.
   
   .footer-content {
     border-radius: 0px;
+  }
+}
+
+@media (max-width: 800px) {
+
+  .godot-wrapper-600x800 {
+    margin: 30px auto;
   }
 }
 

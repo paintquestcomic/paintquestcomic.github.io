@@ -18,6 +18,6 @@ permalink: /277
 
 <em>Впрочем, тебе ничто не мешает <strong>попробовать</strong>:</em>
 
-<cite><a href="/away.php?to=https%3A%2F%2Fpaintquestcomic.github.io%2Fpaintquest-277%2F">▶️</a></cite>
+{% include interactive.html game="assets/games/277/index.html" size="450x600" %}
 
 <em>Вдруг творить чудеса из чистого воздуха можно несколькими путями?</em>
