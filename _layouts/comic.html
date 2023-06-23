@@ -6,7 +6,11 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {% if {{ page.permalink == "/233"}} %}
+    <meta name="viewport" content="width=800px, initial-scale=0.1">
+    {% elsif {{ page.permalink != "/233"}} %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% endif %}
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
