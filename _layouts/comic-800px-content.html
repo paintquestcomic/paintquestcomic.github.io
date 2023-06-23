@@ -5,7 +5,17 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=800px, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      // Get the viewport width
+      var viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+  
+      // Calculate the desired initial scale value
+      var initialScale = viewportWidth / 800;
+  
+      // Set the initial scale dynamically
+      document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=800, initial-scale=' + initialScale);
+    </script>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="" />
     <meta name="author" content="" />
