@@ -211,6 +211,7 @@ space it's allowed to - the game-wrapper will set the bounds.
 /* MEDIA QUERIES */
 /*=============================*/
 
+
 @media (max-width: 910px) {
 
   .footer {
@@ -219,6 +220,14 @@ space it's allowed to - the game-wrapper will set the bounds.
   
   .footer-content {
     border-radius: 0px;
+  }
+}
+
+@media (max-width: 800px) {
+  .godot-wrapper-600x800 {
+    max-width: 800px;
+    max-height: 600px;
+    margin: 30px auto;
   }
 }
 
