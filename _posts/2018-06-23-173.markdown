@@ -1,5 +1,5 @@
 ---
-layout: comic
+layout: comic-600px
 date:   2018-06-23 00:00:00 -0700
 title: "▶️ >ввести код"
 category: page
