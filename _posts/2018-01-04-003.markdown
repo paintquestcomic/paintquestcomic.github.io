@@ -4,16 +4,17 @@ date:   2018-01-04 00:00:00 -0700
 title: ">Гладиоратор"
 category: page
 permalink: /003
+thumbnail: pages/comic/PQ_002_1.png
 ---
 # >Гладиоратор
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_002_1.png)
 
 ## >ПОДТВЕРДИТЬ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_002_2.png)
 
 Тебя зовут <strong>Джонни Надеревьев</strong>, и ты — <strong>гладиоратор</strong>, всегда способный как найти общий язык со своим оппонентом, так и отрубить его. Твой <strong>атлетизм</strong> не раз спасал тебя на арене, а <strong>дипломатические способности</strong> — на трибуне. Но в душе ты всегда остаёшься <strong>актёром</strong>, готовым порадовать публику.
 

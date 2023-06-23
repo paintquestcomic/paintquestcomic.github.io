@@ -4,13 +4,14 @@ date:   2018-01-02 00:00:00 -0700
 title: ">НАЧАТЬ ИГРУ"
 category: page
 permalink: /001
+thumbnail: pages/comic/PQ_000_1.png
 ---
 # >НАЧАТЬ ИГРУ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_000_1.png)
 
 ## | СОЗДАНИЕ ПЕРСОНАЖА |
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_000_2.png)

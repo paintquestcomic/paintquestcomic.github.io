@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: PaintQuest
+title: PaintQuest
 tab_title: PaintQuest #This text shows up on the browser tab
 email: paintquestcomic@gmail.com
 url: "https://paintquest.ru" # the base hostname & protocol for your site

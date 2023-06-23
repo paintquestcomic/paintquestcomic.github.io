@@ -4,14 +4,15 @@ date:   2018-01-11 00:00:00 -0700
 title: ">собрать пару растений и двигаться в сторону города"
 category: page
 permalink: /010
+thumbnail: pages/comic/PQ_009_1.png
 ---
 # >собрать пару растений и двигаться в сторону города
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_009_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_009_2.png)
 
 Выйдя из комнаты, ты решаешь осмотреться, а затем идти к увиденному <strong>поселению</strong>. За собой ты видишь <strong>огромные скалы</strong>, простирающиеся до самого горизонта (точнее, его подземного аналога, если такой существует). Становится ясно, что эти скалы являются частью <strong>стены пещеры</strong>, и <strong>ты сейчас находишься на самом её краю</strong>.
 
@@ -20,12 +21,12 @@ permalink: /010
 <blockquote><strong>МЕРЦАЮЩИЙ БУТОН</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_009_3.png)
 
 Путь до поселения <strong>совсем не близкий</strong>, поэтому <strong>ты тут же выдвигаешься в его сторону</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_009_4.png)
 
 На своём пути ты встречаешь <strong>необычного зверя</strong>. Его голова и тело покрыты <strong>растениями</strong>, похожими на те, которые ты недавно сорвал. <strong>Существо агрессивно двигается к тебе</strong>.
 

@@ -4,8 +4,9 @@ date:   2018-01-03 00:00:00 -0700
 title: ">Джонни Надеревьев"
 category: page
 permalink: /002
+thumbnail: pages/comic/PQ_001_1.png
 ---
 # >Джонни Надеревьев
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_001_1.png)
