@@ -222,13 +222,6 @@ space it's allowed to - the game-wrapper will set the bounds.
   }
 }
 
-@media (max-width: 800px) {
-
-  .godot-wrapper-600x800 {
-    margin: 30px auto;
-  }
-}
-
 @media (max-width: 767.98px) {
   .navigation a {
     font-size: 12px;
