@@ -1,5 +1,5 @@
 ---
-layout: comic
+layout: comic-800px-content
 date:   2018-08-22 00:00:00 -0700
 title: "▶️ >запитать компьютер"
 category: page
