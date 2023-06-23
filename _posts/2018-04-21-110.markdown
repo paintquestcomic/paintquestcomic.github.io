@@ -1,5 +1,5 @@
 ---
-layout: comic
+layout: comic-600px
 date:   2018-04-21 00:00:00 -0700
 title: "▶️ >что покупаем, что продаём?"
 category: page
