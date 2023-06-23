@@ -1,5 +1,7 @@
 <div class="godot-wrapper-{{ include.size }}">
     <div class="game-wrapper">
-        <iframe src="{{ site.url }}/{{ include.game }}" class="game-frame" title="${ANY_TITLE_HERE}"></iframe>
+        <iframe src="{{ site.url }}/{{ include.game }}" class="game-frame">
+            <p>Ой-ёй! Не знаю, через что ты читаешь PaintQuest, но это что-то не поддерживает iframe. Можешь попробовать просмотреть контент в <a href="{{ site.url }}/{{ include.fallback }}">оригинальной версии</a>.</p>
+        </iframe>
     </div>
 </div>

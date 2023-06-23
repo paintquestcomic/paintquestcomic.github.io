@@ -1,43 +1,68 @@
-
 <!DOCTYPE html>
 
 <!--FRONT PAGE LAYOUT-->
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      const contentWidth = 800;
+      // Get the viewport width
+      const viewportWidth = Math.max(
+        document.documentElement.clientWidth || 0,
+        window.innerWidth || 0
+      );
 
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="▶️ >запитать компьютер">
-    <meta property="og:site_name" content="▶️ >запитать компьютер">
-    <meta property="og:description" content="▶️ >запитать компьютер">
-    <meta name="theme-color" content="#9badb7">
+      // Calculate the desired initial scale value
+      const initialScale = viewportWidth / contentWidth;
+
+      // Set the initial scale dynamically
+      document
+        .querySelector('meta[name="viewport"]')
+        .setAttribute(
+          "content",
+          "width=" + contentWidth + ", initial-scale=" + initialScale
+        );
+    </script>
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="▶️ >запитать компьютер" />
+    <meta property="og:site_name" content="▶️ >запитать компьютер" />
+    <meta property="og:description" content="▶️ >запитать компьютер" />
+    <meta name="theme-color" content="#9badb7" />
     <!-- <meta property="og:description" content="Write the body text here"> -->
-    <meta property="og:image" content="http://localhost:4000/pages/REPLACE.png">
+    <meta property="og:image" content="http://localhost:4000/pages/REPLACE.png" />
 
     <!-- <title>PaintQuest</title> -->
     <title>▶️ >запитать компьютер</title>
-    <link rel="shortcut icon" href="../assets/favicon.ico">
+    <link rel="shortcut icon" href="../assets/favicon.ico" />
 
     <!-- Bootstrap core CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
 
     <!-- Custom styles for webcomic -->
-    <link href="http://localhost:4000/css/comic.css" rel="stylesheet">
+    <link href="http://localhost:4000/css/comic.css" rel="stylesheet" />
     <!--Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Arvo|Fredoka+One|Roboto" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Arvo|Fredoka+One|Roboto"
+      rel="stylesheet"
+    />
 
     <!-- Font Awesome-->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
+    <link
+      href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
-
     <div class="container-md header">
     <a href=http://localhost:4000>
         <img src="/assets/header_logo_small.png" class="img-responsive" alt="PaintQuest">
@@ -63,9 +88,15 @@
     <div class="main">
       <div class="panel container-md">
         <div class="content">
-            <h1 id="️-запитать-компьютер">▶️ &gt;запитать компьютер</h1>
+          <h1 id="️-запитать-компьютер">▶️ &gt;запитать компьютер</h1>
 
-<p class="p-ignore"><img src="http://localhost:4000/pages/REPLACE.png" alt="" /></p>
+<div class="godot-wrapper-600x800">
+    <div class="game-wrapper">
+        <iframe src="http://localhost:4000/assets/games/233/index.html" class="game-frame">
+            <p>Ой-ёй! Не знаю, через что ты читаешь PaintQuest, но это что-то не поддерживает iframe. Можешь попробовать просмотреть контент в <a href="http://localhost:4000/paintquest-233/">оригинальной версии</a>.</p>
+        </iframe>
+    </div>
+</div>
 
 <p><strong>Запитать компьютер.</strong></p>
 
@@ -77,26 +108,17 @@
 
 <p><em>Что ж.</em></p>
 
-<p><em>Есть лишь <strong>один способ</strong> узнать наверняка:</em></p>
-
-<div class="godot-wrapper-600x800">
-    <div class="game-wrapper">
-        <iframe src="http://localhost:4000/assets/games/233/index.html" class="game-frame" title="${ANY_TITLE_HERE}"></iframe>
-    </div>
-</div>
+<p><em>Есть лишь <strong>один способ</strong> узнать наверняка.</em></p>
 
 <p><em>Кто знает, какие тайны скрывает эта машина. Какие возможности.</em></p>
-
-            
-            <div class="page-controls">
+  <div class="page-controls">
     
     <div><a href= http://localhost:4000/232 >PREVIOUS</a></div>
     
     
     <div><a href= http://localhost:4000/234 >NEXT</a></div>
     
-</div>
-            
+</div> 
         </div>
       </div>
     </div>
@@ -108,9 +130,9 @@
 </div>
 
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>

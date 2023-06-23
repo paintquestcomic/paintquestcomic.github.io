@@ -7,8 +7,7 @@ permalink: /110
 ---
 # ▶️ >что покупаем, что продаём?
 
-{: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+{% include interactive.html game="assets/games/110/PQ Codebox.html" size="450x600" fallback="paintquest-110/" %}
 
 Да, посмотреть <strong>ассортимент </strong>товара действительно было бы <strong>непл-</strong>
 
@@ -18,8 +17,6 @@ permalink: /110
 
 <em>Зачем? Чем он отличается от старого? Что тут вообще происходит?</em>
 
-<em>А почему бы тебе, читатель, <strong>самому не проверить</strong>?
-
-{% include interactive.html game="assets/games/110/PQ Codebox.html" size="450x600" %}
+<em>А почему бы тебе, читатель, <strong>самому не проверить</strong> (кликнув на плавающий пузырёк, например)?
 
 <em>(Надеюсь, что всё сработает. Конечно, никто не отменял технических неполадок, но я сделал всё, что было в моих силах.)</em>

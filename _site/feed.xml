@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Jun 2023 06:45:29 +0300</pubDate>
-    <lastBuildDate>Fri, 23 Jun 2023 06:45:29 +0300</lastBuildDate>
+    <pubDate>Fri, 23 Jun 2023 17:08:25 +0300</pubDate>
+    <lastBuildDate>Fri, 23 Jun 2023 17:08:25 +0300</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -169,7 +169,13 @@
         <title>▶️ &gt;подобрать лиру</title>
         <description>&lt;h1 id=&quot;️-подобрать-лиру&quot;&gt;▶️ &amp;gt;подобрать лиру&lt;/h1&gt;
 
-&lt;p class=&quot;p-ignore&quot;&gt;&lt;img src=&quot;http://localhost:4000/pages/REPLACE.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;godot-wrapper-450x600&quot;&gt;
+    &lt;div class=&quot;game-wrapper&quot;&gt;
+        &lt;iframe src=&quot;http://localhost:4000/assets/games/277/index.html&quot; class=&quot;game-frame&quot;&gt;
+            &lt;p&gt;Ой-ёй! Не знаю, через что ты читаешь PaintQuest, но это что-то не поддерживает iframe. Можешь попробовать просмотреть контент в &lt;a href=&quot;http://localhost:4000/paintquest-277/&quot;&gt;оригинальной версии&lt;/a&gt;.&lt;/p&gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Ты подходишь поближе к &lt;strong&gt;лире &lt;/strong&gt;(&lt;em&gt;а именно так называется этот музыкальный инструмент&lt;/em&gt;).&lt;/p&gt;
 
@@ -177,13 +183,7 @@
 
 &lt;p&gt;&lt;em&gt;Вот только другие виды искусства тебе не то чтобы близки. Да, актёрское мастерство тебе прекрасно знакомо, но вот с мириадами искусств по сотворению звуков история немного другая. &lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Впрочем, тебе ничто не мешает &lt;strong&gt;попробовать&lt;/strong&gt;:&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;godot-wrapper-450x600&quot;&gt;
-    &lt;div class=&quot;game-wrapper&quot;&gt;
-        &lt;iframe src=&quot;http://localhost:4000/assets/games/277/index.html&quot; class=&quot;game-frame&quot; title=&quot;${ANY_TITLE_HERE}&quot;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Впрочем, тебе ничто не мешает &lt;strong&gt;попробовать&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Вдруг творить чудеса из чистого воздуха можно несколькими путями?&lt;/em&gt;&lt;/p&gt;
 </description>

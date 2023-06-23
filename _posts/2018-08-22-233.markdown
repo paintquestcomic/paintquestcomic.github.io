@@ -7,8 +7,7 @@ permalink: /233
 ---
 # ▶️ >запитать компьютер
 
-{: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+{% include interactive.html game="assets/games/233/index.html" size="600x800" fallback="paintquest-233/" %}
 
 <strong>Запитать компьютер.</strong>
 
@@ -20,8 +19,6 @@ permalink: /233
 
 <em>Что ж.</em>
 
-<em>Есть лишь <strong>один способ</strong> узнать наверняка:</em>
-
-{% include interactive.html game="assets/games/233/index.html" size="600x800" %}
+<em>Есть лишь <strong>один способ</strong> узнать наверняка.</em>
 
 <em>Кто знает, какие тайны скрывает эта машина. Какие возможности.</em>
