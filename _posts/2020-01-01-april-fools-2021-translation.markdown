@@ -4,6 +4,7 @@ date:   2010-01-01 11:42:56 -0700
 title: "<O>->"
 category: extra
 permalink: /april-fools-2021-translation
+thumbnail: pages/extra/aprilfools2021/april_fools_1.png
 ---
 # \<O\>->
 

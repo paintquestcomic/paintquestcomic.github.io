@@ -1,0 +1,11 @@
+---
+layout: comic-800px
+date:   2010-01-01 11:42:56 -0700
+title: "PQ Academy"
+category: extra
+permalink: /april-fools-2020
+thumbnail: pages/extra/academy/PQ_title_fools.png
+---
+<h1 class="section-title">PQ Academy</h1>
+
+{% include interactive.html game="pages/extra/academy/index.html" size="600x800" fallback="pq-academy/" %}
