@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-02-17 00:00:00 -0700
+date:   2018-08-13 00:00:00 
 title: " >дать существу кличку «Добби»"
 category: page
 permalink: /047

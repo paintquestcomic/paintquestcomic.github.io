@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-01-29 00:00:00 -0700
+date:   2018-04-03 00:00:00 
 title: ">спросить у существа про узоры на камне"
 category: page
 permalink: /028

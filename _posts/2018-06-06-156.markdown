@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-06-06 00:00:00 -0700
+date:   2019-05-02 00:00:00 
 title: ">объединить карты"
 category: page
 permalink: /156

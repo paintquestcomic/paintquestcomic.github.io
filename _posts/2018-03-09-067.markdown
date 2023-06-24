@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-03-09 00:00:00 -0700
+date:   2018-10-02 00:00:00 
 title: ">разобрать угол обзора на части"
 category: page
 permalink: /067

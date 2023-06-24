@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-08-07 00:00:00 -0700
+date:   2019-10-23 00:00:00 
 title: ">ЗАГРУЗИТЬСЯ"
 category: page
 permalink: /218

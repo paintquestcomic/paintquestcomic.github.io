@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-05-12 00:00:00 -0700
+date:   2019-02-27 00:00:00 
 title: ">запаниковать"
 category: page
 permalink: /131

@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-07-22 00:00:00 -0700
+date:   2019-09-11 00:00:00 
 title: ">сменить фоновую музыку на рэп"
 category: page
 permalink: /202

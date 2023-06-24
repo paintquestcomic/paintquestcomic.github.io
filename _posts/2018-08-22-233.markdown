@@ -1,6 +1,6 @@
 ---
 layout: comic-800px
-date:   2018-08-22 00:00:00 -0700
+date:   2020-02-28 00:00:00 
 title: "▶️ >запитать компьютер"
 category: page
 permalink: /233

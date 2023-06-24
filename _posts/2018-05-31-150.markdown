@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-05-31 00:00:00 -0700
+date:   2019-04-16 00:00:00 
 title: ">купить интерпретатор"
 category: page
 permalink: /150

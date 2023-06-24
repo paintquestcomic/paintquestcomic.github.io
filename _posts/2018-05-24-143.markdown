@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-05-24 00:00:00 -0700
+date:   2019-03-31 00:00:00 
 title: ">повернуть пару рубильников"
 category: page
 permalink: /143

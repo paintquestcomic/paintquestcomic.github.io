@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-03-10 00:00:00 -0700
+date:   2018-10-04 00:00:00 
 title: ">метнуть обмазанный мелком дротик"
 category: page
 permalink: /068

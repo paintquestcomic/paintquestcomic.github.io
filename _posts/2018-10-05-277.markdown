@@ -1,6 +1,6 @@
 ---
 layout: comic-600px
-date:   2018-10-05 00:00:00 -0700
+date:   2021-06-17 00:00:00 
 title: "▶️ >подобрать лиру"
 category: page
 permalink: /277

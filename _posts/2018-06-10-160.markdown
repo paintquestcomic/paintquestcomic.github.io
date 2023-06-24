@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-06-10 00:00:00 -0700
+date:   2019-05-10 00:00:00 
 title: ">прочитать какую-либо книгу из полки"
 category: page
 permalink: /160

@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-05-25 00:00:00 -0700
+date:   2019-04-02 00:00:00 
 title: ">выключить прожектор"
 category: page
 permalink: /144

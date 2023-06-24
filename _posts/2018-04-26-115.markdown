@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-04-26 00:00:00 -0700
+date:   2019-01-25 00:00:00 
 title: ">облизать розовые кусты"
 category: page
 permalink: /115

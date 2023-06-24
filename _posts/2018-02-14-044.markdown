@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-02-14 00:00:00 -0700
+date:   2018-08-07 00:00:00 
 title: ">зачерпнуть немного рассола и выпить"
 category: page
 permalink: /044

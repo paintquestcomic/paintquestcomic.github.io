@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-03-27 00:00:00 -0700
+date:   2018-11-07 00:00:00 
 title: ">отмечать опасные плитки мелом"
 category: page
 permalink: /085

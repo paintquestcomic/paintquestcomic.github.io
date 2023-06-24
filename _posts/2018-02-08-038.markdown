@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-02-08 00:00:00 -0700
+date:   2018-07-25 00:00:00 
 title: ">Мим"
 category: page
 permalink: /038

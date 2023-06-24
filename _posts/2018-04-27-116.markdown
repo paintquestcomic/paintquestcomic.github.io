@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-04-27 00:00:00 -0700
+date:   2019-01-28 00:00:00 
 title: ">подружиться с роботом"
 category: page
 permalink: /116

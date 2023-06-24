@@ -205,6 +205,21 @@ body {
   margin: 26px -25px;
 }
 
+
+.section-title {
+  text-align: center;
+}
+
+.archive p {
+  font-size: 16px;
+  margin-top: 1px;
+}
+
+.archive h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 /*
   game-wrapper is a div that helps preserve the aspect ratio of our game by
   leveraging percentage-based padding.

@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-03-29 00:00:00 -0700
+date:   2018-11-11 00:00:00 
 title: ">кинуть Марио верёвку"
 category: page
 permalink: /087

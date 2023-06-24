@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-10-07 00:00:00 -0700
+date:   2021-08-11 00:00:00 
 title: ">сделать Джеки \"буп\" "
 category: page
 permalink: /279

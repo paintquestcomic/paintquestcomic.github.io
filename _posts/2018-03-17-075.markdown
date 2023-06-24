@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   2018-03-17 00:00:00 -0700
+date:   2018-10-18 00:00:00 
 title: ">посмотреть окно персонажа Марио"
 category: page
 permalink: /075
