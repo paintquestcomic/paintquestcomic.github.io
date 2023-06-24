@@ -61,6 +61,8 @@ permalink: /103
 
 Ладно, для приличия (<em>и людей, у которых не загружаются картинки</em>) дам сухой <strong>список предметов в комнате</strong>:
 
+<ul><li>Большая и очень удобная на вид <strong>кровать </strong>(1);</li><li>Пустой <strong>шкаф </strong>с полками (1);</li><li><strong>Рабочий стол</strong> с ящиками (1);</li><li>Обитый тканью и довольно роскошно выглядящий <strong>стул </strong>(1);</li><li><strong>Стойка для шляп</strong> (1) и <strong>запасные шляпы</strong> на ней (2);</li><li>Картонные <strong>коробки </strong>(3, из них 1 — с дыркой);</li><li><strong>Ножницы </strong>(1);</li><li><strong>Круг</strong>, вырезанный из картона (1);</li><li><strong>Листы бумаги</strong> под кроватью (2?) и <strong>линейка </strong>(1);</li><li>Ну и, конечно, <strong>сейф</strong>.</li></ul>
+
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
