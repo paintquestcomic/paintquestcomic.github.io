@@ -243,6 +243,42 @@ space it's allowed to - the game-wrapper will set the bounds.
   height: 100%;
 }
 
+.archive-map-wrapper {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.archive-map {
+  margin: auto;
+  max-width: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.archive-map img {
+  margin: 0px
+}
+
+.archive-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px auto;
+  font-family: 'Museo';
+  font-size: 20px;
+
+}
+
+.archive-link:link { text-decoration: none; }
+
+.archive-link:visited { text-decoration: none; }
+
+.archive-link:hover { text-decoration: none; }
+
+.archive-link:active { text-decoration: none; }
+
+
 /* MEDIA QUERIES */
 /*=============================*/
 
