@@ -1,0 +1,82 @@
+---
+layout: comic
+date:   2010-01-01 11:42:56 -0700
+title: "<O>->"
+category: extra
+permalink: /april-fools-2021
+---
+# \<O\>->
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_1.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_1_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_2.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_2_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_3.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_3_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_4.gif)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_4_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_5.gif)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_5_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_6.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_6_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_7.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_7_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_8.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_8_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_9.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_9_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_10.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_10_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_11.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_11_text.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_12.png)
+
+{: .p-ignore }
+![]({{ site.url }}/pages/extra/aprilfools2021/april_fools_12_text.png)
+
+ <a class="archive-link" href="{{ site.url }}/april-fools-2021-translation">▶ Прочитать перевод ◀</a>
