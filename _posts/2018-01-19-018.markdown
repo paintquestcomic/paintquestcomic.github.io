@@ -4,31 +4,32 @@ date:   2018-03-06 00:00:00
 title: ">разрезать шар с существом и кинуть его в пасть монстра"
 category: page
 permalink: /018
+thumbnail: pages/comic/PQ_017_1.png
 ---
 # >разрезать шар с существом и кинуть его в пасть монстра
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_017_1.png)
 
 Тебе удаётся незаметно пробраться к пузырю с <strong>существом, жившем в черепе Джорика</strong>, и освободить его.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_017_2.png)
 
 Взяв <strong>существо </strong>в руку, ты начинаешь <strong>размахиваться</strong>, целясь в <strong>пасть монстра</strong>. Ты чувствуешь <strong>дрожь</strong>, проходящую по коже (?) существа.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_017_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_017_4.png)
 
 Существо попадает прямо в рот <strong>монстра</strong>, но пока ничего не происходит. Возможно, оно уже <strong>начало борьбу внутри чудовища</strong>, и сейчас вырвется наружу! Или же оно <strong>захватит контроль над монстром</strong>, и тебе не придётся продолжать сражаться! <strong>Или же…</strong>
 
 <em>Постой, мне кажется, или перед тобой раньше не было этого <strong>холма</strong>…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_017_5.png)
 
 <em>Даже не знаю, чего ты ожидал. </em>
 

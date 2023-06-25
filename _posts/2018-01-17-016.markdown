@@ -4,21 +4,22 @@ date:   2018-03-02 00:00:00
 title: ">забравшись на голову, сомкнуть челюсть монстра и этим отсечь глаз его собственными зубами"
 category: page
 permalink: /016
+thumbnail: pages/comic/PQ_015_1.png
 ---
 # >забравшись на голову, сомкнуть челюсть монстра и этим отсечь глаз его собственными зубами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_015_1.png)
 
 Прикинув дистанцию, ты разбегаешься и <strong>прыгаешь </strong>как можно выше, чтобы добраться до головы чудовища.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_015_2.png)
 
 «Теперь-то я вам покажу, что такое <strong>рестлинг</strong>», — мелькает у тебя в голове мысль, пока ты принимаешь в полёте подходящую позу.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_015_3.png)
 
 <strong>Кажется, что звон зубов слышен на всю пещеру.</strong>
 
@@ -29,12 +30,12 @@ permalink: /016
 ## >как только чудовище ослепнет, прикончить его ударом в голову
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_015_4.png)
 
 Теперь, когда ты занял <strong>стратегическую позицию</strong>, нельзя терять ни минуты. Подняв свой <strong>верный гладиус</strong>, ты тут же направляешь его в <strong>голову </strong>монстра…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_015_5.png)
 
 …и в один миг оказываешься <strong>сбитым </strong>на землю одной из <strong>клешней</strong>.
 

@@ -4,21 +4,22 @@ date:   2018-03-20 00:00:00
 title: ">узнать разрешение парадокса всемогущества, а также спросить про усы"
 category: page
 permalink: /024
+thumbnail: pages/comic/PQ_023_1.png
 ---
 # >узнать разрешение парадокса всемогущества, а также спросить про усы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_023_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *Разрешим ли парадокс всемогущества? Может ли всемогущее существо создать камень, который оно не сможет сдвинуть?*</em></blockquote>
 
 Почему-то из твоего <strong>мысленного рта</strong> вырываются именно <strong>эти </strong>слова.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ТИПИЧНАЯ ОШИБКА СМЕРТНЫХ — ВИДЕТЬ ПАРАДОКСЫ ТАМ, ГДЕ ИХ НЕТ.</em></blockquote>
 
@@ -27,15 +28,15 @@ permalink: /024
 <blockquote>МОЙ ОТВЕТ: ДА, МОЖЕТ, ПОТОМУ ЧТО ИСТИННОЕ ВСЕМОГУЩЕСТВО НЕПОДВЛАСТНО ЛОГИКЕ. "ИРОНИЧНО", ЧТО ТЫ ЗАДАЁШЬ СОВЕРШЕННО НЕЛОГИЧНЫЙ С ТВОЕЙ СТОРОНЫ ВОПРОС ПРО ЛОГИКУ.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *Постой... Мне кажется, или у тебя раньше были усы?*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_023_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— В ТВОЁМ СОЗНАНИИ Я ЧУВСТВУЮ ГЕШТАЛЬТ-ОБРАЗ ЛИЦЕВОЙ РАСТИТЕЛЬНОСТИ, СВЯЗАННЫЙ С ЛОЖНОНОЖКАМИ МОЕЙ ОБОЛОЧКИ.</em></blockquote>
 
@@ -44,9 +45,9 @@ permalink: /024
 <blockquote>ЕСЛИ ТЫ НЕ ЗАМЕТИЛ, ТО ТЕПЕРЬ Я ИСПОЛЬЗУЮ ИХ ДЛЯ УПРАВЛЕНИЯ ПРЕДОСТАВЛЕННЫМ ТОБОЙ КАРКАСОМ. НО МОЯ ОБОЛОЧКА ОБЛАДАЕТ ИСКЛЮЧИТЕЛЬНОЙ АДАПТИВНОСТЬЮ.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_023_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— </em>УЗРИ ЖЕ МОЮ МЕТАМОРФОЗУ, СМЕРТНОЕ СОЗДАНИЕ.</blockquote>

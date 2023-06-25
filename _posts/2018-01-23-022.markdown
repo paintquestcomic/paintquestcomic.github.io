@@ -4,16 +4,17 @@ date:   2018-03-14 00:00:00
 title: ">освободить Джорика и его конечности, подобрать свои вещи и осмотреться"
 category: page
 permalink: /022
+thumbnail: pages/comic/PQ_021_1.png
 ---
 # >освободить Джорика и его конечности, подобрать свои вещи и осмотреться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_021_1.png)
 
 Теперь, когда угроза быть съеденным или оказаться в клешнях монстра миновала, ты принимаешься <strong>освобождать </strong>части своего верного соратника <strong>Джорика </strong>из <strong>пузырчатых тюрьм</strong>. Последним ты освобождаешь <strong>странное существо</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_021_2.png)
 
 Ты складываешь свои <strong>находки </strong>в одну кучу, а также добавляешь к ним вырванный из клешни <strong>плащ</strong>, а также осколок <strong>гладиуса </strong>и <strong>охотничий рог</strong>, который лежал в траве неподалёку.
 
@@ -24,12 +25,12 @@ permalink: /022
 Собрав своим вещи, ты решаешь <strong>осмотреть </strong>окрестности.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_021_3.png)
 
 Ты забираешься на<strong> ближайшее дерево</strong>. С <strong>высоты </strong>тебе становится видно неизвестное <strong>поселение</strong>, до которого тебе <strong>осталось совсем немного</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_021_4.png)
 
 Спустившись, ты замечаешь <strong>странную картину</strong>: Джорика и странного существа <strong>нигде не видно</strong>, рог и осколок лежат вдалеке, а <strong>под плащом что-то лежит.</strong> 
 

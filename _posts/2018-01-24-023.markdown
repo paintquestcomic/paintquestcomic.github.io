@@ -4,16 +4,17 @@ date:   2018-03-18 00:00:00
 title: ">стащить плащ"
 category: page
 permalink: /023
+thumbnail: pages/comic/PQ_022_1.png
 ---
 # >стащить плащ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_022_1.png)
 
 Крепко взявшись за край <strong>плаща</strong>, ты осторожно начинаешь его <strong>стягивать</strong>...
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_022_2.png)
 
 Внезапно, <strong>плащ </strong>вырывается из твоих рук и уносится в сторону! От неожиданности ты на момент теряешь <strong>равновесие</strong>, но тебе удаётся сохранить <strong>баланс</strong>.
 
@@ -22,7 +23,7 @@ permalink: /023
 Внезапно, <strong>плащ останавливается</strong>, и из его дыр начинают проявляться <strong>знакомые очертания</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_022_3.png)
 
 Перед тобой стоит каким-то образом собранный и <strong>оживший скелет</strong>, чьим черепом является твой верный друг <strong>Джорик</strong>. Из черепа на тебя смотрит глаз <strong>странного существа</strong>, найденного тобой в стеклянном контейнере.
 
@@ -33,17 +34,17 @@ permalink: /023
 <strong>Твою голову резко пронзает знакомая боль</strong>. В своём разуме ты отчётливо слышишь <strong>слова</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote>— <em>Я ЖДАЛ ТОГО МОМЕНТА, КОГДА ЭТА ОБОЛОЧКА БУДЕТ СПОСОБНА КОММУНИЦИРОВАТЬ С ПРИМИТИВНЫМИ ОРГАНИЗМАМИ НА ДОСТУПНОМ ИМ УРОВНЕ. НАЙДЕННЫЙ ТОБОЙ ИХОР ЭТОМУ ПОСПОСОБСТВОВАЛ.</em></blockquote>
 
 В замешательстве от происходящего ты начинаешь <strong>отходить </strong>в сторону. <strong>Существо следует за тобой.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_022_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ТВОЯ МЫСЛИТЕЛЬНАЯ АКТИВНОСТЬ СВИДЕТЕЛЬСТВУЕТ О ТОМ, ЧТО ТЫ НАХОДИШЬСЯ В СОСТОЯНИИ "РАСТЕРЯННОСТИ". НАНЕСЕНИЕ ТВОЕЙ ФОРМЕ ВРЕДА НЕ ЯВЛЯЕТСЯ МОИМ ПРИОРИТЕТОМ, СМЕРТНОЕ СОЗДАНИЕ.</em></blockquote>
 
@@ -54,7 +55,7 @@ permalink: /023
 С сердитым выражением лица ты указываешь на <strong>место</strong>, где у тебя <strong>должен быть рот</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ТЫ СЧИТАЕШЬ, ЧТО ДЛЯ СВЯЗИ СО МНОЙ ТЕБЕ НУЖНЫ ПОДОБНЫЕ АНАТОМИЧЕСКИЕ КОНСТРУКЦИИ?</em></blockquote>
 

@@ -4,22 +4,23 @@ date:   2018-03-08 00:00:00
 title: ">прыгнуть в пасть чудовища, огибая зубы и беспорядочно размахивая гладиусом"
 category: page
 permalink: /019
+thumbnail: pages/comic/PQ_018_1.png
 ---
 # >прыгнуть в пасть чудовища, огибая зубы и беспорядочно размахивая гладиусом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_018_1.png)
 
 Крепко и угрожающе держа <strong>гладиус</strong>, ты начинаешь идти на <strong>монстра </strong>с целью <strong>нанести ему как можно больше урона</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_018_2.png)
 
 Подойдя совсем близко, ты начинаешь <strong>беспорядочно махать оружием</strong> в надежде хоть как-то <strong>поранить </strong>своего <strong>чудовищного оппонента</strong>.
 
 Одним из ударов тебе удаётся нанести монстру <strong>глубокую рану</strong>, рассекая ему <strong>губы</strong>. Чудовище издаёт <strong>рёв </strong>боли.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_018_3.png)
 
 Внезапно, одна из <strong>клешней </strong>монстра пытается <strong>сокрушить </strong>тебя, но промахнувшись, вместо этого <strong>хватает</strong> тебя за твой импровизированный <strong>плащ</strong> и <strong>поднимает в воздух</strong>, тем самым предотвращая твою суицидальную атаку.

@@ -4,14 +4,15 @@ date:   2018-02-22 00:00:00
 title: ">пробурить отверстие в роге гладиусом"
 category: page
 permalink: /013
+thumbnail: pages/comic/PQ_012_1.png
 ---
 # >пробурить отверстие в роге гладиусом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_2.png)
 
 Надо бы найти применение твоей находке. Возможно, у тебя получится сделать <strong>охотничий рог</strong>. Ты берёшь свой <strong>гладиус</strong> и начинаешь бурить отверстие в основании рога.
 
@@ -22,26 +23,26 @@ permalink: /013
 ## >дунуть... дуть. Ну, в рог, конечно же
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_3.png)
 
 Пришло время проверить своё <strong>изобретение</strong>. Приняв позу подраматичнее, ты начинаешь <strong>дуть со всей силы в рог</strong>!
 
 …вот только <strong>звука нет</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_4.png)
 
 У тебя определённые догадки <strong>анатомического </strong>плана на этот счёт. Странно, что ты этого <strong>раньше не замечал</strong>.
 
 ## >искать одноногие кровавые следы и идти по ним
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_5.png)
 
 Хорошенько осмотрев местность вокруг, ты действительно находишь <strong>кровавые следы</strong> и решаешь идти по ним. Ты прошёл через довольно многое с этим <strong>скелетом</strong>, в конце концов.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_012_6.png)
 
 Следы приводят тебя в <strong>холмистую местность</strong>, испещрённую мелкими <strong>норами</strong>, из которых то и дело выползают <strong>насекомые</strong>, доселе незнакомые тебе.
 

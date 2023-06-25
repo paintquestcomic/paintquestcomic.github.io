@@ -4,19 +4,20 @@ date:   2018-03-04 00:00:00
 title: ">отвлечь монстра с помощью рога, чтобы он потерял твоё местоположение"
 category: page
 permalink: /017
+thumbnail: pages/comic/PQ_016_1.png
 ---
 # >отвлечь монстра с помощью рога, чтобы он потерял твоё местоположение
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_016_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_016_2.png)
 
 Во время своего падения тебе удаётся выбросить<strong> охотничий рог</strong> из своего <strong>инвентаря</strong>. Воздух в брошенном роге начал вибрировать при ударе о землю, и <strong>громкий гул </strong>привлёк внимание <strong>лишённого зрения</strong> чудовища.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_016_3.png)
 
 Пока монстр был <strong>отвлечён</strong>, ты успел успешно приземлиться и бесшумно отойти в сторону. <strong>Замерев</strong>, ты наблюдаешь за тем, как <strong>зверь </strong>в замешательстве <strong>пытается осознать происходящее</strong>.
 

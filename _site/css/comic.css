@@ -279,6 +279,51 @@ space it's allowed to - the game-wrapper will set the bounds.
 .archive-link:active { text-decoration: none; }
 
 
+.extra-item {
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #9BADB7;
+  padding: 5px 20px;
+  max-width: 500px;
+}
+
+.extra-img {
+  margin: 10px auto 0px !important;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  max-height: 250px;
+}
+
+.extra-description {
+  font-family: "Upheaval" !important;
+  font-size: 20px !important;
+  background-color: #222034;
+  line-height: 120% !important;
+  border-radius: 10px;
+  padding: 2px 20px !important;
+  color: white;
+  margin: 10px auto 5px !important;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+}
+
+.extra-link {
+  background-color: white;
+  font-family: "DoNotPress";
+  font-size: 16px;
+  margin: 5px auto;
+  padding: 3px 35px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+}
+
 /* MEDIA QUERIES */
 /*=============================*/
 

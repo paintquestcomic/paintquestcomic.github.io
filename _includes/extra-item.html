@@ -1,0 +1,9 @@
+<div class="extra-item">
+    <img src="{{ site.url }}{{ include.thumbnail }}" class="extra-img" alt="PaintQuest">
+    <p class="extra-description">{{ include.description }}</p>
+    {% if include.download %}
+    <a class="extra-link" href="{{ site.url }}{{ include.link }}" download="{{ include.download }}">>СКАЧАТЬ</a>
+    {% else %}
+    <a class="extra-link" href="{{ site.url }}{{ include.link }}" >>ОТКРЫТЬ</a>
+    {% endif %}
+</div>
