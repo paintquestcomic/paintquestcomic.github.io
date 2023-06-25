@@ -103,4 +103,4 @@ permalink: /244
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<em>Перед тобой <strong>Архимед, Трансмутатор-Изгнанник.</strong></em>
+<em>Перед тобой <strong><strong>Архимед, Трансмутатор-Изгнанник.</strong></strong></em>

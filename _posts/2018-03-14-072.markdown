@@ -59,7 +59,7 @@ permalink: /072
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<em>Перед вами <strong>Босс Робот, Цельнометаллический Зверь.</strong></em>
+<em>Перед вами <strong><strong>Босс Робот, Цельнометаллический Зверь.</strong></strong></em>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
@@ -69,7 +69,7 @@ permalink: /072
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<cite><strong>Гарри и Марио </strong>VS <strong>Босс Робот</strong></cite>
+<cite><strong><em>Гарри и Марио</em> </strong>VS <strong><em>Босс Робот</em></strong></cite>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)

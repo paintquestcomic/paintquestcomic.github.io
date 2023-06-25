@@ -63,7 +63,7 @@ permalink: /108
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<em>Где бы ты мог видеть <strong>рыбу</strong>…</em>
+<em>Где бы ты мог видеть <strong><strong>рыбу</strong></strong>…</em>
 
 <strong>Рыба</strong>, ха? Если бы ты видел где-то рыбу, ты бы точно запомнил, <strong>верн-</strong>
 

@@ -42,36 +42,36 @@ permalink: /074
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<strong>Конечно же. </strong>
+<strong>Конечно же<em>. </em></strong>
 
-<strong>Ответ всегда был внутри тебя.</strong>
-
-{: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
-
-<strong>Ты не занимаешься трюками. Трюки творят клоуны и шарлатаны. Ты не клоун, и ты не шарлатан.</strong>
-
-<strong>Ты тот, кто отринул свой Глас. Кто понял, что бренный звук голоса скрывает твой истинный потенциал.</strong>
-
-<strong>Теперь тебя ничего не сковывает.</strong>
-
-<strong>Ты не занимаешься трюками.</strong>
+<strong><em>Ответ всегда был внутри тебя.</em></strong>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<strong>Ты творишь чудеса из чистого воздуха.</strong>
+<strong><em>Ты не занимаешься трюками. Трюки творят клоуны и шарлатаны. Ты не клоун, и ты не шарлатан.</em></strong>
 
-<strong>Тебе не нужно притворяться, что перед тобой есть стена.</strong>
+<strong><em>Ты тот, кто отринул свой Глас. Кто понял, что бренный звук голоса скрывает твой истинный потенциал.</em></strong>
+
+<strong><em>Теперь тебя ничего не сковывает.</em></strong>
+
+<strong><em>Ты не занимаешься трюками.</em></strong>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<strong>Она была тут всё это время.</strong>
+<strong><em>Ты творишь чудеса из чистого воздуха.</em></strong>
+
+<strong><em>Тебе не нужно притворяться, что перед тобой есть стена.</em></strong>
+
+{: .p-ignore }
+![]({{ site.url }}/pages/REPLACE.png)
+
+<strong><em>Она была тут всё это время.</em></strong>
 
 <strong>…</strong>
 
-<strong>Просто до этого ты решал её не замечать.</strong>
+<strong><em>Просто до этого ты решал её не замечать.</em></strong>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)

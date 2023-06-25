@@ -32,7 +32,7 @@ permalink: /034
 
 Это плохо. <strong>Очень</strong> плохо.
 
-<strong>Ну же, приходи в себя, давай!</strong>
+<strong><em>Ну же, приходи в себя, давай!</em></strong>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)

@@ -16,7 +16,7 @@ permalink: /077
 
 Осталось только дождаться падения <strong>шлакоблока</strong>, ведь он может упасть<strong> в любой момент.</strong>
 
-<em>В <strong>любой </strong>момент.</em>
+<em>В <strong><strong>любой </strong></strong>момент.</em>
 
 <strong>В люб-</strong>
 

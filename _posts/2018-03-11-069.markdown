@@ -19,7 +19,7 @@ permalink: /069
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<strong>Дай-ка мелок сюда.</strong>
+<strong><em>Дай-ка мелок сюда.</em></strong>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)

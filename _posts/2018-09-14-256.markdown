@@ -47,4 +47,4 @@ permalink: /256
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<em>Перед тобой <strong>Архимед, Уже-Не-Крыса.</strong></em>
+<em>Перед тобой <strong><strong>Архимед, Уже-Не-Крыса.</strong></strong></em>

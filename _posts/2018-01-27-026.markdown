@@ -40,7 +40,7 @@ permalink: /026
 
 Судя по всему, это существо напрашивается в твои <strong>компаньоны</strong>.
 
-<blockquote><strong>???</strong> ПРИСОЕДИНЯЕТСЯ К ПАРТИИ!</blockquote>
+<blockquote><strong><em>???</em></strong> ПРИСОЕДИНЯЕТСЯ К ПАРТИИ!</blockquote>
 
 Вместе вы идёте в сторону <strong>поселения</strong>.
 

@@ -31,7 +31,7 @@ thumbnail: pages/comic/PQ_022_1.png
 
 Ты вспоминаешь, как <strong>не мог найти Джорика</strong> после случая с гриболюдом. Становится очевидно, что тогда <strong>скелет ушёл сам</strong>.
 
-<strong>Твою голову резко пронзает знакомая боль</strong>. В своём разуме ты отчётливо слышишь <strong>слова</strong>.
+<strong><em>Твою голову резко пронзает знакомая боль</em></strong>. В своём разуме ты отчётливо слышишь <strong>слова</strong>.
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)

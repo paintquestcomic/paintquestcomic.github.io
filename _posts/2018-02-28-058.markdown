@@ -24,7 +24,7 @@ permalink: /058
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><em>— В этих местах я известен как <strong>Фангус Праотец</strong>. Долгие годы я взращивал в своём теле <strong>споры </strong>— это была моя <strong>судьба</strong>, моё предназначение. Теперь оно подошло к концу.</em></blockquote>
+<blockquote><em>— В этих местах я известен как <strong><strong>Фангус Праотец</strong></strong>. Долгие годы я взращивал в своём теле <strong><strong>споры </strong></strong>— это была моя <strong><strong>судьба</strong></strong>, моё предназначение. Теперь оно подошло к концу.</em></blockquote>
 
 <blockquote><strong>Я умираю</strong>.</blockquote>
 
@@ -112,10 +112,10 @@ permalink: /058
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><em>— Мда. Сочту это за <strong>да</strong>.</em></blockquote>
+<blockquote><em>— Мда. Сочту это за <strong><strong>да</strong></strong>.</em></blockquote>
 
 <blockquote>(Видимо, будет труднее, чем я себе представлял).</blockquote>
 
 Ну конечно же! Как миму, тебе не положено <strong>произносить слова</strong>, однако твой неповторимый талант <strong>пантомимы </strong>позволит тебе общаться при помощи <strong>идеограмм</strong>!
 
-(<em>Ну или</em> <strong>эмодзи</strong>, или как там сейчас модно говорить. Короче, если хочешь с кем-то поговорить: слова — нет, маленькие картинки — да.) 
+(<em>Ну или</em> <strong><em>эмодзи</em></strong>, или как там сейчас модно говорить. Короче, если хочешь с кем-то поговорить: слова — нет, маленькие картинки — да.) 

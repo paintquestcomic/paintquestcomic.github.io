@@ -35,7 +35,7 @@ permalink: /094
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><strong>КУБИКИ СО СТРАННЫМИ СИМВОЛАМИ</strong> ДОБАВЛЕНЫ В ИНВЕНТАРЬ</blockquote>
+<blockquote><strong><em>КУБИКИ СО СТРАННЫМИ СИМВОЛАМИ</em></strong> ДОБАВЛЕНЫ В ИНВЕНТАРЬ</blockquote>
 
 В результате всех этих <strong>инвентарных манипуляций </strong>у тебя появилась одна <strong>свободная ячейка</strong> инвентаря, к слову.
 

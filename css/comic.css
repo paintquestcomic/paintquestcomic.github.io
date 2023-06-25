@@ -156,6 +156,33 @@ body {
   margin-top: 12px;
 }
 
+.content cite {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-style: normal;
+}
+
+.content cite::before {
+  margin: 0px 40% 25px;
+  display: block;
+  content: "";
+  background-color: #222034;
+  border-width: 0px 0px 2px 0px;
+  border-color: black;
+  border-style: solid;
+}
+
+.content cite::after {
+  margin: 25px 40% 0px;
+  display: block;
+  content: "";
+  background-color: #222034;
+  border-width: 2px 0px 0px 2px;
+  border-color: black;
+  border-style: solid;
+}
+
 .content blockquote {
   font-family: 'PT Serif';
   font-size: 19px;

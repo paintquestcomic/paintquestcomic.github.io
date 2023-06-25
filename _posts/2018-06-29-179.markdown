@@ -78,7 +78,7 @@ permalink: /179
 
 <strong>Исчезновение!</strong>
 
-<em>Вот <strong>поэтому </strong>классику надо любить.</em>
+<em>Вот <strong><strong>поэтому </strong></strong>классику надо любить.</em>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)

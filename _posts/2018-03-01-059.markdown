@@ -50,4 +50,4 @@ permalink: /059
 
 <blockquote><em>Я даю тебе последний шанс. Один. Последний. Шанс. </em></blockquote>
 
-<blockquote><em>А то есть подозрение, что у Фангуса взыграл его маразм, и он выбрал <strong>не</strong> <strong>того</strong>.</em></blockquote>
+<blockquote><em>А то есть подозрение, что у Фангуса взыграл его маразм, и он выбрал <strong><strong>не</strong></strong> <strong><strong>того</strong></strong>.</em></blockquote>

@@ -69,7 +69,7 @@ permalink: /096
 
 <blockquote><em>— Что это такое? Ты угощаешь меня? Или, скорее, пытаешься уважить?</em></blockquote>
 
-<blockquote><em>Рискованный шаг, сразу переходить к делу. <strong>Мне нравится!</strong></em></blockquote>
+<blockquote><em>Рискованный шаг, сразу переходить к делу. <strong><strong>Мне нравится!</strong></strong></em></blockquote>
 
 <blockquote>Возможно, у нас получиться разрешить эту ситуацию без насилия. Мы же все тут цивилизованные люди!</blockquote>
 

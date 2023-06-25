@@ -16,7 +16,7 @@ permalink: /057
 
 Такое чувство, будто бы они и <strong>были </strong>частью гриба.
 
-<em>Будто гриб <strong>хочет</strong>, чтобы на него залезли.</em>
+<em>Будто гриб <strong><strong>хочет</strong></strong>, чтобы на него залезли.</em>
 
 Ты <strong>взбираешься </strong>на гриб. После того, как лестница кончается, ты залезаешь на одну из больших шляпок.
 
@@ -33,7 +33,7 @@ permalink: /057
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><em>— Ты прав, дитя моё. Это <strong>он</strong>.</em></blockquote>
+<blockquote><em>— Ты прав, дитя моё. Это <strong><strong>он</strong></strong>.</em></blockquote>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
@@ -52,7 +52,7 @@ permalink: /057
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><em>— Я не в праве заставлять тебя что-то делать, но я <strong>Знаю</strong>, что твоя судьба переплетена с нашими судьбами.</em></blockquote>
+<blockquote><em>— Я не в праве заставлять тебя что-то делать, но я <strong><strong>Знаю</strong></strong>, что твоя судьба переплетена с нашими судьбами.</em></blockquote>
 
 <blockquote>И с судьбой <strong>Джонни</strong>.</blockquote>
 
@@ -71,9 +71,9 @@ permalink: /057
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><strong>— Принимаешь ли ты свою судьбу?</strong></blockquote>
+<blockquote><strong><em>— Принимаешь ли ты свою судьбу?</em></strong></blockquote>
 
 {: .p-ignore }
 ![]({{ site.url }}/pages/REPLACE.png)
 
-<blockquote><em>—<strong> </strong></em>Хотя, на самом деле я спрашиваю вовсе не Гарри, не так ли?</blockquote>
+<blockquote><em>—<strong><strong> </strong></strong></em>Хотя, на самом деле я спрашиваю вовсе не Гарри, не так ли?</blockquote>
