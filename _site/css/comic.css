@@ -87,21 +87,60 @@ body {
 .panel {
   background-color: white;
   margin: 0px auto 20px;
-  padding: 5px 0px 20px;
+  padding: 5px 0px 30px;
   display: flex;
   justify-content: center;
   max-width: 900px;
 }
 
 .page-controls {
-  padding: 30px 0px 30px;
+  margin: 45px auto 10px;
+  width: fit-content;
   display: flex;
   align-items: center;
+  padding: 5px 10px;
   justify-content: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  background-color: #222034;
+  border-radius: 50px;
 }
 
-.page-controls div {
-  margin: 0px 5px
+/* .page-controls div {
+} */
+
+/* .page-controls div:first-of-type {
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 1px 0px 0px;
+}
+
+.page-controls div + div {
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 0px 0px 1px;
+} */
+
+.page-controls a {
+  padding: 0px 20px;
+  color: white;
+  font-size: 20px;
+  font-family: 'DoNotPress';
+}
+
+.page-controls a:link { text-decoration: none; }
+
+.page-controls a:visited { text-decoration: none; }
+
+.page-controls a:hover { 
+  text-decoration: none;
+  color: #FBF236; 
+}
+
+.page-controls a:active { 
+  text-decoration: none;
+  color: #FBF236; 
 }
 
 .content {

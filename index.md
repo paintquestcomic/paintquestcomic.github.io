@@ -3,9 +3,8 @@ layout: default
 title: About
 permalink: /index.html
 ---
-# Welcome to the Plain Webcomic Live Demo!
+{{ site.categories.page.first.content }}
 
-This is a Jekyll theme that you can host using Github pages.
-Read the Startup Guide to learn how to use this code.
-
-<a href="https://peahatlanding.github.io/Plain-Webcomic/docs/index.html" class="btn btn-primary" role="button" aria-disabled="true">Plain Webcomic Theme Guide</a>
+<div class="page-controls">
+    <div><a href="{{ site.url }}{{ site.categories.page.first.previous.url }}">◀ НАЗАД</a></div>
+</div>

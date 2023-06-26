@@ -1,8 +1,8 @@
 <div class="page-controls">
     {% if page.permalink != site.categories.page.last.permalink %}
-    <div><a href= {{ site.url }}{{ page.previous.url }} >PREVIOUS</a></div>
+    <div><a href= {{ site.url }}{{ page.previous.url }} >◀ НАЗАД</a></div>
     {% endif %}
     {% if page.permalink != site.categories.page.first.permalink %}
-    <div><a href= {{ site.url }}{{ page.next.url }} >NEXT</a></div>
+    <div><a href= {{ site.url }}{{ page.next.url }} >ВПЕРЁД ▶</a></div>
     {% endif %}
 </div>
