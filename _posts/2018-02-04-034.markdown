@@ -8,7 +8,7 @@ permalink: /034
 # >_
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_1.png)
 
 <strong>Необычайно быстро продумав свои дальнейшие действия</strong>, ты…
 
@@ -19,14 +19,14 @@ permalink: /034
 Подождите, что, <strong>совсем</strong>? В <strong>такой </strong>ситуации? Ты понимаешь, что они сейчас <strong>придут в себя</strong> и <strong>морду тебе набьют</strong>!? Смотри, один уже <strong>замахивается</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_2.png)
 
 Удар был <strong>точный</strong>, по <strong>неподвижной </strong>цели бить легко. Твой взор заполняет яростная физиономия гриболюда…
 
 …ты там что, <strong>сознание</strong> <strong>теряешь</strong>!? Послушай, это уже не шутки, мы тут о твоей жизни говорим! Подожди там, может, сможешь <strong>контратаковать</strong>! <em>Стоит только…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_3.png)
 
 О нет.
 
@@ -35,7 +35,7 @@ permalink: /034
 <strong><em>Ну же, приходи в себя, давай!</em></strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_4.png)
 
 Что?
 
@@ -48,7 +48,7 @@ permalink: /034
 Дай мне пару секунд…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_5.png)
 
 <em>Командная строка пуста. Не было набрано ни единого символа.</em>
 
@@ -81,7 +81,7 @@ permalink: /034
 Может, я смогу продолжить игру. Разобраться с автоматом. Правда, для этого мне потребуется время.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_033_6.png)
 
 Побудь пока здесь. Если я быстро не справлюсь (а быстро я точно не справлюсь), то в ближайшее время…
 

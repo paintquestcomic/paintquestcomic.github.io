@@ -8,7 +8,7 @@ permalink: /040
 # >проверить сторону четвёртой стены 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_1.png)
 
 Твой <strong>угол обзора</strong> вновь поворачивается на 90 градусов, открывая <strong>оставшееся пространство комнаты</strong>. 
 
@@ -17,14 +17,14 @@ permalink: /040
 Осталось проверить саму <strong>четвёртую стену</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_2.png)
 
 Ну, если она раньше была, то теперь её точно нет.
 
 ## >проверить содержимое бочки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_3.png)
 
 Ты зачерпываешь из <strong>бочки </strong>полную руку <strong>зеленоватой жидкости</strong>. Ты решаешь проверить её свойства <strong>самым очевидным на данный момент способом</strong>.
 
@@ -33,7 +33,7 @@ permalink: /040
 ## >попробовать снять люк и проверить, что под подушкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_4.png)
 
 Перевернув <strong>подушку </strong>на бок, ты находишь под ней <strong>ключ</strong>. Как и следовало ожидать, он <strong>нарисован </strong>на полу. <strong>Простыня </strong>тоже нарисована.
 
@@ -42,11 +42,11 @@ permalink: /040
 ## >посмотреть, что за окном
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_5.png)
 
 Перетащив с большими усилиями полную огуречной жидкости <strong>бочку</strong> к окну, ты взбираешься на ещё скользкую от рассола крышку и <strong>выглядываешь </strong>наружу.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_039_6.png)
 
 В темноте тебе ничего не удаётся разглядеть.

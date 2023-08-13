@@ -8,7 +8,7 @@ permalink: /047
 #  >дать существу кличку «Добби»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_1.png)
 
 Когда у тебя наконец-то появляется <strong>имя </strong>для твоего <strong>подмастерья</strong>, по твоей спине пробегают мурашки. Не зная, почему, ты чувствуешь какой-то необоснованный <strong>страх</strong>.
 
@@ -19,7 +19,7 @@ permalink: /047
 ## >дать существу другую кличку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_2.png)
 
 Некоторое время ты проводишь за придумыванием нового <strong>имени</strong>. Ты почти остановился на «<strong>Ушастике</strong>», но потом понял, что это не особо <strong>оригинально </strong>с твоей стороны (<em>и, скорее всего, не очень политкорректно</em>).
 
@@ -28,19 +28,19 @@ permalink: /047
 ## >развязать Марио и вытащить кляп из его рта
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_3.png)
 
 Ты решаешь, что пришла пора <strong>освободить </strong>Марио. Ты развязываешь <strong>верёвку </strong>вокруг него, а также снимаешь <strong>кляп</strong>. Будем надеяться, что он <strong>действительно </strong>освоил первый урок.
 
 Конечно же, как только <strong>Марио </strong>оказывается свободен, он начинает в панике <strong>кричать </strong>и размахивать руками.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Что ты наделал, клоун! Наверху я был в целости и сохранности! Теперь они меня точно достанут, но второй раз вешать не будут, чтоб тебя!</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_4.png)
 
 После этого он убегает в сторону <strong>западного коридора</strong>.
 
@@ -49,12 +49,12 @@ permalink: /047
 ## >cодрать с таблички остаток бумаги, на всякий случай
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_5.png)
 
 Возможно, стоит содрать <strong>бумагу </strong>с доски. Не хочется светить своим <strong>лицом </strong>в этом месте.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_046_6.png)
 
 <blockquote><strong>БУМАГА С ПОРТРЕТОМ СОМНИТЕЛЬНОЙ ХУДОЖЕСТВЕННОЙ ЦЕННОСТИ </strong>ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 

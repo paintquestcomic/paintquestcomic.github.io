@@ -8,24 +8,24 @@ permalink: /031
 # >намотать верёвку на Джорика и пойти в темноту
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_030_1.png)
 
 Подняв <strong>верёвку </strong>с пола, ты <strong>обматываешь </strong>ей костяной каркас <strong>Джорика</strong>…
 
 Подожди, как ты <strong>его </strong>назвал?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ПОДОЖДИ, КАК ТЫ МЕНЯ НАЗВАЛ? ДЖОРИК? ТЫ ДЕЙСТВИТЕЛЬНО СЧИТАЕШЬ, ЧТО МЕНЯ МОЖНО СРАВНИТЬ С БЕЗЖИЗНЕННЫМ КАРКАСОМ? МОЁ ИСТИННОЕ ИМЯ ГОРАЗДО СЛОЖНЕЕ ЭТИХ ЖИВОТНЫХ ЗВУКОВ, И НЕДОСТУПНО ДЛЯ ПОНИМАНИЯ ПРОСТЫМ СМЕРТНЫМ.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *Нет, постой, я не…*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Jorik.png)
 
 <blockquote><em>— ОДНАКО СТОИТ ЗАМЕТИТЬ, ЧТО НАЛИЧИЕ ПОДХОДЯЩЕГО ИМЕНИ УПРОСТИТ ДАЛЬНЕЙШУЮ КОММУНИКАЦИЮ. </em></blockquote>
 
@@ -36,6 +36,6 @@ permalink: /031
 Удостоверившись, что Джорик надёжно <strong>обвязан</strong>, вы вместе продвигаетесь <strong>вглубь </strong>пещеры.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_030_2.png)
 
 В другом конце пещеры ты не замечаешь ничего особо интересного, за исключением одного: <strong>трёх <em>подозрительно знакомых</em> яиц</strong>. Ты вспоминаешь, что подобные яйца охранял неизвестный <strong>зверь</strong>, который напал на тебя в начале твоего путешествия по этому подземелью.

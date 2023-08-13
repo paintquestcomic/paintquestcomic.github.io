@@ -8,22 +8,22 @@ permalink: /045
 # >осмотреть табличку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_044_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_044_2.png)
 
 На табличке закреплён <strong>клочок бумаги</strong>, часть которого явно была <strong>сорвана</strong>. На уцелевшей части остались твой <strong>портрет</strong>, нарисованный от руки, а также фрагменты <strong>текста</strong>, языка которого ты не знаешь.
 
 ## >сделать лестницу из шлакоблоков и рассмотреть существо
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_044_3.png)
 
 Из трёх лежащих в коридоре <strong>шлакоблоков </strong>и одного из твоей камеры ты собираешь импровизированную <strong>лестницу</strong>, при помощи которой можно добраться до свисающего <strong>существа</strong>. Ты взбираешься на неё.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_044_4.png)
 
 Ты начинаешь очень тщательно <strong>рассматривать </strong>существо. <strong>Очень тщательно</strong>.
 
@@ -34,6 +34,6 @@ permalink: /045
 ## >покататься на существе, как на качельке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_044_5.png)
 
 <strong>Йи</strong>-<strong>хаа!</strong>

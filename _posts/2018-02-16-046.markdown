@@ -8,31 +8,31 @@ permalink: /046
 # >раскачаться настолько сильно, что веревка порвётся
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_1.png)
 
 <strong>Что</strong>? Какой странный план. Ты действительно считаешь, что это хорошая идея? Звучит <strong>небезопасно</strong>. Да и вообще, с твоим <strong>весом </strong>и твоей <strong>силой </strong>это будет сделать довольно трудно.
 
 Зачем кому-то намеренно <strong>раскачиваться </strong>до <strong>обрыва верёвки</strong>? К тому же, эта верёвка выглядит довольно <strong>креп-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_2.png)
 
 А, нет. <em>Показалось</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_3.png)
 
 Вы с <strong>существом </strong>приземляетесь на <strong>пол</strong>. Хоть ваша <strong>посадка </strong>не была особо гладкой, вы <strong>обошлись </strong>лёгким испугом (<em>в случае связанного — не особо лёгким</em>). Рёбра целы, переломов (<em>по крайней мере, внешних</em>) нет.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_4.png)
 
 Ты прислоняешь <strong>бедолагу </strong>к стене и начинаешь обдумывать свой <strong>план действий</strong>.
 
 ## >научить существо искусству пантомимы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_5.png)
 
 <strong>И тут ты понимаешь</strong>: твой приятель <strong>молчал </strong>на протяжении всего твоего пребывания здесь. На твой взгляд, такая <strong>сноровка </strong>встречается довольно редко. У парня явно <strong>талант</strong>, нельзя его тратить впустую.
 
@@ -45,7 +45,7 @@ permalink: /046
 Ты захватываешь излишек <strong>грима </strong>со своего лица и наносишь его на <strong>существо</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_045_6.png)
 
 <blockquote><strong>ПОДМАСТЕРЬЕВ ВЗЯТО</strong>: 1</blockquote>
 

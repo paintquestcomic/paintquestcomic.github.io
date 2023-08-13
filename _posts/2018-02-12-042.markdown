@@ -8,12 +8,12 @@ permalink: /042
 # >закоротить робота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_041_1.png)
 
 Ты поджидаешь тот момент, когда <strong>робот </strong>потеряет бдительность, и <strong>бросаешь </strong>в него <strong>подушку</strong>, тем самым <strong>сбивая с ног </strong>(точнее, с колеса). В таком состоянии он совершенно <strong>беспомощен</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_041_2.png)
 
 Ты <strong>опрокидываешь </strong>на него <strong>бочку с рассолом</strong>, дабы солёная жидкость закоротила все контакты в его силиконовом мозгу.
 
@@ -22,18 +22,18 @@ permalink: /042
 <em>Чудовище ты этакое.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_041_3.png)
 
 <strong>Внезапно</strong>, на очередной волне рассола из бочки выплывает <strong>ключ</strong>. Жидкость продолжает растекаться по комнате.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_041_4.png)
 
 <strong>Ключ </strong>заканчивает свой вояж примерно <strong>в середине</strong> огромной зелёной лужи, практически занявшей весь пол камеры.
 
 Осталось только его достать.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_041_5.png)
 
 Забыл сказать — большая концентрация соли делает рассол отличным <strong>проводником тока</strong>.

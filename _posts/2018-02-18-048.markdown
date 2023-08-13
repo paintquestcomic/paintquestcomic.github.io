@@ -8,7 +8,7 @@ permalink: /048
 # >связать шлакоблок и верёвку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_1.png)
 
 Никогда не знаешь, какие <strong>опасности </strong>подстерегают за новым поворотом. Надо бы вооружиться на тот случай, если дела скатятся к <strong>насилию</strong>. 
 
@@ -19,21 +19,21 @@ permalink: /048
 Дабы не мучаться с переноской, ты помещаешь шлакоблок в ближайшее доступное неевклидово пространство — твой <strong>инвентарь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_2.png)
 
 <blockquote><strong>ШЛАКОБЛОК НА ВЕРЁВКЕ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 ## >зачерпнуть рассола в берет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_3.png)
 
 О <strong>провизии </strong>тоже надо думать, а единственный известный тебе её источник — бочка <strong>рассола</strong>.
 
 Ты возвращаешься в камеру и до краёв наполняешь <strong>берет </strong>питательной жидкостью. В руках его переносить будет трудно — высока вероятность пролить, поэтому ты освобождаешь <strong>инвентарь </strong>от <strong>ключа </strong>и кладёшь вместо него <strong>берет</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_4.png)
 
 <blockquote><strong>СОЛЁНЫЙ КЛЮЧ </strong>УБРАН ИЗ ИНВЕНТАРЯ</blockquote>
 
@@ -42,7 +42,7 @@ permalink: /048
 ## >побежать вслед за Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_6.png)
 
 <strong>Все с дороги</strong>. У тебя полный <strong>рассола </strong>берет, полные <strong>шлакоблока </strong>руки и полный <strong>мусора </strong>инвентарь.
 
@@ -53,7 +53,7 @@ permalink: /048
 Ты идёшь в <strong>западный коридор</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_047_5.png)
 
 Отлично. Перед тобой — секция пола, поделённая на <strong>квадраты </strong>с разными <strong>рисунками</strong>.
 

@@ -8,7 +8,7 @@ permalink: /039
 # >выкрутить лампочку, затем засунуть в рот и попытаться её вытащить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_038_1.png)
 
 Ты решаешь <strong>проверить </strong>истинные размеры своего рта с помощью старого трюка — <strong>засовывания лампочки в рот с последующим высовыванием</strong>. Главное, чтобы ты по ошибке не выполнил <strong>другой трюк</strong> — засовывание лампочки <strong>без </strong>высовывания. В любом случае, тебе надо достать <strong>лампочку</strong>.
 
@@ -17,16 +17,16 @@ permalink: /039
 <strong>Только над собой ты никакой лампочки не видишь.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_038_2.png)
 
 Поменяв <strong>угол обзора</strong>, ты понимаешь, что на задней стене камеры <strong>нарисована </strong>свисающая лампочка.
 
 С тяжёлым сердцем ты принимаешь тот факт, что коронному трюку с лампочкой сегодня не суждено исполниться. <em>Хуже быть не может</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_038_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_038_4.png)
 
 <strong>Ой.</strong>

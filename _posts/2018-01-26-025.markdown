@@ -8,7 +8,7 @@ permalink: /025
 # >заметить, что с усами скелет становится более привлекательным
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_024_1.png)
 
 Ты замечаешь, что <strong>усы-щупальца</strong> довольно идут скелету.
 
@@ -21,22 +21,22 @@ permalink: /025
 ## >спросить, как он оказался съеденным
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *П-постой, как ты вообще оказался в желудке у чудовища?*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— Я ОБНАРУЖИЛ БОЛЬШОЙ ИСТОЧНИК ПОТЕНЦИАЛЬНОГО ИХОРА ДЛЯ МОЕЙ ОБОЛОЧКИ. ОДНАКО, ЭТОТ ИХОР НЕ ПОДХОДИЛ ДЛЯ МОИХ НУЖД, НО КОГДА Я УЗНАЛ ОБ ЭТОМ, Я УЖЕ БЫЛ ЛИШЁН СВОЕГО КАРКАСА.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *П-п-понятно.*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— И ПО ТВОИМ ФИЗИОЛОГИЧЕСКИМ РЕАКЦИЯМ Я МОГУ СООБЩИТЬ, ЧТО ТЫ ЗАБЫЛ ТОТ ФАКТ, ЧТО Я ИМЕЮ ПРЯМОЙ ДОСТУП К РАЗУМАМ НИЗШИХ СУЩЕСТВ. </em></blockquote>
 

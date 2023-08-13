@@ -8,12 +8,12 @@ permalink: /026
 # >пойти в город за мостом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_025_1.png)
 
 Ты понимаешь, что не стоит терять время, и возвращаешься к своему исходному плану — <strong>дойти до незнакомого поселения</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_025_2.png)
 
 На всякий случай ты подбираешь свой <strong>охотничий рог</strong>.
 
@@ -22,17 +22,17 @@ permalink: /026
 Когда ты уже был готов выдвигаться, в твоём разуме снова <strong>возникают слова</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ЕСЛИ ТЫ СОБИРАЕШЬСЯ ПОКИНУТЬ ТЕКУЩУЮ ЛОКАЦИЮ, СМЕРТНЫЙ, ТО ЗНАЙ, ЧТО Я РЕШИЛ СОПРОВОЖДАТЬ ТЕБЯ.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *С чего бы это?*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— МОИ МОТИВЫ НЕВОЗМОЖНО ПОНЯТЬ НИЗШИМ ОРГАНИЗМАМ. ЕСЛИ ЖЕ ТЕБЕ ТРЕБУЕТСЯ ПРИЧИНА, ТО ОСТАНОВИМСЯ НА ТОМ, ЧТО Я СЛЕДУЮ СВОЕМУ "ЧУВСТВУ ДОЛГА" ПОСЛЕ ТОГО, КАК ТЫ ОСВОБОДИЛ МОЮ ОБОЛОЧКУ ИЗ СТЕКЛЯННОЙ ТЮРЬМЫ.</em></blockquote>
 
@@ -45,7 +45,7 @@ permalink: /026
 Вместе вы идёте в сторону <strong>поселения</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_025_3.png)
 
 Довольно быстро ты наконец-таки доходишь до <strong>моста</strong>, ведущего в поселение. Мост сделан из <strong>массивных досок</strong>, и стоит на таких же массивных <strong>деревянных сваях</strong>.
 

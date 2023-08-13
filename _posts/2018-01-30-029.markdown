@@ -8,21 +8,21 @@ permalink: /029
 # >намекнуть спутнику, что у тебя в инвентаре нет места
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_028_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *Слушай, ты не можешь…*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— ТВОЯ МОЗГОВАЯ АКТИВНОСТЬ СВИДЕТЕЛЬСТВУЕТ О ТОМ, ЧТО ТЫ ХОЧЕШЬ ПЕРЕДАТЬ МНЕ ИНФОРМАЦИЮ О НЕДОСТАТОЧНОМ ПРОСТРАНСТВЕ СОБСТВЕННОГО МЕТА-ХРАНИЛИЩА.</em></blockquote>
 
 <blockquote><em>Я ПРИМУ ДАННЫЙ ОБЪЕКТ, НО УЧТИ, ЧТО ДАННАЯ ОБОЛОЧКА НЕСПОСОБНА ПЕРЕНОСИТЬ ПРЕДМЕТЫ В ТАКОМ ЖЕ ОБЪЁМЕ, В КАКОМ СПОСОБНО ТВОЁ ТЕЛО.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_028_2.png)
 
 <blockquote><strong>ТУСКЛО СВЕТЯЩИЙ ФОНАРЬ</strong> ДОБАВЛЕН <strong>??? </strong>В ИНВЕНТАРЬ </blockquote>

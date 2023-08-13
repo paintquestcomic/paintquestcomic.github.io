@@ -8,14 +8,14 @@ permalink: /051
 # >включить звук
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_1.png)
 
 Так, послушай, у нас сейчас тут <strong>чисто аналоговые</strong> приключения. Хочешь звук? Можешь листом пошуршать, если тебе так не хватает эмбиента для <strong>погружения</strong>.
 
 Хотя, <em>сейчас я тебе устрою звук.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_2.png)
 
 Голосовой помощник неопределённого бренда, включи первый трек.
 
@@ -25,38 +25,38 @@ ADD AUDIO PLAYER HERE
 ## >аккуратно составить около балкона башню из дротиков
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_3.png)
 
 Ты ставишь все свои <strong>дротики </strong>один на другой…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_4.png)
 
 …и башня тут же <strong>рассыпается</strong>. <em>Не самая плохая твоя попытка, на самом деле.</em>
 
 ## >изменить плоскость зрения в двумерную
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_5.png)
 
 Ты решаешь вновь изменить <strong>угол обзора</strong>, и-
 
 <strong>Нет, погоди, что-то не так!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_6.png)
 
 Так, стоп-стоп-стоп-стоп-стоп! Что, чёрт тебя дери, происходит! 
 
 <strong>Угол обзора</strong> тут с ума сходит!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_7.png)
 
 Бедняга <strong>угол обзора</strong> не выдержит такой <strong>нагрузки</strong>! Его слишком потрепали твои <strong>прочие команды</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_050_8.png)
 
 Иии… он упал. Вдребезги.
 

@@ -8,9 +8,9 @@ permalink: /036
 # >Джимбо 0024
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_035_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_035_2.png)
 
 (Я знаю, ты можешь лучше. Попробуй ещё раз.)

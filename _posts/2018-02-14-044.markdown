@@ -8,7 +8,7 @@ permalink: /044
 # >зачерпнуть немного рассола и выпить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_1.png)
 
 Ты решаешь проверить, обладает ли необычайно токопроводящий <strong>рассол </strong>другими аномальными (<em>и, желательно, полезными</em>) свойствами. Ты выпиваешь немного <strong>рассола </strong>из своего <strong>берета</strong>.
 
@@ -17,17 +17,17 @@ permalink: /044
 ## >впасть в истерику и звать на помощь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_2.png)
 
 Осознав <strong>безысходность </strong>своего положения, ты решаешь <strong>позвать </strong>кого-нибудь на помощь. Ты набираешь побольше воздуха в лёгкие…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_3.png)
 
 И тут же останавливаешь себя, вспомнив, что <strong>мимам </strong>кричать не положено.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_4.png)
 
 <strong>Ситуация </strong>становится всё <strong>плачевней </strong>и <strong>плачевней</strong>. Как бы ты ни старался держать себя в руках, ощущение неизбежности <strong>конца </strong>медленно повергает тебя в г<strong>лубокую истерику</strong>. Ты чувствуешь, что вот-вот попрощаешься с рассудком.
 
@@ -36,32 +36,32 @@ permalink: /044
 ## >повернуть плоскость зрения в двухмерную
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_5.png)
 
 <strong>Угол обзора</strong>, наш старый друг, вновь <strong>меняет </strong>своё положение (<em>а также слегка выворачивается наизнанку</em>), чтобы превратиться в <strong>ортогональную проекцию комнаты</strong> (вид сбоку). С такого ракурса огуречная лужа принимает состояние <strong>квантовой неопределённости </strong>(<em>магической </em>квантовой неопределённости, если вдруг нас читают специалисты в области квантовой физики)<strong>.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_7.png)
 
 Тебя мало беспокоит <strong>пропажа целого измерения</strong>. Напротив, ты очень рад исчезновению(?) смертельной лужи. Теперь ничего не мешает слезть с подушки на пол и проделать пару шагов до <strong>шлакоблока</strong>, на который ты (чтобы быть уверенным, что не окажешься в луже) <strong>вскарабкиваешься</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_8.png)
 
 <strong>Угол обзора</strong> принимает свой прежний вид, и пространство вновь становится <strong>трёхмерным</strong>. Запертая <strong>дверь </strong>находится в шаговой доступности.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_9.png)
 
 Воспользовавшись <strong>ключом</strong>, ты освобождаешь <strong>дверь </strong>от <strong>замка</strong>. Она распахивается наружу.
 
 После столь долгого пребывания в <strong>камере</strong>, ты проделываешь свои первые шаги <strong>вне её стен</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_043_10.png)
 
 За ранее закрытой дверью тебя встречает <strong>коридор</strong>, простирающийся на <strong>запад </strong>и <strong>восток</strong>.
 

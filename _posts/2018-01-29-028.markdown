@@ -8,15 +8,15 @@ permalink: /028
 # >спросить у существа про узоры на камне
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_027_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_Johnny.png)
 
 <blockquote><em>— *Что значит этот символ на камне? Название чего-то?*</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_portrait_unknown.png)
 
 <blockquote><em>— МНЕ НЕИЗВЕСТНО ПРОИСХОЖДЕНИЕ ДАННОГО СИМВОЛА. ОН МОЖЕТ НЕСТИ РЕЛИГИОЗНЫЙ, КУЛЬТУРНЫЙ, БЫТОВОЙ, ПОЛИТИЧЕСКИЙ, ЭСТЕТИЧЕСКИЙ ИЛИ МИСТИЧЕСКИЙ "СМЫСЛ". </em></blockquote>
 
@@ -25,7 +25,7 @@ permalink: /028
 ## >попробовать создать топливо для фонаря
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_027_2.png)
 
 Ты решаешь, что в дальнейшем тебе пригодится <strong>осветительный прибор</strong>, учитывая, что <strong>свеча Джорика</strong> пришла в <strong>негодность</strong>. 
 
@@ -34,13 +34,13 @@ permalink: /028
 Измельчённые растения ты добавляешь в воду.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_027_3.png)
 
 Твои <strong>базовые знания алхимии</strong> дают тебе понять, что данная смесь не является горючей, и, как следствие, <strong>не подойдёт в качестве топлива</strong>. К счастью, <strong>люминесцентные свойства </strong>бутонов<strong> перешли на жидкость</strong>, и ты замечаешь, как содержимое рога начинает <strong>светиться</strong>.
 
 Проверив <strong>лампу </strong>на герметичность, ты вливаешь <strong>светящуюся смесь</strong> в неё.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_025_2.png)
 
 Однако, в твоём инвентаре <strong>не оказывается места</strong> для лампы, и она остаётся стоять на земле.

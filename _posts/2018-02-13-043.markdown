@@ -8,7 +8,7 @@ permalink: /043
 # >подождать, пока источник питания робота умрёт
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_1.png)
 
 Идея хорошая, <em>но...</em>
 
@@ -29,36 +29,36 @@ permalink: /043
 ## >раскачаться на решётке и перепрыгнуть лужу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_2.png)
 
 Возникшая <strong>угроза жизни</strong> наполнила твой организм достаточным количеством адреналина для того, чтобы <strong>допрыгнуть </strong>до <strong>решётки</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_3.png)
 
 Ты подбираешься к краю и, <strong>раскачавшись</strong>, <strong>спрыгиваешь </strong>в безопасный угол камеры.
 
 ## >зачерпнуть ключ беретом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_4.png)
 
 Следующая часть плана — <strong>добыча ключа</strong>. Ты довольно легковесный малый, поэтому с разгона у тебя будет шанс допрыгнуть до <strong>подушки</strong>, а в идеале — прыгнуть <strong>на </strong>подушку.
 
 Ты <strong>разгоняешься </strong>и со всей силой <strong>отталкиваешься ногами</strong> от нарисованной простыни.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_5.png)
 
 В последнее мгновение прыжка ты <strong>крепко вцепляешься</strong> почти всеми конечностями в грубую ткань <strong>подушки</strong>, лежащей поверх бездыханного(?) тела <strong>робота</strong>.
 
 Устроившись покомфортней (<em>что в твоей ситуации значит«с минимальным шансом упасть в жидкую смерть»</em>), ты снимаешь свой <strong>берет </strong>и <strong>зачерпываешь </strong>немного рассола вместе с <strong>ключом</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_042_7.png)
 
 <blockquote><strong>СОЛЁНЫЙ И СЛЕГКА ВЛАЖНЫЙ КЛЮЧ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 

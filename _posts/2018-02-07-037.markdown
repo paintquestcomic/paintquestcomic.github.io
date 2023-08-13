@@ -8,11 +8,11 @@ permalink: /037
 # >Изарий Многоклеточный
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_036_1.png)
 
 (У меня тут места не хватает, давай что-нибудь покороче.)
 
 ## >Гарри Стикман
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_036_2.png)

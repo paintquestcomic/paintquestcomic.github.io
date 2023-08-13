@@ -8,7 +8,7 @@ permalink: /049
 # >изменить пространство в двумерное и пройти без плит
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_1.png)
 
 Действительно, решать головоломки — для ботанов. Просто воспользуемся <strong>тем же простым трюком</strong>, с помощью которого мы «<em>обошли</em>» другое смертельное препятствие. 
 
@@ -17,7 +17,7 @@ permalink: /049
 Что может пойти не так, автор же <strong>не станет противоречить</strong> ранее установленной механике. Ты меняешь <strong>угол обзора</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_2.png)
 
 Чёрт, угол обзора провалился сквозь <strong>текстуры </strong>и застрял в <strong>стене</strong>. 
 
@@ -28,7 +28,7 @@ permalink: /049
 ## >аккуратно вбросить шлакоблок на каждый доступный тип плиток
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_3.png)
 
 <em>Так уже лучше.</em>
 
@@ -39,24 +39,24 @@ permalink: /049
 И… <strong>ничего не происходит? </strong>По крайней мере, не заметно, чтобы что-то происходило.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_4.png)
 
 Ты захватываешь <strong>второй шлакоблок</strong> и бросаешь его на плиту с ◄.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_5.png)
 
 Буквально через мгновение из отверстия в стене начинает выходить <strong>струя пламени</strong>.
 
 <em>Так, на эти лучше не наступать</em>. Ты осторожно убираешь шлакоблок с плиты.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_6.png)
 
 Наконец, ты перекладываешь предыдущий шлакоблок на плиту с <strong>►.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_048_7.png)
 
 Из того же отверстия на стене плотным потоком вылетает <strong>рой дротиков</strong>.
 

@@ -8,12 +8,12 @@ permalink: /038
 # >Мим
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_037_1.png)
 
 ## >ПОДТВЕРДИТЬ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_037_2.png)
 
 Тебя зовут <strong>Гарри Стикман</strong>, и ты — <strong>мим</strong>. Твоя детская мечта стать клоуном обернулась прахом в тот день, когда клинически было доказано, что у тебя полностью отсутствует <strong>чувство юмора</strong>. <em>Как же я тебя понимаю</em>.
 

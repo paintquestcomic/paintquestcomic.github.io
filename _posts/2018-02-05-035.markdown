@@ -8,13 +8,13 @@ permalink: /035
 # >НАЧАТЬ ИГРУ (опять?)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_034_1.png)
 
 (Да, с бюджетом пока натяжка. Это займёт тебя на время.)
 
 ## | СОЗДАНИЕ ПЕРСОНАЖА | (ещё раз?)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_034_2.png)
 
 (Дальше ты знаешь, что делать.)
