@@ -3,13 +3,21 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: "Droid Sans", sans-serif;
   font-size: 15px;
   color: #424142;
   padding-top: 10px;
   background-size: auto auto, 25% auto;
   background-attachment: fixed;
-  background-image: linear-gradient(to bottom, #9badb7FF, #778795FF, #576374FF, #3b4054EE, #222034DD), url('../assets/bg_texture.png');
+  background-image: linear-gradient(
+      to bottom,
+      #9badb7ff,
+      #778795ff,
+      #576374ff,
+      #3b4054ee,
+      #222034dd
+    ),
+    url("../assets/bg_texture.png");
 }
 
 .header {
@@ -51,7 +59,7 @@ body {
   color: white;
   border-radius: 20px;
   max-width: 900px;
-  font-family: 'Motorola';
+  font-family: "Motorola";
   font-size: 20px;
 }
 
@@ -72,16 +80,16 @@ body {
 .navigation a {
   color: white;
   font-size: 14px;
-  font-family: 'DoNotPress';
+  font-family: "DoNotPress";
   padding: 2px 15px;
 }
 
 .navigation a:hover {
-  color: #FBF236;
+  color: #fbf236;
 }
 
 .navigation a:focus {
-  color: #FBF236;
+  color: #fbf236;
 }
 
 .panel {
@@ -126,21 +134,25 @@ body {
   padding: 0px 20px;
   color: white;
   font-size: 20px;
-  font-family: 'DoNotPress';
+  font-family: "DoNotPress";
 }
 
-.page-controls a:link { text-decoration: none; }
-
-.page-controls a:visited { text-decoration: none; }
-
-.page-controls a:hover { 
+.page-controls a:link {
   text-decoration: none;
-  color: #FBF236; 
 }
 
-.page-controls a:active { 
+.page-controls a:visited {
   text-decoration: none;
-  color: #FBF236; 
+}
+
+.page-controls a:hover {
+  text-decoration: none;
+  color: #fbf236;
+}
+
+.page-controls a:active {
+  text-decoration: none;
+  color: #fbf236;
 }
 
 .content {
@@ -149,7 +161,7 @@ body {
 }
 
 .content h1 {
-  font-family: 'Museo';
+  font-family: "Museo";
   font-size: 38px;
   margin: 25px 15px 20px;
 }
@@ -161,7 +173,7 @@ body {
 }
 
 .content p {
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
   font-size: 19px;
   margin-top: 24px;
   line-height: 150%;
@@ -180,7 +192,7 @@ body {
 }
 
 .content li {
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
   font-size: 19px;
   margin-top: 0px;
   line-height: 150%;
@@ -221,7 +233,7 @@ body {
 }
 
 .content blockquote {
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
   font-size: 19px;
   font-style: italic;
   line-height: 150%;
@@ -247,7 +259,7 @@ body {
 }
 
 .content h2 {
-  font-family: 'Museo';
+  font-family: "Museo";
   font-size: 32px;
   margin: 26px 15px 0px;
 }
@@ -256,9 +268,8 @@ body {
   margin-top: 12px;
 }
 
-
 .content .audio-player {
-  display:flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 20px;
@@ -268,7 +279,7 @@ body {
 }
 
 .audio-player p {
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
   font-weight: bold;
   font-size: 16px;
   margin-top: 0px;
@@ -278,7 +289,6 @@ body {
   margin-bottom: 2px;
   padding-bottom: 0px;
 }
-
 
 .godot-wrapper-450x600 {
   max-width: 600px;
@@ -291,7 +301,6 @@ body {
   max-height: 600px;
   margin: 26px -25px;
 }
-
 
 .section-title {
   text-align: center;
@@ -346,7 +355,7 @@ space it's allowed to - the game-wrapper will set the bounds.
 }
 
 .archive-map img {
-  margin: 0px
+  margin: 0px;
 }
 
 .archive-link {
@@ -354,26 +363,32 @@ space it's allowed to - the game-wrapper will set the bounds.
   align-items: center;
   justify-content: center;
   margin: 25px auto;
-  font-family: 'Museo';
+  font-family: "Museo";
   font-size: 20px;
-
 }
 
-.archive-link:link { text-decoration: none; }
+.archive-link:link {
+  text-decoration: none;
+}
 
-.archive-link:visited { text-decoration: none; }
+.archive-link:visited {
+  text-decoration: none;
+}
 
-.archive-link:hover { text-decoration: none; }
+.archive-link:hover {
+  text-decoration: none;
+}
 
-.archive-link:active { text-decoration: none; }
-
+.archive-link:active {
+  text-decoration: none;
+}
 
 .extra-item {
   margin: 20px auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #9BADB7;
+  background-color: #9badb7;
   padding: 5px 20px;
   max-width: 500px;
 }
@@ -416,13 +431,11 @@ space it's allowed to - the game-wrapper will set the bounds.
 /* MEDIA QUERIES */
 /*=============================*/
 
-
 @media (max-width: 910px) {
-
   .footer {
     padding: 10px 0px 0px;
   }
-  
+
   .footer-content {
     border-radius: 0px;
   }
@@ -445,12 +458,11 @@ space it's allowed to - the game-wrapper will set the bounds.
     max-width: 750px;
     min-width: 0px;
   }
-  
+
   .content p {
     margin-left: 15px;
     margin-right: 15px;
   }
-  
 
   .content h1 {
     font-size: 32px;
@@ -463,7 +475,6 @@ space it's allowed to - the game-wrapper will set the bounds.
 }
 
 @media (max-width: 575.98px) {
-
   .content h1 {
     font-size: 28px;
   }
@@ -478,21 +489,29 @@ space it's allowed to - the game-wrapper will set the bounds.
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: "Droid Sans", sans-serif;
     font-size: 15px;
     color: #424142;
     padding-top: 10px;
     background-size: auto auto, 25% auto;
     background-attachment: fixed;
-    background-image: linear-gradient(to bottom, #3f3f74FF, #383763FF, #312f53FF, #292743EE, #222034DD), url('../assets/bg_texture.png');
+    background-image: linear-gradient(
+        to bottom,
+        #3f3f74ff,
+        #383763ff,
+        #312f53ff,
+        #292743ee,
+        #222034dd
+      ),
+      url("../assets/bg_texture.png");
   }
 
   .panel {
-    background-color: #222034;
+    background-color: #1d1c23;
   }
 
   .content {
-    color:white;
+    color: white;
   }
 }
 
@@ -500,57 +519,60 @@ space it's allowed to - the game-wrapper will set the bounds.
 /*=============================*/
 
 @font-face {
-  font-family: 'Museo';
-  src: url("../fonts/MuseoSansCyrl-700.ttf") format('truetype');
+  font-family: "Museo";
+  src: url("../fonts/MuseoSansCyrl-700.ttf")
+    format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'PT Serif';
-  src: url("../fonts/PTSerif-Regular.ttf") format('truetype');
+  font-family: "PT Serif";
+  src: url("../fonts/PTSerif-Regular.ttf")
+    format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'PT Serif';
-  src: url("../fonts/PTSerif-Italic.ttf") format('truetype');
+  font-family: "PT Serif";
+  src: url("../fonts/PTSerif-Italic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'PT Serif';
-  src: url("../fonts/PTSerif-Bold.ttf") format('truetype');
+  font-family: "PT Serif";
+  src: url("../fonts/PTSerif-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'PT Serif';
-  src: url("../fonts/PTSerif-BoldItalic.ttf") format('truetype');
+  font-family: "PT Serif";
+  src: url("../fonts/PTSerif-BoldItalic.ttf")
+    format("truetype");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Motorola';
-  src: url("../fonts/16802.ttf") format('truetype');
+  font-family: "Motorola";
+  src: url("../fonts/16802.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'DoNotPress';
-  src: url("../fonts/12659.ttf") format('truetype');
+  font-family: "DoNotPress";
+  src: url("../fonts/12659.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Upheaval';
-  src: url("../fonts/9913.ttf") format('truetype');
+  font-family: "Upheaval";
+  src: url("../fonts/9913.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
