@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-12-19 00:00:00 
+date: 2018-12-19 00:00:00
 title: ">выжидающе посмотреть на Гарри"
 category: page
 permalink: /103
 ---
+
 # >выжидающе посмотреть на Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_102_2.png)
 
 К сожалению, у тебя не получается <strong>выжидающе посмотреть</strong> на Гарри — <strong>ты и есть Гарри</strong>!
 
@@ -17,43 +18,43 @@ permalink: /103
 ## >отказаться от предложения, честный мим не взламывает вещи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_102_3.png)
 
 Ты не уверен, что заниматься <strong>взломом</strong> — хорошая идея. Мим ты — <strong>честный</strong>, <strong>опыта взлома</strong> у тебя совсем <strong>нет</strong>.
 
 <em>Да что там говорить, даже </em><strong>открытую дверь</strong><em> у вас открыть не получилось</em>. Однако, твой жест нерешительности резко перебивает <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— С-с-сейф!? Да мы его мигом взломаем, мы же профессиональные воры! Веди нас к нему!</blockquote>
 
 <blockquote>(Всё лучше, чем гнить в этой камере.)</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_102_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Неужели? В таком случае не будем терять времени — все за мной!</blockquote>
 
 <strong>Незнакомец</strong> уходит, зовя вас за собой. Ты тем временем подбираешь все свои <strong>предметы</strong> со стола — пусть пока у тебя побудут.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_102_4.png)
 
 <strong>Ты</strong> с <strong>Марио</strong> идёшь за <strong>неизвестным</strong>, который ведёт вас в <strong>соседнюю комнату</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Должен признаться, я тут обосновался некоторое время назад, так что большинство вещей тут осталось от прежнего владельца, в том числе и сейф.</blockquote>
 
 <blockquote>Не бойтесь, ничего противозаконного тут нет — сейф перешёл в моё полноправное владение вместе с домом.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_102_5.png)
 
 Вы проходите в <strong>комнату</strong>. Очевидно, что это — <strong>хозяйская спальня</strong>.
 
@@ -64,7 +65,7 @@ permalink: /103
 <ul><li>Большая и очень удобная на вид <strong>кровать </strong>(1);</li><li>Пустой <strong>шкаф </strong>с полками (1);</li><li><strong>Рабочий стол</strong> с ящиками (1);</li><li>Обитый тканью и довольно роскошно выглядящий <strong>стул </strong>(1);</li><li><strong>Стойка для шляп</strong> (1) и <strong>запасные шляпы</strong> на ней (2);</li><li>Картонные <strong>коробки </strong>(3, из них 1 — с дыркой);</li><li><strong>Ножницы </strong>(1);</li><li><strong>Круг</strong>, вырезанный из картона (1);</li><li><strong>Листы бумаги</strong> под кроватью (2?) и <strong>линейка </strong>(1);</li><li>Ну и, конечно, <strong>сейф</strong>.</li></ul>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Вот сейф, можете приступать за работу.</blockquote>
 

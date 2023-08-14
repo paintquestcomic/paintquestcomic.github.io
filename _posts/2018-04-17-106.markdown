@@ -1,45 +1,46 @@
 ---
 layout: comic
-date:   2018-12-25 00:00:00 
+date: 2018-12-25 00:00:00
 title: ">попросить тару, чтобы перелить содержимое бутылки"
 category: page
 permalink: /106
 ---
+
 # >попросить тару, чтобы перелить содержимое бутылки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_105_1.png)
 
 Не хотелось бы тратить <strong>содержимое бутылки</strong>, от которого зависит ваша свобода. Ты просишь у незнакомца что-нибудь, куда можно перелить жидкость.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— 💧🛢️ ?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Сосуд для жидкости? Странная просьба…</blockquote>
 
 <blockquote>…но вот эта цистерна должна подойти, что скажешь?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_105_2.png)
 
 Хм. Удобно, что сказать.
 
 Ты <strong>переливаешь </strong>алкоголь в цистерну. Через некоторое время из горлышка <strong>появляется</strong> тот самый видимый на просвет <strong>объект </strong>— своего рода <strong>герметичная капсула</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_105_3.png)
 
 Открутив один конец <strong>капсулы</strong>, ты достаёшь из неё <strong>свёрток бумаги</strong>.
 
 На раскрытом свёртке ты видишь <strong>три точки</strong> — уже известный тебе <strong>символ</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ага! Значит, кирпичу с крестом соответствуют три точки!</blockquote>
 
@@ -50,19 +51,19 @@ permalink: /106
 ## >Напомнить Марио, что на фреске с крабами было три ракушки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_105_4.png)
 
 Одним из рисунков на сейфе является <strong>ракушка</strong>. Хмм… <strong>где</strong> бы ты мог видеть <strong>ракушки</strong>…
 
 <strong>Фреска с крабами! </strong>Ты тут же делишься мыслью с <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— 🦀🐚🐚🐚 !</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что? Краб? Я не понимаю, про что т-</blockquote>
 
@@ -75,7 +76,7 @@ permalink: /106
 ## >силой мима открыть сейф воображаемым ключом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_105_5.png)
 
 <strong>Хорошая идея!</strong>
 

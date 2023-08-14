@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-12-27 00:00:00 
+date: 2018-12-27 00:00:00
 title: ">посмотреть под кроватью в поисках рыбки"
 category: page
 permalink: /107
 ---
+
 # >посмотреть под кроватью в поисках рыбки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_106_1.png)
 
 Ты осознаёшь, что твоим следующим шагом должен являться поиск <strong>рыбы</strong>.
 
@@ -17,7 +18,7 @@ permalink: /107
 Начать <strong>поиски рыбы</strong> ты решаешь с <strong>кровати</strong>, а точнее — с того, что <strong>под ней</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_106_2.png)
 
 В <strong>темноте </strong>тебе довольно трудно разглядеть что-то, кроме <strong>чистых листов бумаги</strong>.
 
@@ -30,7 +31,7 @@ permalink: /107
 ## >выбить головой Марио сейф
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_106_3.png)
 
 С одной стороны, эта нереалистичная идея однозначно приведёт к <strong>серьёзным увечьям</strong> для <strong>Марио </strong>и, скорее всего, <strong>никак не поможет</strong> во вскрытии сейфа.
 
@@ -39,7 +40,7 @@ permalink: /107
 <em>Хотя Марио так явно не думает.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, о чём ты это там размышляешь? </blockquote>
 
@@ -48,7 +49,7 @@ permalink: /107
 ## >использовать воображаемый стетоскоп для открытия сейфа
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_106_4.png)
 
 Раз <strong>ключ </strong>не сработал, то вернёмся к <strong>традиционным методам </strong>взлома сейфов. Попробуем на этот раз <strong>стетоскоп</strong>!
 
@@ -59,7 +60,7 @@ permalink: /107
 ## >рассмотреть линейку и кубики
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_106_5.png)
 
 Почему-то ты решаешь повнимательней рассмотреть <strong>предметы</strong>, которые <strong>никак не помогут</strong> тебе во <strong>взломе</strong>. <em>Уверен, что это не окажется тратой времени!</em>
 
