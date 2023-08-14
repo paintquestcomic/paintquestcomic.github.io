@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-19 00:00:00 
+date: 2018-11-19 00:00:00
 title: ">вспомнить, когда ел в последний раз"
 category: page
 permalink: /091
 ---
+
 # >вспомнить, когда ел в последний раз
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_1.png)
 
 О, да ты это <strong>помнишь</strong>, как будто это было вчера!
 
@@ -17,7 +18,7 @@ permalink: /091
 Так вот, последний раз ты ел <strong>гриб</strong>, <strong>прожаренный </strong>до <strong>хрустящей корочки</strong>! Да, точно, ты же его ел вместе с…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_2.png)
 
 …<strong>Марио</strong>.
 
@@ -28,7 +29,7 @@ permalink: /091
 ## >закрыть морозилку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_3.png)
 
 У тебя возникают <strong>опасения </strong>по поводу открытого нижнего отсека холодильника. Давай будем <strong>честны </strong>— вероятность того, что эта <strong>гнилая масса</strong> рано или поздно придёт к жизни и <strong>нападёт </strong>на тебя — где-то <strong>65-70%</strong>, а <strong>такие </strong>цифры тебя совсем не устраивают.
 
@@ -39,12 +40,12 @@ permalink: /091
 ## >положить бутерброд в инвентарь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_4.png)
 
 Ты понимаешь, что твои страхи, скорее всего, необоснованны, и принимаешь диаметрально противоположное решение — <strong>забрать бутерброд</strong>(?) с собой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_5.png)
 
 <blockquote><strong>ГНИЛОЙ БУТЕРБРОД(?) </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -53,7 +54,7 @@ permalink: /091
 ## >направиться в туннель
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_090_6.png)
 
 Освещая темноту перед собой светом кнопок, ты направляешься вглубь загадочного <strong>туннеля</strong>.
 

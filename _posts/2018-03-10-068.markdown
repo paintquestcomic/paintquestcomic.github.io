@@ -1,47 +1,48 @@
 ---
 layout: comic
-date:   2018-10-04 00:00:00 
+date: 2018-10-04 00:00:00
 title: ">метнуть обмазанный мелком дротик"
 category: page
 permalink: /068
 ---
+
 # >метнуть обмазанный мелком дротик
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_1.png)
 
 Ага, сейчас всё решим «<em>мирным путём</em>». Конфликты хорошо решаются <strong>подарками</strong>.
 
 Так что ты решаешь «<strong>подарить</strong>» паукам один из своих <strong>дротиков</strong>, присыпанный <strong>мелом</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_2.png)
 
 Ты уже был готов отправить «<strong>подарок</strong>» по воздуху, как на твоём пути встал <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты что творишь! Тебе что, мало крови на руках!? Хоть бы посмотрел, в кого ты целишься!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Скажи мне, кого ты тут видишь!? Безмозглых животных, от чьей смерти ничего не изменится?</blockquote>
 
 <blockquote>Неужели ты настолько чёрствый, что не замечаешь в них скорбящую семью!?</blockquote>
 
-Вау. Пораздумав немного, ты понимаешь — <strong>Марио прав</strong>. Ты не злодей какой-то, произошло <strong>недоразумение</strong>. 
+Вау. Пораздумав немного, ты понимаешь — <strong>Марио прав</strong>. Ты не злодей какой-то, произошло <strong>недоразумение</strong>.
 
 Вот и всё.
 
 ## >организовать похороны пауку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_4.png)
 
 Уж не думал, что тебе придётся ещё раз проводить <strong>похороны</strong>.
 
@@ -50,12 +51,12 @@ permalink: /068
 <blockquote><strong>ПАУЧОК</strong>, ????-2018.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_5.png)
 
 Вдруг один из <strong>паучков </strong>подбирается поближе к тебе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_spider.png)
 
 <blockquote>— Роберту очень нравились конкурсы на лучшую статую. А ещё у него была мечта — <strong>увидеть море</strong>.</blockquote>
 
@@ -64,6 +65,6 @@ permalink: /068
 Ты отнесёшь тело паука к <strong>морю</strong>… если найдёшь для него место в своём <strong>инвентаре</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_067_6.png)
 
 <em>Кстати, ты вернул назад все свои мелки.</em>

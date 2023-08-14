@@ -258,6 +258,13 @@ body {
   margin-right: 0px;
 }
 
+.content figcaption {
+  margin-top: 12px;
+  font-size: 14px;
+  text-align: center;
+  color: #626d7a;
+}
+
 .content h2 {
   font-family: "Museo";
   font-size: 32px;
@@ -525,6 +532,10 @@ space it's allowed to - the game-wrapper will set the bounds.
 
   .content blockquote {
     border-color: white;
+  }
+
+  .content figcaption {
+    color: #a3a3a3;
   }
 }
 

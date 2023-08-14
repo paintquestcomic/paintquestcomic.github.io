@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-25 00:00:00 
+date: 2018-11-25 00:00:00
 title: ">открыть бутылку"
 category: page
 permalink: /094
 ---
+
 # >открыть бутылку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_1.png)
 
 Ты достаёшь спрятанную <strong>бутылку </strong>и открываешь её, принюхиваясь.
 
@@ -19,7 +20,7 @@ permalink: /094
 ## >выкинуть обломки робота, если в них ничего полезного нет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_2.png)
 
 Ты понимаешь, что все потенциально <strong>интересные/полезные компоненты</strong> робота были <strong>уничтожены </strong>взрывом, и остались только обугленные <strong>куски корпуса</strong>.
 
@@ -28,12 +29,12 @@ permalink: /094
 ## >выкинуть из инвентаря бутерброд и положить в инвентарь кубики
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_3.png)
 
 Оставив <strong>Пармезана </strong>на столе, ты подходишь к шкафу и забираешь из него <strong>кубики со странными символами</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_4.png)
 
 <blockquote><strong><em>КУБИКИ СО СТРАННЫМИ СИМВОЛАМИ</em></strong> ДОБАВЛЕНЫ В ИНВЕНТАРЬ</blockquote>
 
@@ -42,10 +43,10 @@ permalink: /094
 ## >положить в берет пуговицы и записку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_7.png)
 
 Ты собираешь с полок все <strong>пуговицы</strong>, а также подбираешь <strong>записку</strong>. Все эти предметы ты прячешь в свой <strong>берет</strong>.
 
@@ -54,7 +55,7 @@ permalink: /094
 ## >пнуть банку с сосисочным человеком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_093_6.png)
 
 <em>С тебя хватит, ты больше не собираешься терпеть человека-сосиску.</em>
 

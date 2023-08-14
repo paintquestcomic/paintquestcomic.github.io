@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-10-06 00:00:00 
+date: 2018-10-06 00:00:00
 title: ">дорисовать мелом еще одну строку инвентаря"
 category: page
 permalink: /069
 ---
+
 # >дорисовать мелом еще одну строку инвентаря
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_1.png)
 
 Честно говоря, ты не знаешь, как взаимодействовать со своим <strong>инвентарём </strong>помимо <strong>добавления </strong>и <strong>вынимания предметов</strong>.
 
@@ -17,12 +18,12 @@ permalink: /069
 <strong>Знаешь что?</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_2.png)
 
 <strong><em>Дай-ка мелок сюда.</em></strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_3.png)
 
 Так и быть, ты через <strong>многое </strong>прошёл, так что заслужил ещё одну <strong>ячейку инвентаря</strong>, <em>но не больше</em>! И не смей мне говорить, что менеджмент инвентаря — это плохая игровая механика!
 
@@ -33,19 +34,19 @@ permalink: /069
 ## >положить паучка внутрь коробки с мелками
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_4.png)
 
 Правильно, место надо <strong>экономить</strong>, а <strong>мелки </strong>ему не навредят. <strong>Уже </strong>не навредят.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_5.png)
 
 Кажется, <strong>Марио </strong>вспомнил про ваш <strong>трофей </strong>за первое место в первом ежегодном конкурсе фонтанных статуй.
 
 <em>Отличная работа, Марио! Продолжай в том же духе!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_6.png)
 
 <blockquote><strong>КОРОБКА С МЕЛКАМИ И ПАУКОМ</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -54,18 +55,18 @@ permalink: /069
 ## >пройти через открытые ворота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_7.png)
 
 Ты решаешь осмотреть, что же находится за <strong>воротами</strong>, ведущими к <strong>пневмолифту</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_068_8.png)
 
 <strong>Тут темно</strong>.
 
 Где-то за спиной слышен голос <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Погоди, нам ещё не время туда идти! Это может быть опасно! Да и без деталей лифт не поедет.</blockquote>

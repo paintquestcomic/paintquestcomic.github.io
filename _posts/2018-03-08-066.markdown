@@ -1,65 +1,66 @@
 ---
 layout: comic
-date:   2018-09-30 00:00:00 
+date: 2018-09-30 00:00:00
 title: ">получить награду за лучшую статую"
 category: page
 permalink: /066
 ---
+
 # >получить награду за лучшую статую
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_1.png)
 
-Что? Какая ещё <strong>награда</strong>? Сомневаюсь что кто-либо увидел ваши <strong>великолепные позы</strong>. Жаль, конечно, но такова жизн-
+Что? Какая ещё <strong>награда</strong>? Сомневаюсь, что кто-либо увидел ваши <strong>великолепные позы</strong>. Жаль, конечно, но такова жизн-
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_2.png)
 
 <em>Что <strong><strong>это </strong></strong>ещё такое?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, с тобой всё в порядке?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да что такое? Подай хоть знак!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ч-ч-что?!</blockquote>
 
 ## >посмотреть наверх
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_5.png)
 
 Только что <strong>нечто паукообразное</strong> спустило на паутине <strong>кубок </strong>за первое место в конкурсе фонтанных статуй. Ты решаешь разведать происходящее, <strong>посмотрев </strong>наверх.
 
-На потолке в окружении <strong>малых пауков</strong> расположился <strong>большой паук</strong>! 
+На потолке в окружении <strong>малых пауков</strong> расположился <strong>большой паук</strong>!
 
 Только… <em>у него <strong><strong>шесть </strong></strong>лап</em>?
 
 ## >открыть пакет дротиками
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_6.png)
 
 Взяв в руки по острому <strong>дротику</strong>, ты их концами прорываешь <strong>дыру </strong>в герметичном пакете.
 
 Ты вытаскиваешь его <strong>содержимое</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_065_7.png)
 
 В пакете находилась… <strong>коробка с мелками для рисования</strong>? Причём написано, что они <strong>чёрно-белые</strong>.
 
@@ -70,7 +71,7 @@ permalink: /066
 А ещё мне не нравится этот <strong>красный мелок с пальцем вверх </strong>на упаковке. Он больше на сосиску с глазами похож.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Это должен быть мелок нарисован? Как по мне, он скорее сосиску напоминает.</blockquote>
 

@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-07 00:00:00 
+date: 2018-11-07 00:00:00
 title: ">отмечать опасные плитки мелом"
 category: page
 permalink: /085
 ---
+
 # >отмечать опасные плитки мелом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_084_1.png)
 
 Твой <strong>прошлый опыт</strong> подсказывает тебе, что <strong>опасными </strong>плитами являются плиты с <strong>треугольниками без черт</strong> сквозь них.
 
@@ -19,19 +20,19 @@ permalink: /085
 ## >попросить Марио попрыгать на плите с кружком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_084_2.png)
 
 Ты замечаешь, что <strong>плита</strong>, на которой нарисована окружность с точкой в центре всего <strong>одна</strong>. Очевидно, что она должна иметь особое значение.
 
 Ты посылаешь <strong>Марио </strong>попрыгать на <strong>плите </strong>в надежде <strong>активировать </strong>её.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_084_3.png)
 
 После прыжка <strong>плита </strong>вдавливается в пол. <strong>Слышен щелчок.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_084_4.png)
 
 После этого на пол с грохотом падает… <strong>что-то</strong>.
 

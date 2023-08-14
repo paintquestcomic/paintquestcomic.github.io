@@ -1,21 +1,22 @@
 ---
 layout: comic
-date:   2018-10-08 00:00:00 
+date: 2018-10-08 00:00:00
 title: ">нарисовать карту"
 category: page
 permalink: /070
 ---
+
 # >нарисовать карту
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_1.png)
 
-Чем больше мест ты находишь, тем <strong>труднее </strong>их всех держать в голове. Хорошо было бы завести <strong>карту</strong>. 
+Чем больше мест ты находишь, тем <strong>труднее </strong>их всех держать в голове. Хорошо было бы завести <strong>карту</strong>.
 
 Рисовать тебе <strong>есть </strong>чем, а в качестве <strong>бумаги </strong>ты используешь обратную сторону <strong>листа с твоим портретом</strong>, который ты оставил в комнате с плитками.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_2.png)
 
 <em>Да, примерно так, похоже на правду.</em>
 
@@ -26,21 +27,21 @@ permalink: /070
 ## >нарисовать перед собой крест красным мелом и отойти
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_3.png)
 
 Почему-то ты решил, что хорошей идеей будет <strong>нарисовать </strong>на полу мелом <strong>крест</strong>.
 
 Найдя участок пола почище, ты начинаешь выводить линии <strong>креста</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_4.png)
 
-Погоди, ты действительно думал, что это <strong>сработает</strong>? Мультяшная логика мультяшной логикой, а <strong>здравый смысл</strong> забывать нельзя. 
+Погоди, ты действительно думал, что это <strong>сработает</strong>? Мультяшная логика мультяшной логикой, а <strong>здравый смысл</strong> забывать нельзя.
 
 <strong>Ну что тут вообще может с потолка упасть!?</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_5.png)
 
 А. <strong>Вот </strong>как, значит.
 
@@ -49,13 +50,13 @@ permalink: /070
 ## >зачерпнуть в кубок углей из печи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_6.png)
 
 Вернувшись в комнату с <strong>горном</strong>, ты открываешь его дверцу.
 
 Взяв в руки <strong>кубок </strong>за первое место, ты осторожно зачерпываешь в него тлеющие <strong>угли</strong>. <em>Вау, ты даже не обжёгся ни разу.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_069_7.png)
 
 <blockquote><strong>ТРОФЕЙ С УГЛЯМИ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>

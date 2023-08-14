@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-10-02 00:00:00 
+date: 2018-10-02 00:00:00
 title: ">разобрать угол обзора на части"
 category: page
 permalink: /067
 ---
+
 # >разобрать угол обзора на части
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_1.png)
 
 Вытащив бренное тело <strong>Угла Обзора</strong> из инвентаря, ты понимаешь, что…
 
@@ -21,9 +22,9 @@ permalink: /067
 ## >помахать паукам рукой и подарить мелок
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_2.png)
 
-Завязывать новые знакомства — <strong>всегда хорошо</strong>! 
+Завязывать новые знакомства — <strong>всегда хорошо</strong>!
 
 <strong>Подозвав </strong>одного из <strong>пауков </strong>дружественным жестом, ты преподносишь подарок в виде <strong>белого мелка</strong>.
 
@@ -32,7 +33,7 @@ permalink: /067
 ## >подарить мелок Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_3.png)
 
 Вообще, <strong>Марио </strong>тоже заслужил подарок, нехорошо его будет обделять.
 
@@ -41,14 +42,14 @@ permalink: /067
 <em>Ты медленно оборачиваешься…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_4.png)
 
 <strong>Паук, которому ты отдал мелок, лежит замертво. Его лапки дёргаются в конвульсиях.</strong>
 
 <em>О нет.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_5.png)
 
 <strong>О нет!</strong>
 
@@ -57,7 +58,7 @@ permalink: /067
 <em>Такое чувство, будто тебе специально не везёт, чтобы в твоём приключении было больше <strong><strong>конфликта</strong></strong>, даже если он возникает на ровном месте!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_066_6.png)
 
 В любом случае, <strong>остальные пауки</strong> недовольны, <em>и это ещё мягко сказано</em>.
 

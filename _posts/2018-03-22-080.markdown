@@ -1,19 +1,20 @@
 ---
 layout: comic
-date:   2018-10-28 00:00:00 
+date: 2018-10-28 00:00:00
 title: ">мимикрировать в стену, пока Марио разбирается с роботом"
 category: page
 permalink: /080
 ---
+
 # >мимикрировать в стену, пока Марио разбирается с роботом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_079_1.png)
 
 Ты решаешь больше не подвергать себя <strong>опасности</strong>, поэтому ты начинаешь притворяться <strong>стеной </strong>в надежде, что робот тебя не заметит.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Чем ты вообще занимаешься, хамелеоном себя возомнил?</blockquote>
 
@@ -24,7 +25,7 @@ permalink: /080
 ## >станцевать польку (чтобы отвлечь робота)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_079_2.png)
 
 Ты танцуешь <strong>танец</strong>, который в твоём воображении напоминает <strong>польку</strong>. <em>К слову, ты никогда не видел, как танцуют польку на самом деле</em>.
 
@@ -33,12 +34,12 @@ permalink: /080
 ## >разозлить большого робота при помощи останков малого
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_079_3.png)
 
 Ты подбираешь <strong>голову </strong>малого робота и делаешь <strong>угрожающий жест</strong> в надежде <strong>спровоцировать </strong>большого.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_079_4.png)
 
 Тебе удаётся, даже <strong>слишком хорошо</strong>. Робот кидает в тебя свою оторванную наэлектризованную <strong>руку</strong>.
 

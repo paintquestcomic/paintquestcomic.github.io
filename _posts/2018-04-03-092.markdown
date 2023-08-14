@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-21 00:00:00 
+date: 2018-11-21 00:00:00
 title: ">дать бутерброду имя"
 category: page
 permalink: /092
 ---
+
 # >дать бутерброду имя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_091_1.png)
 
 Давайте по делу — бутерброд рано или поздно всё-равно <strong>оживёт</strong>, так зачем затягивать с <strong>именем</strong>?
 
@@ -21,7 +22,7 @@ permalink: /092
 ## >закинуть наверх гнилой бутерброд
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_091_2.png)
 
 Пока взбираться наверх может быть <strong>опасно</strong>, для начала надо осмотреть местность.
 
@@ -32,12 +33,12 @@ permalink: /092
 ## >осторожно подняться по лестнице
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_091_3.png)
 
 Аккуратно, стараясь не привлекать лишнего внимания ты взбираешься по лестнице <strong>наверх</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_091_4.png)
 
 <em>Ну наконец-то что-то, что похоже на нормальную комнату.</em>
 

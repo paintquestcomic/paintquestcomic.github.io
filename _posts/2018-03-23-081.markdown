@@ -1,35 +1,36 @@
 ---
 layout: comic
-date:   2018-10-30 00:00:00 
+date: 2018-10-30 00:00:00
 title: ">при помощи пантомимы поймать руку робота, затем запустить её обратно"
 category: page
 permalink: /081
 ---
+
 # >при помощи пантомимы поймать руку робота, затем запустить её обратно
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_080_1.png)
 
 Ты воображаешь две огромные <strong>перчатки </strong>на свои руки. Ты хочешь попытаться <strong>поймать </strong>летящий на большой скорости в тебя <strong>снаряд</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_080_2.png)
 
 Ты ловишь <strong>руку </strong>своими руками. К счастью, <strong>пантомима </strong>не проводит электричество, так что ты в безопасности.
 
 К несчастью, твоих сил <strong>не хватает</strong>, чтобы отправить руку обратно в робота. <em>Пантомима тебя сильнее не сделает, как ни крути</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_080_3.png)
 
 В то же время, <strong>Марио </strong>смог незаметно подойти к <strong>роботу </strong>и добраться до <strong>отверстия</strong>, оставшегося от руки.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_080_4.png)
 
 <strong>Он внутри.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, надеюсь, что я всё ещё помню, какие из проводов должны быть под напряжением.</blockquote>

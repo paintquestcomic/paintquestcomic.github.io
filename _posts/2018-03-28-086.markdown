@@ -1,33 +1,34 @@
 ---
 layout: comic
-date:   2018-11-09 00:00:00 
+date: 2018-11-09 00:00:00
 title: ">осмотреть предмет"
 category: page
 permalink: /086
 ---
+
 # >осмотреть предмет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_085_1.png)
 
-Ты <strong>перебираешься </strong>на другую сторону уже привычным тебе способом — через отверстия на стене. 
+Ты <strong>перебираешься </strong>на другую сторону уже привычным тебе способом — через отверстия на стене.
 
 <strong>Марио </strong>также решает к тебе присоединиться.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_085_2.png)
 
 Вы тщательно осматриваете странный <strong>объект</strong>. Сверху на нём расположены <strong>четыре цветные кнопки</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Хм. Я бы сказал, что это похоже на контейнер с кодовым замком. Нужно ввести правильную комбинацию, и тогда он должен открыться.</blockquote>
 
 <blockquote>Но для этого надо знать комбинацию, конечно же.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_085_3.png)
 
 Ты решаешь <strong>взять </strong>его с собой. <em>Кто знает, когда ты наткнёшься на правильную комбинацию.</em>
 
@@ -36,24 +37,24 @@ permalink: /086
 ## >попросить Марио нажать на пластину со странным символом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_085_4.png)
 
 Ты также заметил, что есть ещё одна <strong>плита</strong>, которая отличается от других. Ты просишь <strong>Марио </strong>проверить и её.
 
 А ещё ты показываешь, что стоит <strong>пригнуться</strong>. На всякий случай.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Хм. Ну… ладно. Сейчас эту тоже проверю.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_085_5.png)
 
 Как только <strong>Марио </strong>оказывается на <strong>плите</strong>, она <strong>открывается</strong>, словно люк!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что за <strong>дел-</strong></blockquote>
 

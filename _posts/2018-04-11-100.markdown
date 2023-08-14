@@ -1,19 +1,20 @@
 ---
 layout: comic
-date:   2018-12-13 00:00:00 
+date: 2018-12-13 00:00:00
 title: ">показать Марио трофеи в берете"
 category: page
 permalink: /100
 ---
+
 # >показать Марио трофеи в берете
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_1.png)
 
 Ты решаешь поделиться с <strong>Марио </strong>своими <strong>подвальными находками</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— <strong>Пуговицы</strong>.</blockquote>
 
@@ -26,21 +27,21 @@ permalink: /100
 ## >сыграть с Марио в кости
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_2.png)
 
-Ничто не сближает так сильно, как <strong>азартные игры</strong>. 
+Ничто не сближает так сильно, как <strong>азартные игры</strong>.
 
 «<em>Преданность не купишь, но её можно выиграть в кости</em>» — <em>какой-то мудрец, наверное</em>.
 
 Достав из инвентаря <strong>три кубика</strong> с символами, ты кидаешь их и замираешь в ожидании результата.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— 🎲?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Нет, Гарри, это не кости. </blockquote>
 
@@ -51,7 +52,7 @@ permalink: /100
 ## >разработать план победы над вашим захватчиком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_3.png)
 
 Внезапно, в твоей голове рождается <strong>план:</strong>
 
@@ -66,38 +67,38 @@ permalink: /100
 Теперь пора рассказать его <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>—👂😱👂, 🤖🏃, 🤡👊🤖!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ладно, так и быть. </blockquote>
 
 <blockquote>Звучит как план, и лучше иметь хоть какой-то план, чем <strong>никакого</strong>.</blockquote>
 
-На этот раз <strong>Марио </strong>было довольно просто уговорить. 
+На этот раз <strong>Марио </strong>было довольно просто уговорить.
 
 Вы занимаете свои <strong>позиции</strong>: <strong>Марио </strong>в центре и готов кричать, а <strong>ты </strong>у двери. Решётку ты, конечно, уже <strong>замазал</strong> пастой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— <strong>ААААААААААААААААААААААААААААААААААА!!!</strong></blockquote>
 
 Марио <strong>кричит </strong>изо всех сил. <em>План приведён в действие.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_5.png)
 
 Ты не ожидал, что <strong>он </strong>придёт так быстро. <strong>Ой. </strong><em>Видимо, стоило встать подальше от двери.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Что это я слышу? Неужели крик моего гостя, который готов пойти на сотрудничество?</blockquote>
 
@@ -108,12 +109,12 @@ permalink: /100
 <blockquote>К слову о двери, у вас решётку чем-то забило. Мои извинения, я, признаюсь, тут давно уборку не проводил.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_099_6.png)
 
 Стоит ли упоминать, что всё пошло <em>не совсем по плану</em>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Так вот, не будем тратить время зря — давайте перейдём сразу к делу!</blockquote>
 
@@ -126,11 +127,11 @@ permalink: /100
 С ехидным видом <strong>незнакомец </strong>раскрывает посредине комнаты свой <strong>раскладной стол</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Кстати, ушастый, я твоего молчаливого друга немного задел при входе, он же не обидится?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Этого нереально обидеть. Поверь мне, я пробовал.</blockquote>

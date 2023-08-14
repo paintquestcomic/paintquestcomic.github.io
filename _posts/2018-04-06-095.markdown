@@ -1,29 +1,30 @@
 ---
 layout: comic
-date:   2018-11-27 00:00:00 
+date: 2018-11-27 00:00:00
 title: ">прочитать текст на банке"
 category: page
 permalink: /095
 ---
+
 # >прочитать текст на банке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_1.png)
 
 Ты подбираешь ненавистную <strong>банку </strong>с пола и изучаешь <strong>текст </strong>на <strong>этикетке</strong>.
 
-К твоему раздражению, текст на банке даже не оказывается текстом — это просто <strong>каракули</strong>, издалека похожие на текст. 
+К твоему раздражению, текст на банке даже не оказывается текстом — это просто <strong>каракули</strong>, издалека похожие на текст.
 
 <em>Да тут просто кривые линии, даже букв нет!</em>
 
-Если до этого ты ещё не злился, то сейчас уж ты точно в <strong>ярости</strong>. 
+Если до этого ты ещё не злился, то сейчас уж ты точно в <strong>ярости</strong>.
 
 <strong>Ярости </strong>и <strong>недоумевании</strong>.
 
 ## >неистово избить банку с сосисочным человеком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_2.png)
 
 Ты выливаешь всю свою затаившуюся <strong>злобу </strong>на <strong>консервную банку</strong>, избивая её целым <strong>градом мощных ударов</strong>!
 
@@ -36,7 +37,7 @@ permalink: /095
 ## >попытаться общаться жестами с Пармезаном
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_3.png)
 
 Ты решаешь <strong>наладить контакт</strong> с потенциально новой формой жизни — ожившим(?) бутербродом <strong>Пармезаном</strong>.
 
@@ -51,43 +52,43 @@ permalink: /095
 ## >забрать бутылку и уходить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_4.png)
 
 Да, пора продолжить путь, а то так можно вечно <strong>сидеть </strong>в этой комнате, <strong>избивать </strong>консервные банки и <strong>разговаривать </strong>с неодушевлёнными(?) предметами.
 
 Ты забираешь один из самых <strong>потенциально полезных предметов</strong> — кем-то припрятанную <strong>бутылку</strong>, очевидно, <strike>с бухлом</strike> <strong>со спиртным</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_5.png)
 
 <blockquote><strong>ЗАГАДОЧНЫЙ АЛКОГОЛЬ</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_6.png)
 
 Теперь пришла пора подняться по <strong>лестнице </strong>и узнать, <strong>что скрывается выше</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_7.png)
 
 Ты приподнимаешь <strong>люк </strong>и пытаешься выкарабкаться из… <strong>подвала</strong>, судя по всему.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_8.png)
 
 Не успел ты крепко встать на ноги, <strong>как вдруг-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_us.png)
 
 <blockquote><strong>— Не двигаться.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_094_9.png)
 
 <strong>Твоему появлению тут явно не рады.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Одно лишнее движение — <strong>и ты покойник</strong>.</blockquote>

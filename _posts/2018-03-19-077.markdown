@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-10-22 00:00:00 
+date: 2018-10-22 00:00:00
 title: ">уйти от взрывающегося робота, не смотря на взрыв"
 category: page
 permalink: /077
 ---
+
 # >уйти от взрывающегося робота, не смотря на взрыв
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_076_1.png)
 
 <em>Да, это смотрелось бы неплохо</em>. Ты так и видишь, как на <strong>робота </strong>с потолка падает шлакоблок, отчего тот <strong>взрывается </strong>(или оба, так даже лучше).
 
@@ -21,34 +22,34 @@ permalink: /077
 <strong>В люб-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты там живой ещё? Я кое-что выяснил!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_076_2.png)
 
 Твои фантазии оказываются прерваны голосом <strong>Марио</strong>.
 
 ## >посмотреть, как дела у Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_076_3.png)
 
 Ты смотришь в сторону <strong>Марио</strong>. Он с ног до головы покрыт <strong>маслом</strong>, в его руке — окровавленный (<em>омаслененный?</em>) <strong>ключ</strong>. Одной ногой он стоит на том, что осталось от его <strong>робота-соперника</strong>.
 
 <em>Хорошо, что это был робот, а то наш возрастной рейтинг резко бы подскочил до 18+.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я знаю, где находится деталь!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_076_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Роботы такой большой модели никогда не выпускались! Очевидно, что он проапгрейдил себя, но даже так он бы был неспособен функционировать!</blockquote>
 

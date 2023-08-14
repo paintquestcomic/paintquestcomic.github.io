@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-11 00:00:00 
+date: 2018-11-11 00:00:00
 title: ">кинуть Марио верёвку"
 category: page
 permalink: /087
 ---
+
 # >кинуть Марио верёвку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_1.png)
 
 <strong>Марио </strong>надо спасать, в этом ты уверен.
 
@@ -19,14 +20,14 @@ permalink: /087
 <em>Конечно, есть ещё вариант самому туда спрыгнуть, но что-то подсказывает, что прыгать в тёмные дыры, у которых не видно дна — плохая идея. Потенциально смертельная. <strong><strong>В основном смертельная</strong></strong>.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_2.png)
 
 Ты кидаешь <strong>шлакоблок </strong>с верёвкой на <strong>плиту </strong>с перечёркнутым треугольником рядом с дырой. <strong>Верёвка </strong>опускается в дыру.
 
 К счастью, твоё <strong>прошлое знакомство</strong> с этой комнатой дало тебе знать, что <strong>такая плита</strong> должна быть <strong>безопасной</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_3.png)
 
 Ты подходишь чуть поближе к <strong>дыре</strong>.
 
@@ -39,7 +40,7 @@ permalink: /087
 ## >выполнить прыжок веры и под звуки криков орла полететь вниз
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_4.png)
 
 Ты прыгаешь как <strong>самое грациозное существо</strong>, которое когда-либо ходило по этой земле, <em>если не лучше</em>. Твой <strong>прыжок </strong>сопровождают благородные <strong>крики </strong>воображаемых <strong>орлов</strong>.
 
@@ -48,17 +49,17 @@ permalink: /087
 <em>Но важнее то, что ты потерял своего единственного соратника(?).</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_5.png)
 
 Ты и не замечаешь, как брошенная <strong>верёвка </strong>ускользает из твоего взора. Очевидно, что её <strong>длины </strong>бы <strong>не хватило</strong>,<strong> </strong>чтобы добраться до Марио.
 
 Ты <strong>скатываешься </strong>по длинной <strong>трубе </strong>в темноту.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_086_6.png)
 
 <strong>Через некоторое время ты приземляешься… где-то.</strong>
 
-<strong>Тут темно.</strong> 
+<strong>Тут темно.</strong>
 
 <em>Тебе уже немного надоели тёмные комнаты, если честно.</em>

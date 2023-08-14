@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-17 00:00:00 
+date: 2018-11-17 00:00:00
 title: ">отведать деликатесы из холодильника"
 category: page
 permalink: /090
 ---
+
 # >отведать деликатесы из холодильника
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_1.png)
 
 <strong>Нет.</strong>
 
@@ -19,14 +20,14 @@ permalink: /090
 ## >открыть нижний отсек холодильника, используя что-нибудь как рычаг
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_2.png)
 
 Взяв одну из обугленных <strong>пластин</strong>, оставшихся от робота, ты всовываешь её в проём между <strong>дверцей отсека</strong> и <strong>корпусом холодильника</strong>.
 
 Орудуя пластиной как <strong>рычагом</strong>, ты пытаешься <strong>открыть </strong>нижний отсек.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_3.png)
 
 От усилий дверца отходит от холодильника, давая тебе возможность осмотреть <strong>содержимое </strong>отсека.
 
@@ -43,19 +44,19 @@ permalink: /090
 ## >посмотреть, к чему подключён холодильник
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_4.png)
 
 Среди мусора тебе удаётся найти <strong>провод</strong>, идущий от <strong>холодильника</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_5.png)
 
 Следуя <strong>проводу</strong>, ты приходишь к ранее замеченному тобой <strong>туннелю</strong>.
 
 ## >осмотреть туннель
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_089_6.png)
 
 <strong>Провод </strong>идёт глубже в <strong>туннель</strong>, постепенно пропадая из вида в <strong>темноте</strong>.
 

@@ -1,38 +1,39 @@
 ---
 layout: comic
-date:   2018-10-12 00:00:00 
+date: 2018-10-12 00:00:00
 title: ">объяснить Марио план"
 category: page
 permalink: /072
 ---
+
 # >объяснить Марио план
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_1.png)
 
 Кто знает, как себя поведёт… <strong>эта штука</strong> в этот раз. Хорошо будет иметь <strong>план</strong>.
 
 Ещё лучше — если этот план будет <strong>известен Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— 👂😬👂➡<strong>️️🕵️⚙️.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я… должен искать деталь. Понял тебя.</blockquote>
 
 <blockquote>И ещё, можешь не показывать меня с… ну, ушами. А то я немного комплексую.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— 🤡<strong>➡️</strong>🏃🕺😡🤖.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А ты будешь… отвлекать… злого робота!? Что, я про робота не был в курсе! </blockquote>
 
@@ -41,7 +42,7 @@ permalink: /072
 ## >сохраниться и зайти в дыру
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_2.png)
 
 Если когда-либо было <strong>время </strong>для <strong>сохранения</strong>, то сейчас — <strong>именно это время</strong>.
 
@@ -50,34 +51,34 @@ permalink: /072
 Держа в руках горящий <strong>кубок</strong>, вы входите в <strong>тёмное помещение</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_3.png)
 
 <strong>Со всех сторон раздаётся скрежет металла…</strong>
 
 <strong>Огромная фигура встала на вашем пути, её глаза пылают ненавистью.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_4.png)
 
 <em>Перед вами <strong><strong>Босс Робот, Цельнометаллический Зверь.</strong></strong></em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— У него огромные красные буквы, это плохой знак! Давайте только без экрана битвы, только без экрана…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_5.png)
 
 <cite><strong><em>Гарри и Марио</em> </strong>VS <strong><em>Босс Робот</em></strong></cite>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да чтоб тебя!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_6.png)
 
 <strong>Босс Робот</strong> — огромный стальной <strong>агрегат </strong>на <strong>гусеницах</strong>, вооружённый двумя увесистыми <strong>кулаками</strong>. <em>Я бы с этим парнем не связывался, но у вас, видимо, нет выбора</em>.
 
@@ -88,12 +89,12 @@ permalink: /072
 ## >плеснуть воду на робота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_071_7.png)
 
 Тебе уже приходилось разбираться с <strong>роботами </strong>при помощи <strong>жидкости</strong>, может, и в этот раз <strong>срабо-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Не трать воду попусту, этот корпус водонепроницаем! Смотри, на нём даже наклейка есть!</blockquote>
 

@@ -1,29 +1,30 @@
 ---
 layout: comic
-date:   2018-12-09 00:00:00 
+date: 2018-12-09 00:00:00
 title: ">обнять Марио и выразить то, как сильно по нему скучали"
 category: page
 permalink: /098
 ---
+
 # >обнять Марио и выразить то, как сильно по нему скучали
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_097_1.png)
 
 Несмотря на настроение твоего товарища, ты не можешь удержаться от того, чтобы заключить <strong>Марио </strong>в <strong>объятья </strong>после <strong>столь долгой разлуки</strong>.
 
 <em>Столько там времени прошло с момента прыжка в дыру? Где-то час? Трудно сказать</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А ну быстро прекратил вот это вот всё! Не думай, что после таких нежностей у меня когда-нибудь не появится желание придушить тебя во сне и облегчить все наши страдания!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_097_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эх… Иногда мне кажется, что ты всё-таки не понимаешь, что я говорю.</blockquote>
 
@@ -32,7 +33,7 @@ permalink: /098
 ## >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_097_5.png)
 
 Да, давненько ты не <strong>сохранялся</strong>, надо бы зафиксировать прогресс.
 
@@ -43,7 +44,7 @@ permalink: /098
 ## >осмотреть камеру
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_097_3.png)
 
 Ты переходишь к осмотру <strong>тюремной камеры</strong>. Честно говоря, ты мнишь себя немного экспертом в этой области.
 
@@ -62,12 +63,12 @@ permalink: /098
 ## >показать Марио бумажку, спрятанную в берете
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_097_4.png)
 
 Ты достаёшь из берета <strong>спрятанную записку</strong> и протягиваешь её <strong>Марио</strong> в надежде на то, что он сможет пролить свет на её <strong>значение</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— «НЕ ЗАБУДЬ»? Что это значит? Где ты вообще нашёл эту записку? Как по мне, похоже на чью-то памятку.</blockquote>
 

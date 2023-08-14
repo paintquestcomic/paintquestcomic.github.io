@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-05 00:00:00 
+date: 2018-11-05 00:00:00
 title: ">переплавить металл, оставшийся от робота"
 category: page
 permalink: /084
 ---
+
 # >переплавить металл, оставшийся от робота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_083_1.png)
 
 Вы с <strong>Марио </strong>выходите из тёмной комнаты.
 
@@ -19,17 +20,17 @@ permalink: /084
 Когда ты уже собирался закинуть металл в <strong>горн</strong>, тебя останавливает <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Кузнечеством решил заняться?</blockquote>
 
 <blockquote>Идея, вообще, неплохая, но выковать у нас вряд ли что-то получится. Руки у нас с тобой не особо сильные, даже если молот найдём.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_083_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— В этом плане с литьём проще будет. Надо только форму для литья найти.</blockquote>
 
@@ -40,24 +41,24 @@ permalink: /084
 ## >пойти в комнату с фонтаном
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_083_3.png)
 
 Пока что ты решаешь продолжить <strong>исследование </strong>других комнат.
 
 Вы спокойно шли в сторону комнаты с фонтаном, как вдруг <strong>Марио остановился</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Подожди, я что-то чувствую.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_083_4.png)
 
 <strong>Марио </strong>достаёт <strong>деталь</strong>. Тебе видно, как она слегка <strong>подёргивается </strong>в его руках.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Странно! Как только мы подошли к плиткам, деталь начала дрожать! Если я правильно помню, то где-то в этом месте должна быть ещё деталь.</blockquote>
 

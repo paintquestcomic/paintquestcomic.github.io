@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-10-31 00:00:00 
+date: 2018-10-31 00:00:00
 title: ">я технарь, режь красный"
 category: page
 permalink: /082
 ---
+
 # >я технарь, режь красный
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_1.png)
 
 <strong>Нет.</strong>
 
@@ -27,7 +28,7 @@ permalink: /082
 ## >стать Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_2.png)
 
 Теперь ты <strong>Марио</strong>. Мои поздравления.
 
@@ -42,16 +43,16 @@ permalink: /082
 ## >перерезать красный провод
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_3.png)
 
 Что-то внутри подсказало <strong>Марио</strong>, что <strong>резать </strong>нужно именно <strong>красный</strong>.
 
-Не уверен, можно ли перерезать находящиеся под напряжением <strong>провода</strong>, однако <em>что я вообще знаю про электротехнику</em>. 
+Не уверен, можно ли перерезать находящиеся под напряжением <strong>провода</strong>, однако <em>что я вообще знаю про электротехнику</em>.
 
 Будем считать, что <strong>Марио </strong>знает, что <strong>делает</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_4.png)
 
 <strong>Щиток </strong>перед Марио начинает <strong>дрожать</strong>. Внезапно, его <strong>дверца открывается </strong>вверх и становится видно его <strong>содерж</strong>-
 
@@ -62,7 +63,7 @@ permalink: /082
 Если бы только её можно было освободить, скажем, <strong>хорошим толчком</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_5.png)
 
 <strong>Откуда ни возьмись с потолка на помеченную крестом голову робота падает увесистый шлакоблок! </strong>
 
@@ -71,7 +72,7 @@ permalink: /082
 Голова робота немного <strong>сплющивается </strong>от такой силы удара. Повреждения, возможно, <strong>фатальные</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_6.png)
 
 Удар <strong>высвобождает </strong>деталь, и она падает прямо в руки <strong>Марио</strong>!
 
@@ -80,14 +81,14 @@ permalink: /082
 <strong>Взрывной реакции</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_7.png)
 
 <strong>В огромном огненном шаре робота разносит на кусочки!</strong>
 
 Крепко сжав деталь в руках, <strong>Марио </strong>на взрывной волне <strong>улетает </strong>подальше от эпицентра…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_8.png)
 
 …и <strong>приземляется </strong>рядом с <strong>тобой</strong>.
 
@@ -96,14 +97,14 @@ permalink: /082
 <strong>Марио </strong>немного шокирован, потрясён, прожарен и покрыт маслом, но в остальном вполне <strong>в порядке</strong>. По крайней мере, жить будет. <em>Ну, должен.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Не был… Собран… Тот робот, который…</blockquote>
 
 <blockquote>Никогда... Больше так… Не буду делать… Никогда.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_081_9.png)
 
 А, вы же <strong>босса победили</strong>. <em>Как там по протоколу…</em>
 

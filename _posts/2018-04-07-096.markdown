@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-11-29 00:00:00 
+date: 2018-11-29 00:00:00
 title: ">сохраниться"
 category: page
 permalink: /096
 ---
+
 # >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_1.png)
 
 Хорошая идея. Перед лицом угрозы, ты <strong>сохран-</strong>
 
@@ -19,7 +20,7 @@ permalink: /096
 ## >исполнить мимскую рутину
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_2.png)
 
 Надо как-то показать, что у тебя нет злых намерений, а что может быть дружелюбней и безобидней, чем мим за работой?
 
@@ -30,10 +31,10 @@ permalink: /096
 <em>Вот теперь сомнений точно нет.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— В следующий раз я не промахнусь, гарантирую. А когда я даю гарантию, то всегда выполняю свою часть сделки.</blockquote>
 
@@ -42,7 +43,7 @@ permalink: /096
 ## >поставить перед собой невидимую стену
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_4.png)
 
 Ты чувствуешь, что эта ситуация достаточно <strong>экстренная</strong>, чтобы воспользоваться твоими <strong>необычайными силами мима</strong>.
 
@@ -51,7 +52,7 @@ permalink: /096
 ## >предложить неизвестному распить бутылочку на двоих
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_5.png)
 
 Самое время для <strong>дипломатии</strong>.
 
@@ -60,12 +61,12 @@ permalink: /096
 Ты достаёшь из инвентаря <strong>бутылку</strong>. К счастью, в этот раз в тебя не стреляют.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_095_6.png)
 
 <strong>Неизвестный </strong>даже опустил оружие.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote><em>— Что это такое? Ты угощаешь меня? Или, скорее, пытаешься уважить?</em></blockquote>
 

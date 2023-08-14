@@ -1,19 +1,20 @@
 ---
 layout: comic
-date:   2018-10-24 00:00:00 
+date: 2018-10-24 00:00:00
 title: ">потянуть за деталь невидимой верёвкой"
 category: page
 permalink: /078
 ---
+
 # >потянуть за деталь невидимой верёвкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_077_1.png)
 
 Создав <strong>верёвку</strong>, ты начинаешь тянуть за неё в надежде <strong>вырвать деталь</strong> из <strong>робота</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_077_2.png)
 
 К сожалению, в скором времени <strong>верёвка </strong>возвращается к тебе абсолютно пустая.
 
@@ -26,7 +27,7 @@ permalink: /078
 ## >попросить у Марио гаечный ключ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_077_3.png)
 
 Ты пытаешься попросить <strong>Марио</strong>, чтобы он передал тебе <strong>ключ</strong>, но тебе это <strong>не удаётся</strong>. Твои <strong>дрожащие и ослабленные</strong> руки и тело сейчас не готовы к такой <strong>сложной пантомиме</strong>.
 
@@ -35,7 +36,7 @@ permalink: /078
 ## >залезть в робота через дыру в правом плече
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_077_4.png)
 
 Ты обдумываешь возникший в твоей голове <strong>план </strong>по проникновению в робота через <strong>отверстие</strong>, образовавшееся после потери его <strong>правой руки</strong>. Прикинув <strong>размеры</strong>, ты понимаешь, что <strong>тебе </strong>не пролезть через такую <strong>узкую дыру</strong>.
 
