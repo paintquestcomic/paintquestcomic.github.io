@@ -1,30 +1,31 @@
 ---
 layout: comic
-date:   2018-08-29 00:00:00 
+date: 2018-08-29 00:00:00
 title: ">использовать шлакоблок как таран для пробития хрупкой стены"
 category: page
 permalink: /055
 ---
+
 # >использовать шлакоблок как таран для пробития хрупкой стены
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_1.png)
 
 Оказывается, стены ломаются <strong>гораздо </strong>быстрее, когда у тебя в руках есть что-то <strong>увесистое</strong>.
 
 Теперь пора узнать, что находится <strong>по ту сторону</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_2.png)
 
 Тут… <strong>темно</strong>. <strong>Очень темно</strong>, практически ничего не видно.
 
-Разве что можно разобрать <strong>силуэт </strong>какого-то объекта… 
+Разве что можно разобрать <strong>силуэт </strong>какого-то объекта…
 
 <strong>Здорового </strong>такого, прям <strong>громадного</strong>, и… <strong>металлического</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_3.png)
 
 <strong>А ещё у него горящие красным глаза!</strong>
 
@@ -33,7 +34,7 @@ permalink: /055
 <em>Ч-ч-ч-</em><strong>честно</strong><em>.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_4.png)
 
 Фух.
 
@@ -44,14 +45,14 @@ permalink: /055
 ## >кинуть в вазу гаечный ключ на верёвке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_5.png)
 
 Уйдя как можно дальше от страшной дыры, ты решаешь наконец-таки разобраться с <strong>вазой</strong>.
 
 Привязав к концу <strong>гаечного ключа</strong> верёвку (на очень даже возможный случай промаха), ты <strong>бросаешь </strong>его в сторону вазы настолько метко, насколько это возможно.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_6.png)
 
 Ваза <strong>разбивается </strong>вдребезги, а её <strong>черепки </strong>разлетаются по углам комнаты.
 
@@ -60,7 +61,7 @@ permalink: /055
 Ты поднимаешься по <strong>лестнице</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_054_7.png)
 
 После подъёма ты оказываешься в <strong>комнате</strong>, непохожей ни на одну из ранее виденных.
 
@@ -68,7 +69,7 @@ permalink: /055
 
 Только <strong>грибы </strong>растут в ней. Скорее, <strong>один гриб</strong> с несколькими шляпками.
 
-<strong>Самый огромный гриб, который ты</strong> (да и кто угодно) <strong>когда-либо видел</strong>. Он скорее напоминает приличных размеров <strong>башню</strong>. 
+<strong>Самый огромный гриб, который ты</strong> (да и кто угодно) <strong>когда-либо видел</strong>. Он скорее напоминает приличных размеров <strong>башню</strong>.
 
 Только <strong>гриб</strong>.
 

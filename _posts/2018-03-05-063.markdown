@@ -1,16 +1,17 @@
 ---
 layout: comic
-date:   2018-09-24 00:00:00 
+date: 2018-09-24 00:00:00
 title: ">проверить свою бывшую камеру"
 category: page
 permalink: /063
 ---
+
 # >проверить свою бывшую камеру
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_1.png)
 
-Ты решаешь проверить свою бывшую камеру и- 
+Ты решаешь проверить свою бывшую камеру и-
 
 О, нет! <strong>Робота </strong>нет на месте! Какая неожиданность!
 
@@ -21,30 +22,30 @@ permalink: /063
 ## >нажать на кнопку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_2.png)
 
-Нажатие на <strong>кнопку </strong>в комнате с фонтаном приводит к открытию пути, заблокированного <strong>решёткой</strong>. 
+Нажатие на <strong>кнопку </strong>в комнате с фонтаном приводит к открытию пути, заблокированного <strong>решёткой</strong>.
 
 <em>Ну хоть тут без хитростей.</em>
 
 ## >решить головоломку с сосудами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_3.png)
 
-<strong>Конечно же!</strong> 
+<strong>Конечно же!</strong>
 
 Ты, как эксперт в пазлах, тут же смог распознать предназначение двух <strong>сосудов </strong>— они являются частью <strong>всемирно известной головоломки</strong> о получении ровно <strong>четырёх литров</strong> жидкости при помощи сосудов на три и пять литров.
 
 <em>Проведя некоторое время за переливанием жидкостей, ты получаешь…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_4.png)
 
 …<strong>сосуд, заполненный ровно на четыре литра</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_5.png)
 
 Ну, по крайней мере тебе <strong>кажется</strong>, что он заполнен на четыре литра. <em>Честно говоря, ты даже не уверен, что соотношение объёмов этих ёмкостей будет 3:5.</em>
 
@@ -53,11 +54,11 @@ permalink: /063
 ## >постучать в дверь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_6.png)
 
 Ты стучишь в <strong>дверь </strong>пару раз. Видимо, никто не собирается её открыв-
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_062_7.png)
 
 <strong>Чёрт!</strong>

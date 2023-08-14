@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-09-26 00:00:00 
+date: 2018-09-26 00:00:00
 title: ">нырнуть в фонтан, надев перед этим берет"
 category: page
 permalink: /064
 ---
+
 # >нырнуть в фонтан, надев перед этим берет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_063_1.png)
 
 Хмм. Есть такой вариант, что этот фонтан гораздо <strong>глубже</strong>, чем кажется. Это значит, что в нём может скрываться что угодно!
 
@@ -19,19 +20,19 @@ permalink: /064
 Ты <strong>ныряешь </strong>(<em>хотя нырянием это назвать трудно</em>)<strong> </strong>в фонтан, предварительно надев свой берет (<em>для безопасности</em>).
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты же понимаешь, что этот фонтан не очень глуб-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_063_2.png)
 
 Гипотеза себя не оправдала. <em>Значит, сегодня без людей-креветок</em>.
 
 ## >выпить воды из фонтана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_063_3.png)
 
 Ты выпиваешь немного воды. Даже не <strong>воды</strong>, а…
 
@@ -40,7 +41,7 @@ permalink: /064
 ## >вычерпать воду из фонтана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_063_4.png)
 
 Теперь, когда у тебя под рукой абсолютно неприличное количество <strong>тары</strong>, ты можешь попытаться вычерпать всю <strong>воду </strong>из фонтана.
 
@@ -51,6 +52,6 @@ permalink: /064
 ## >осмотреть следы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_063_5.png)
 
 Странно, но к фонтану ведёт дорожка из лужиц <strong>рассола</strong>. Тот, кто её оставил, видимо, <strong>смыл </strong>с себя остатки рассола <strong>водой</strong>.

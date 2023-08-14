@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-08-31 00:00:00 
+date: 2018-08-31 00:00:00
 title: ">разобрать металлические пластины ключом"
 category: page
 permalink: /056
 ---
+
 # >разобрать металлические пластины ключом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_055_1.png)
 
 Ты возвращаешься, вспомнив, что у тебя есть <strong>гаечный ключ</strong>, с помощью которого можно <strong>отвинтить </strong>друг от друга металлические пластины.
 
@@ -17,7 +18,7 @@ permalink: /056
 <strong>Да ладно вам!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_055_2.png)
 
 При ближайшем рассмотрении выявилось, что «<strong>болты</strong>» на пластинах оказались <strong>нарисованы</strong>, причём не очень убедительно.
 
@@ -26,7 +27,7 @@ permalink: /056
 ## >полить гриб рассолом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_055_3.png)
 
 У тебя возникает впечатление того, что гриб страдает от <strong>жажды</strong>. К счастью, у тебя есть немного <strong>рассола</strong>.
 
@@ -35,7 +36,7 @@ permalink: /056
 ## >попробовать гриб на вкус
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_055_4.png)
 
 С другой стороны, ты сам уже <strong>очень давно не ел</strong>. Решив, что гриб будет не против, ты <strong>срываешь </strong>политый рассолом грибок и <strong>ешь </strong>его.
 
@@ -44,7 +45,7 @@ permalink: /056
 ## >cделать из части гриба шляпу для маскировки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_055_5.png)
 
 Наконец-то, пришло время <strong>мимикрии</strong>!
 

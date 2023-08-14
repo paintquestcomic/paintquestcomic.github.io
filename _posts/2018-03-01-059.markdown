@@ -1,50 +1,51 @@
 ---
 layout: comic
-date:   2018-09-16 00:00:00 
+date: 2018-09-16 00:00:00
 title: ">сделать грибную шляпу для Марио"
 category: page
 permalink: /059
 ---
+
 # >сделать грибную шляпу для Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_058_1.png)
 
 Надо показать свой дружелюбный настрой, сделав Марио <strong>подарок</strong>. Возможно, <strong>грибная шляпа</strong> сможет его развеселить!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote><em>— </em>🍄🎩🎁!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Послушай, тут не очень принято издеваться над телами недавно умерших. У нас сейчас есть дела поважн-</em></blockquote>
 
 ## >угостить Марио рассолом из берета
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_058_2.png)
 
 Может, он голоден? Ничего, немного <strong>рассола </strong>ему точно поможет!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote><em>— </em>😙<em>!</em></blockquote>
 
 Постой, что-то не так…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_058_3.png)
 
 <strong>Конечно же</strong>! Ты же сам <strong>вылил</strong> весь <strong>рассол </strong>на гриб чуть раньше!
 
 Ох, в какой неловкой ситуации ты оказался. <em>Глупо получилось</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Так, моё терпение на исходе! Мне надоела эта бесконечная клоунада!</em></blockquote>
 

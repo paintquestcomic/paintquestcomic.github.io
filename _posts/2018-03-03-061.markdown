@@ -1,21 +1,22 @@
 ---
 layout: comic
-date:   2018-09-20 00:00:00 
+date: 2018-09-20 00:00:00
 title: ">насадить грибную шляпу на балку и поджечь в печи"
 category: page
 permalink: /061
 ---
+
 # >насадить грибную шляпу на балку и поджечь в печи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_060_1.png)
 
 Хм. Это было очевиднее, чем я думал.
 
 Вогнав длинную <strong>пластину </strong>в бок <strong>шляпки</strong>, ты подносишь его к открытому люку пылающего <strong>горна</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_060_2.png)
 
 Вау, это даже <strong>сработало</strong>!
 
@@ -24,11 +25,11 @@ permalink: /061
 <em>И хрустящих внутренностей тоже</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_060_3.png)
 
 Удручённый, ты садишься возле огня, держа в руках <strong>обугленную </strong>шляпку. Из любопытства к тебе решил заглянуть <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_060_4.png)
 
 <em>Ну хоть на вкус она лучше, чем на вид.</em>

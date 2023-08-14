@@ -1,28 +1,29 @@
 ---
 layout: comic
-date:   2018-09-14 00:00:00 
+date: 2018-09-14 00:00:00
 title: ">y"
 category: page
 permalink: /058
 ---
+
 # >y
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_1.png)
 
 Некоторые поступки просто кажутся правильными. Порой этого хватает.
 
 Ты принимаешь решение, а вместе с ним — и свою <strong>судьбу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_MushroomSage.png)
 
 <blockquote><em>— Я очень рад, что ты принял такое решение. Заметь, у тебя был выбор, но ты выбрал то, что выбрал.</em></blockquote>
 
 <blockquote>Ах да, где же мои манеры?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Fangus.png)
 
 <blockquote><em>— В этих местах я известен как <strong><strong>Фангус Праотец</strong></strong>. Долгие годы я взращивал в своём теле <strong><strong>споры </strong></strong>— это была моя <strong><strong>судьба</strong></strong>, моё предназначение. Теперь оно подошло к концу.</em></blockquote>
 
@@ -31,25 +32,25 @@ permalink: /058
 <blockquote>Но тебя не должна беспокоить смерть старого гриба.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Что? Нет! Праотец, сейчас не время умирать!</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Fangus.png)
 
 <blockquote><em>— Пришло время поведать тебе твою судьбу, Гарри.</em></blockquote>
 
 <blockquote><strong>Отнеси мои споры вниз, в беспросветные пещеры, не знающие следа жизни</strong> — это твоё предназначение.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Fangus.png)
 
 <blockquote><em>— Я трачу свои последние силы, чтобы передать тебе эти споры, Гарри</em>. Не беспокойся, я положу их туда, откуда ты их не выронишь.</blockquote>
 
@@ -58,24 +59,24 @@ permalink: /058
 <blockquote><strong>ГРИБНЫЕ СПОРЫ </strong>ДОБАВЛЕНЫ (???) В ИНВЕНТАРЬ</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Fangus.png)
 
 <blockquote><em>— А что касается тебя, мои юный друг…</em></blockquote>
 
 <blockquote>Для тебя у меня тоже есть задание — <strong>помоги Гарри всем, чем можешь</strong>.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Так, постой, Праотец, мы об этом не договаривались!</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_4.png)
 
 Заметно, что с каждым словом <strong>Фангус </strong>теряет всё больше и больше сил.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Fangus.png)
 
 <blockquote><em>— Неужели ты будешь противиться последней воле старика на смертном одре? Поверь мне, без тебя Гарри не справится.</em></blockquote>
 
@@ -84,14 +85,14 @@ permalink: /058
 <blockquote>Прощай, мой юный друг, я верю, что у тебя всё получится. И прощай, Гарри, приятно было увидеть тебя собственными глазами…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_5.png)
 
 С этими словами <strong>старый гриб</strong> падает в паре шагов от тебя. Жизнь <strong>покинула</strong> его тело.
 
 <strong>Марио </strong>падает на колени возле бездыханного тела Фангуса.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Так, спокойно, не паниковать. Праотец сам сказал — я справлюсь, всё будет хорошо…</em></blockquote>
 
@@ -102,15 +103,15 @@ permalink: /058
 ## >cкорчить такую рожицу — 😜
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_057_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote><em>— </em>😜<em>!</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Мда. Сочту это за <strong><strong>да</strong></strong>.</em></blockquote>
 
@@ -118,4 +119,4 @@ permalink: /058
 
 Ну конечно же! Как миму, тебе не положено <strong>произносить слова</strong>, однако твой неповторимый талант <strong>пантомимы </strong>позволит тебе общаться при помощи <strong>идеограмм</strong>!
 
-(<em>Ну или</em> <strong><em>эмодзи</em></strong>, или как там сейчас модно говорить. Короче, если хочешь с кем-то поговорить: слова — нет, маленькие картинки — да.) 
+(<em>Ну или</em> <strong><em>эмодзи</em></strong>, или как там сейчас модно говорить. Короче, если хочешь с кем-то поговорить: слова — нет, маленькие картинки — да.)

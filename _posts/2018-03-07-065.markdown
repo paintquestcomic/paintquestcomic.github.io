@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-09-28 00:00:00 
+date: 2018-09-28 00:00:00
 title: ">достать предмет из фонтана"
 category: page
 permalink: /065
 ---
+
 # >достать предмет из фонтана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_064_1.png)
 
 При ближайшем рассмотрении выяснилось, что предметом оказался некий <strong>герметичный пакет</strong>. Это объясняет, почему он находился под <strong>водой</strong>.
 
@@ -17,14 +18,14 @@ permalink: /065
 ## >положить одну бутылку с водой в инвентарь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_064_3.png)
 
 Ты находишь самый бутылкообразный <strong>сосуд </strong>с <strong>водой </strong>и помещаешь его себе в <strong>инвентарь</strong>.
 
 На всякий случай ты кладёшь туда и <strong>герметичный пакет</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_064_2.png)
 
 <blockquote><strong>ГЕРМЕТИЧНЫЙ ПАКЕТ </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -35,7 +36,7 @@ permalink: /065
 ## >заглянуть в дверь, из которой вывалились бутылки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_064_4.png)
 
 К сожалению, тебе трудно что-либо разобрать в <strong>темноте </strong>помещения за дверью.
 
@@ -44,7 +45,7 @@ permalink: /065
 ## >залезть на фонтан и изобразить статую
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_064_5.png)
 
 Эй, а это оказалось <strong>веселее</strong>, чем я думал! Да и тебе тоже довольно весело!
 

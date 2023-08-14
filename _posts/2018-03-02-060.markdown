@@ -1,29 +1,30 @@
 ---
 layout: comic
-date:   2018-09-18 00:00:00 
+date: 2018-09-18 00:00:00
 title: ">пойти за Марио"
 category: page
 permalink: /060
 ---
+
 # >пойти за Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_059_1.png)
 
 Да, надо бы уже пойти навстречу <strong>Марио</strong>, а то не хочется портить отношения с единственным дружелюбным лицом.
 
 Ну<em>, относительно дружелюбным.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Ты готов? Пошли, нельзя терять ни секунды.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_059_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Так вот, насколько я знаю, существует только один безопасный путь вниз — через старый <strong><strong>пневмолифт</strong></strong>.</em></blockquote>
 
@@ -32,10 +33,10 @@ permalink: /060
 <blockquote>Ещё припоминаю что-то про засор пневмотруб на нижних уровнях, хотя… пока неважно.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_059_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Поэтому, первым делом необходимо <strong><strong>найти </strong></strong>именно <strong><strong>детали</strong></strong>. Если я правильно помню, то одна из деталей находится где-то совсем неподалёку.</em></blockquote>
 
@@ -44,7 +45,7 @@ permalink: /060
 ## >привязать себя веревкой к Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_059_4.png)
 
 На мой взгляд, Марио <strong>не понравится</strong> снова быть связанным, у него точно какая-нибудь посттравматическая травма на почве его травмы, полученной в результате травмирующего висения вниз головой на верёвке, да ещё и с кляпом во рту.
 
@@ -55,7 +56,7 @@ permalink: /060
 ## >сделать факел из металлической пластины и грибной шляпы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_059_5.png)
 
 К сожалению, твоей фантазии не хватает для того, чтобы из этих <strong>объектов</strong> сделать <strong>факел</strong>.
 

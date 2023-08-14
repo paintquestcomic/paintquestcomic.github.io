@@ -1,14 +1,15 @@
 ---
 layout: comic
-date:   2018-08-27 00:00:00 
+date: 2018-08-27 00:00:00
 title: ">развернуться боком и пройти сквозь щель между шипами"
 category: page
 permalink: /054
 ---
+
 # >развернуться боком и пройти сквозь щель между шипами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_053_1.png)
 
 К твоему сожалению, это не тот случай, когда преграда состоит из кольев, между которыми очевидно <strong>можно пройти</strong>.
 
@@ -17,7 +18,7 @@ permalink: /054
 ## >сбить вазу шлакоблоком на верёвке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_053_5.png)
 
 Скорее всего, для преодоления этой <strong>преграды </strong>необходимо каким-либо образом избавиться от <strong>вазы</strong>, давящей на <strong>плиту</strong>.
 
@@ -32,7 +33,7 @@ permalink: /054
 ## >объединить все доступные предметы в один
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_053_2.png)
 
 Место в инвентаре ограничено, поэтому надо использовать его <strong>оптимально</strong>. Ты решаешь <strong>связать </strong>все доступные тебе предметы <strong>в один</strong> с помощью <strong>верёвки</strong>, чтобы хранить всё в одной ячейке.
 
@@ -43,7 +44,7 @@ permalink: /054
 В результате, помимо шлакоблока, тебе удалось привязать: <strong>Угол Обзора</strong>, <strong>пять дротиков</strong> и <strong>гаечный ключ</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_053_3.png)
 
 <blockquote><strong>ВЕРЁВКА С ПРЕДМЕТАМИ </strong>ДОБАВЛЕНА (С ОПРЕДЕЛЁННЫМ ТРУДОМ) В ИНВЕНТАРЬ</blockquote>
 
@@ -52,11 +53,11 @@ permalink: /054
 ## >вытащить гвоздь из металлической стены
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_053_4.png)
 
 Зайдя сюда в первый раз, ты тут же приметил, что из одной из верхних пластин торчит <strong>гвоздь</strong>. Ты решаешь перепровер-
 
-<strong>Стоп.</strong> 
+<strong>Стоп.</strong>
 
 Это не <strong>гвоздь</strong>. И торчит он не из <strong>пластины</strong>.
 
