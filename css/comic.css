@@ -259,6 +259,29 @@ body {
 }
 
 
+.content .audio-player {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  flex-direction: column;
+}
+
+.audio-player p {
+  font-family: 'PT Serif';
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 0px;
+  line-height: 150%;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 2px;
+  padding-bottom: 0px;
+}
+
+
 .godot-wrapper-450x600 {
   max-width: 600px;
   max-height: 450px;

@@ -67,7 +67,7 @@ permalink: /186
 Голосовой помощник, включи второй трек. 
 
 {: .p-ignore }
-ADD AUDIO PLAYER HERE
+{% include audio-player.html src="pages/audio/second-track.mp3" name="Второй трек feat. Нарушение авторских прав"%}
 
 <em>Наслаждайтесь.</em>
 

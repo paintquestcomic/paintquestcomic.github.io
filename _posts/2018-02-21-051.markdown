@@ -20,7 +20,7 @@ permalink: /051
 Голосовой помощник неопределённого бренда, включи первый трек.
 
 {: .p-ignore }
-ADD AUDIO PLAYER HERE
+{% include audio-player.html src="pages/audio/first-track.mp3" name="Первый трек"%}
 
 ## >аккуратно составить около балкона башню из дротиков
 
@@ -67,4 +67,4 @@ ADD AUDIO PLAYER HERE
 Так грустно. <em>Голосовой помощник, первый трек.</em>
 
 {: .p-ignore }
-ADD AUDIO PLAYER HERE
+{% include audio-player.html src="pages/audio/first-track.mp3" name="Первый трек"%}
