@@ -495,6 +495,7 @@ space it's allowed to - the game-wrapper will set the bounds.
     padding-top: 10px;
     background-size: auto auto, 25% auto;
     background-attachment: fixed;
+    background-color: #3f3f74ff;
     background-image: linear-gradient(
         to bottom,
         #3f3f74ff,
@@ -512,6 +513,18 @@ space it's allowed to - the game-wrapper will set the bounds.
 
   .content {
     color: white;
+  }
+
+  .content cite::before {
+    border-color: white;
+  }
+
+  .content cite::after {
+    border-color: white;
+  }
+
+  .content blockquote {
+    border-color: white;
   }
 }
 
