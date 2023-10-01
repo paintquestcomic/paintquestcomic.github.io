@@ -8,7 +8,7 @@ permalink: /131
 # >запаниковать
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_130_1.png)
 
 <strong>Осознание происходящего</strong> заставляет тебя впасть в <strong>панику </strong>от безысходности текущей <strong>ситуации</strong>.
 
@@ -19,14 +19,14 @@ permalink: /131
 ## >отодвинуть шланг, выходящий из цистерны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_130_2.png)
 
 Ты пытаешься хоть немного сдвинуть <strong>рассолоносную трубу</strong> подальше от дыры, но твои усилия оказываются <strong>напрасны</strong>. Труба слишком <strong>крепко приделана </strong>к цистерне, а в твоём ушастом тельце сил явно <strong>не наберётся</strong>.
 
 ## >вновь стать Гарри и разбить стекло невидимой кувалдой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_130_3.png)
 
 <strong>Ты не можешь сейчас стать Гарри!</strong> Он очень занят тем, что пытается вспомнить, как <strong>плавать </strong>(<em>и умел ли он плавать вообще</em>), и пока <strong>память его подводит</strong>!
 
@@ -35,7 +35,7 @@ permalink: /131
 ## >просто повернуть вентиль и перекрыть трубу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_130_4.png)
 
 Ты поворачиваешь очевидный <strong>вентиль </strong>у основания трубы.
 

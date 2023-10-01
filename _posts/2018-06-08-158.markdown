@@ -8,7 +8,7 @@ permalink: /158
 # >наконец-то осознать смысл бытия под этой психотропной водой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_1.png)
 
 <strong>Психотропной</strong>? За исключением <strong>зуда в глазах</strong>, ты не чувствуешь каких-либо изменений в своей <strong>психике</strong>. Да, <strong>восприятие </strong>у тебя изменилось, но <strong>понять смысл бытия</strong>?
 
@@ -17,7 +17,7 @@ permalink: /158
 ## >снова заглянуть в книгу, уже под эффектом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_2.png)
 
 А вот это уже <strong>интересно</strong>.
 
@@ -26,7 +26,7 @@ permalink: /158
 ## >прочитать остальные страницы открытой книги
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_3.png)
 
 Ты листаешь <strong>книгу </strong>и находишь интересную <strong>пару страниц</strong>. На первой — <strong>четыре разных треугольных символа</strong>, подписанных как «<strong>СТОЛПЫ</strong>». 
 
@@ -35,7 +35,7 @@ permalink: /158
 Ты продолжаешь листать.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_4.png)
 
 А <strong>эти страницы</strong>, видимо, надо смотреть <strong>только под эффектом</strong>. Ты без понятия, что это всё значит.
 
@@ -44,26 +44,26 @@ permalink: /158
 ## >смотреть на Марио, долго
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_5.png)
 
 Ты пристально смотришь на своего <strong>компаньона</strong>. Что-то ему в этом <strong>не нравится</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Т-ты знаешь, к-к-как-то странно видеть тебя с-с-со зрачками. Т-так непривычно, д-да?</blockquote>
 
 Долго <strong>Марио </strong>не выдерживает, и в конечном итоге он <strong>убегает </strong>в соседнюю комнату.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— С-стой на месте! Я с-с-скоро вернусь!</blockquote>
 
 ## >стать Марио и облить Гарри водой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_157_6.png)
 
 Ты становишься <strong>Марио</strong>.
 

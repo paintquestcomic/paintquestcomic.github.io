@@ -8,12 +8,12 @@ permalink: /155
 # >вернуться за вещами, оставленными у фонтана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_1.png)
 
 Ты возвращаешься в <strong>комнату с фонтаном</strong> и забираешь <strong>всё</strong>, что оставил тут в попытке начать стекольный бизнес.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_2.png)
 
 Давно я такого не видел, без литейной формы твой <strong>инвентарь </strong>стал чуть <strong>просторнее</strong>! 
 
@@ -22,12 +22,12 @@ permalink: /155
 ## >попробовать открыть форму и узнать, что можно выплавить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_3.png)
 
 Вернувшись к плавильне, ты хватаешь <strong>форму для литья</strong> двумя руками и стараешься <strong>разделить </strong>две половинки. Тебя прерывает <strong>Марио</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Постой! Давай сначала что-нибудь выплавим, а потом откроем форму. </blockquote>
 
@@ -38,7 +38,7 @@ permalink: /155
 ## >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_4.png)
 
 <strong>Здравая мысль</strong>, ты уже давно не сохранялся.
 
@@ -47,7 +47,7 @@ permalink: /155
 ## >попробовать выплавить стекло
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_5.png)
 
 Для своего <strong>первого литейного опыта</strong> ты выбираешь довольно нестандартный материал — <strong>стекло</strong>.
 
@@ -60,7 +60,7 @@ permalink: /155
 Ты даешь стеклу немного времени, чтобы остыть, после чего вы открываете <strong>форму</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_6.png)
 
 <strong>Это</strong>… определённо что-то. <strong>Что-то</strong>, что обычно из стекла не делают. 
 
@@ -69,12 +69,12 @@ permalink: /155
 У него есть <strong>ручка</strong>, а также большая <strong>круглая поверхность</strong>. <strong>Круглая </strong>и <strong>рельефная</strong>. Очевидно, что это какой-то <strong>инструмент</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Мне кажется, или это…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_154_7.png)
 
 Ты подбираешь <strong>объект</strong>.
 
@@ -85,6 +85,6 @@ permalink: /155
 <strong>Это же…</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— …<strong>сковорода</strong>?</blockquote>

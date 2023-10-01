@@ -8,7 +8,7 @@ permalink: /146
 # >открутить винты у пластин на машине с помощью пластины
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_145_1.png)
 
 Ты проверяешь <strong>винты </strong>на <strong>нарисованность</strong>. В этот раз они оказываются <strong>настоящими </strong>(<em>несмотря на то, что визуально они абсолютно неотличимы от нарисованных</em>).
 
@@ -17,7 +17,7 @@ permalink: /146
 ## >пнуть по пластинам
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_145_2.png)
 
 Теперь, когда <strong>винты ослаблены</strong>, можно попробовать снять <strong>пластины </strong>с машины. Хватает одного <strong>пинка</strong>, чтобы они <strong>отвалились</strong>.
 
@@ -26,19 +26,19 @@ permalink: /146
 ## >свернуть банкноту в трубочку и всунуть в форму для литья
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_145_3.png)
 
 Решив сохранить <strong>купюру </strong>на потом, ты сворачиваешь её в трубочку, а затем прячешь в <strong>литейной форме</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_145_4.png)
 
 <blockquote><strong>ФОРМА ДЛЯ ЛИТЬЯ С КУПЮРОЙ ВНУТРИ</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
 ## >положить бумажку с кодом в берет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_145_5.png)
 
 Ты спускаешься <strong>вниз </strong>и подбираешь <strong>обрывок кода</strong> со стола. Ты прячешь его в свой <strong>берет</strong>.
 

@@ -8,22 +8,22 @@ permalink: /112
 # >Бенедикт
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_111_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Меня зовут Б-Бенедикт!</blockquote>
 
 <blockquote>Бенедикт Рамси фон Клециклацик III, к вашим услугам!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Правда? Ты больше на «Бинго» походишь, чем на «Беню». Вообще, звучит так, словно ты только что это имя придумал.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Даже не смей. Клянусь, если ещё раз я услышу «Беня»…</blockquote>
 
@@ -32,7 +32,7 @@ permalink: /112
 ## >использовать верёвку в качестве поводка для бутерброда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_111_2.png)
 
 Нехитрыми действиями ты <strong>обвязываешь Пармезана </strong>своей новоприобретённой <strong>верёвкой</strong>. 
 
@@ -41,7 +41,7 @@ permalink: /112
 <strong>Марио </strong>явно не в восторге от твоего поведения, учитывая, что <em>ты только что обвязал верёвкой гнилой бутерброд</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что ты твор- нет, даже не отвечай. Я не знаю, что ты делаешь, и знать определённо не хочу.</blockquote>
 

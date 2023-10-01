@@ -8,7 +8,7 @@ permalink: /123
 # >поймать и съесть мух
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_1.png)
 
 <strong>Фу, какая мерзость!</strong> Тебе от одной мысли становится нехорошо.
 
@@ -17,7 +17,7 @@ permalink: /123
 ## >начать поедать содержимое мусорного бака
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_2.png)
 
 <strong>Ну это вообще уже ни в какие ворота не лезет!</strong>
 
@@ -26,7 +26,7 @@ permalink: /123
 ## >опрокинуть мусорку со злости
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_3.png)
 
 О да, сейчас ты очень <strong>зол</strong>, и прежде всего <strong>на себя самого</strong>. 
 
@@ -35,21 +35,21 @@ permalink: /123
 Со злости ты пинаешь <strong>мусорный бак</strong>, <strong>опрокидывая </strong>его на бок.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_4.png)
 
 И теперь всё <strong>содержимое бака</strong> разлетелось по комнате. <strong>Красота</strong>.
 
 ## >развязать веревку, прижать кубики к грани объекта, туго обвязать все это веревкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_5.png)
 
 Ты решаешь успокоить себя знакомым путём — <strong>обманом системы инвентаря</strong>.
 
 Ты <strong>обвязываешь верёвкой неизвестный объект и кубики</strong>, тем самым освобождая ячейку инвентаря. <em>Опять</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_6.png)
 
 <blockquote><strong>НЕ ПО-ДЖЕНТЛЬМЕНСКИ СКОМПРЕСОВАННАЯ КУЧА БАРАХЛА </strong>ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -58,7 +58,7 @@ permalink: /123
 ## >изучить закрытую дверь в форме робота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_7.png)
 
 Такая же <strong>закрытая</strong>, такая же <strong>дверь</strong>, та же <strong>форма</strong>. Рядом не видно ни ручек, ни кнопок, ни других способов её открывания.
 
@@ -67,7 +67,7 @@ permalink: /123
 ## >просунуть руку в отверстие в стене
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_8.png)
 
 В список твоих хобби уже давно пора добавить «<em>засовывание конечностей в тёмные дыры</em>». 
 
@@ -76,7 +76,7 @@ permalink: /123
 …<strong>шевелящееся</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_122_9.gif)
 
 Ты достаёшь из дыры <strong>мышь</strong>. 
 

@@ -8,7 +8,7 @@ permalink: /147
 # >постучать в стенку, в которую ведут трубы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_1.png)
 
 Забравшись на один из <strong>механизмов</strong>, ты начинаешь <strong>простукивать стенку</strong>.
 
@@ -17,7 +17,7 @@ permalink: /147
 ## >обследовать устройство на предмет кнопок/рычагов
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_2.png)
 
 Увы, но ты не находишь <strong>ни кнопок</strong>, <strong>ни рычагов </strong>и ни других <strong>человеко-машинных интерфейсов</strong>. 
 
@@ -26,7 +26,7 @@ permalink: /147
 ## >сделать эскиз карты пройденного пути по памяти на стальной пластине
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_3.png)
 
 А это очень хорошая идея.
 
@@ -35,27 +35,27 @@ permalink: /147
 <em>Был ещё вариант нацарапать карту электродротиком. Ты, конечно, физику не знаешь, но всё-таки ты решил не рисковать и не касаться металла наэлектризованным наконечником.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_4.png)
 
 Через некоторое время твой <strong>шедевр </strong>оказывается готов. Правда, свалка не поместилась полностью на пластину, и пропорции в некоторых местах могут отличаться от реальности, но, в целом, <strong>карта вышла точная</strong>!
 
 Трудно, однако, рисовать <strong>трёхмерное </strong>пространство в <strong>двумерной</strong> плоскости. <em>Ты… и сам немного путаешься в нарисованной карте.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_5.png)
 
 <blockquote><strong>МЕТАЛЛИЧЕСКАЯ КАРТА</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
 ## >вернуться к машине для бурения и вставить батарейку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_146_6.png)
 
 По <strong>новой карте </strong>вы с (<em>относительной</em>) простотой находите путь до <strong>бурильной машины</strong>.
 
 Вот только план по её <strong>оживлению </strong>омрачает одно <strong>обстоятельство</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Нет, эта батарейка слишком крупная даже для бурильной установки. Не влезет. Ну, не ногами же её пихать внутрь?</blockquote>

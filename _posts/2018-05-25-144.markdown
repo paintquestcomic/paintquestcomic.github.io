@@ -8,14 +8,14 @@ permalink: /144
 # >выключить прожектор
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_143_1.png)
 
 Ты выключаешь <strong>прожектор</strong>, дёрнув за <strong>рычаг</strong>. Пещера погружается в темноту.
 
 ## >проложить дыру чем-нибудь тяжелым
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_143_2.png)
 
 Достав из инвентаря <strong>металлическую пластину</strong>, ты вставляешь её угол в <strong>трещину </strong>и начинаешь проворачивать, стараясь <strong>расширить дыру</strong>.
 
@@ -24,14 +24,14 @@ permalink: /144
 ## >оставить Пармезана охранять тело робота и взять батарейку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_143_3.png)
 
 Ты достаёшь <strong>бутерброд </strong>из инвентаря и кладёшь его сверху на устройство, чтобы он с высоты присматривал за побеждённым <strong>роботом</strong>.
 
 В освободившуюся ячейку инвентаря ты кладёшь <strong>батарейку</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_143_4.png)
 
 <blockquote><strong>БАТАРЕЙКА С ИНДИКАТОРОМ</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -40,14 +40,14 @@ permalink: /144
 ## >пойти в правую сторону тоннеля
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_143_5.png)
 
 Вы поворачиваете назад и идёте <strong>в другую сторону</strong> от лестницы.
 
 Вы приходите в<strong>-</strong> <strong>что, чёрт возьми, тут вообще творится!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— М-мне не нравится это место.</blockquote>
 

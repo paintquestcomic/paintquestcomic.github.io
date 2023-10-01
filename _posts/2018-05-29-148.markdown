@@ -8,48 +8,48 @@ permalink: /148
 # >пихать батарейку внутрь ногами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_147_1.png)
 
 Пфф, как будто <strong>разница в размере</strong> может тебе помешать! <em>Не мешала раньше, не будет мешать и сейчас!</em>
 
 Немного <strong>силы </strong>— и всё встанет на своё место!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты серьёзно, да?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_147_2.png)
 
 Пусть предательская <strong>батарейка </strong>и не входит, но сдаваться ты не собираешься.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И с кем мне приходится работать? Поверить не могу…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_147_3.png)
 
 Неожиданно, после очередной неудачной попытки запихнуть <strong>батарейку </strong>внутрь, с неё <strong>слетает индикатор</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ну что я говорил! Надеюсь, ты её не окончательно сломал.</blockquote>
 
 ## >попробовать вскрыть стальной пластиной красный агрегат
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_147_4.png)
 
 Оставив <strong>Марио</strong> и отлетевший <strong>индикатор </strong>в бурильной комнате, ты возвращаешься в комнату с <strong>зубно-пастовой машиной</strong>.
 
 Если машина на самом деле принимает <strong>купюры</strong>, то стоит проверить, не потерялась ли парочка внутри <strong>механизма</strong>? Ты просовываешь <strong>карту-пластину</strong> между <strong>крышкой </strong>и <strong>корпусом красного агрегата</strong> и пытаешься отделить их друг от друга.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_147_5.png)
 
 Через некоторое время <strong>крышка </strong>поддаётся.
 

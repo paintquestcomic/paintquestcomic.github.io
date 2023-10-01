@@ -8,7 +8,7 @@ permalink: /136
 # >к чёрту мистику, надо спасти Гарри, идём налево!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_135_1.png)
 
 <em>Правильно, нечего время попусту тратить!</em>
 
@@ -23,7 +23,7 @@ permalink: /136
 ## >кинуть дротики
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_135_2.gif)
 
 Ты кидаешь один из <strong>дротиков </strong>в <strong>робота</strong>.
 
@@ -32,7 +32,7 @@ permalink: /136
 <em>Так, делаем заметку</em>: <strong>маленькие безобидные дротики бесполезны против металлического корпуса</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_135_3.png)
 
 Конечно же, робот <strong>замечает </strong>орудие твоей крайне неэффективной атаки.
 

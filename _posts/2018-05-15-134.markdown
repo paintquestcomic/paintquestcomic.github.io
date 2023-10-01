@@ -8,7 +8,7 @@ permalink: /134
 # >включить гирлянду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_1.png)
 
 Ты вставляешь <strong>вилку </strong>в <strong>розетку</strong>.
 
@@ -17,7 +17,7 @@ permalink: /134
 ## >сунуть огурец в дыру в стене
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_2.png)
 
 С некоторым трудом тебе удаётся <strong>протолкнуть огурец </strong>через <strong>дыру в стене</strong>.
 
@@ -26,7 +26,7 @@ permalink: /134
 ## >присмотреться к тому предмету, которым прикрепили рисунок Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_3.png)
 
 При ближайшем рассмотрении выясняется, что <strong>рисунок Гарри</strong> прикреплён к <strong>мишени </strong>обычным <strong>гвоздём</strong>. 
 
@@ -35,7 +35,7 @@ permalink: /134
 ## >экипировать дротики в основной слот оружия
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_4.png)
 
 Ты экипируешь <strong>дротик </strong>в свой <strong>самый основной «слот оружия»</strong>.
 
@@ -46,7 +46,7 @@ permalink: /134
 ## >поглумиться над фотографией
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_5.png)
 
 <strong>Наконец-то! </strong>Пришло время выплеснуть всю <strong>злобу</strong>, которая накопилась в тебе за время нахождения рядом с <strong>этим клоуном</strong>!
 
@@ -55,7 +55,7 @@ permalink: /134
 Вот только дротик воткнулся с каким-то <strong>странным звуком</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_133_6.png)
 
 Вдруг, <strong>люк </strong>за твоей спиной <strong>открывается</strong>!
 

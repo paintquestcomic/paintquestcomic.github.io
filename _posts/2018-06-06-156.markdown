@@ -8,42 +8,42 @@ permalink: /156
 # >объединить карты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_1.png)
 
 Раз ты теперь знаешь, что с <strong>нижнего уровня</strong> можно попасть на <strong>верхний</strong>, то, возможно, стоит зафиксировать этот момент на <strong>карте</strong>?
 
 К сожалению, твоя <strong>старая бумажная карта</strong> куда-то <strong>затерялась</strong>. К счастью, тебе не составляет труда <strong>восстановить </strong>её. Ты выцарапываешь план этого уровня на обратной стороне <strong>пластины-карты</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_2.png)
 
 <em>Ну, вот как-то так.</em>
 
 ## >осмотреть комнату-поле битвы с мега-роботом и забрать кубок
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_3.png)
 
 В этой <strong>комнате </strong>тоже ничего не изменилось. <strong>Части босса-робота</strong> валяются по углам, <strong>ящики </strong>на месте, а <strong>огонь </strong>в <strong>кубке </strong>всё-таки <strong>погас</strong>.
 
 Теперь в кубке полно <strong>пепла</strong>. Не боясь испачкаться, ты всё-таки кладёшь его в <strong>инвентарь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_4.png)
 
 <blockquote><strong>ПОЛНЫЙ ПЕПЛА КУБОК</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 ## >отлить вторую сковороду, уже из металлических пластин
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_5.png)
 
 Освоив <strong>технологический процесс</strong>, ты решаешь изготовить ещё одну сковороду, в этот раз используя более <strong>подходящий материал</strong>.
 
 Теперь сырьём выступает <strong>длинная металлическая пластина</strong>, которую ты оставил тут на полу.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_6.png)
 
 Эта сковорода даже похожа на настоящую. Одно «<strong>но</strong>» — этот <strong>металл </strong>явно не планирует остывать <strong>так быстро</strong>, как <strong>стекло</strong>.
 
@@ -54,7 +54,7 @@ permalink: /156
 ## >пойти уже на восток от фонтана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_155_7.png)
 
 Да, хватит уже ходить вокруг да около, пора продолжить <strong>исследования</strong>!
 

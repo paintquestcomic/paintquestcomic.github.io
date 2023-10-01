@@ -8,12 +8,12 @@ permalink: /160
 # >прочитать какую-либо книгу из полки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_1.png)
 
 Ты возвращаешься в комнату с Гарри и берёшь одну из <strong>книг </strong>с нижней полки шкафа. <em>До верхних ты бы не достал</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_2.png)
 
 Как ты и думал.
 
@@ -24,7 +24,7 @@ permalink: /160
 ## >тоже лизнуть жидкости, чтобы узнать, что именно случилось
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_3.png)
 
 Ты наклоняешься к луже <strong>и-</strong> Что? <strong>Нет!</strong>
 
@@ -35,7 +35,7 @@ permalink: /160
 ## >в отчаянии ударить Гарри сковородой по голове, для его же блага
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_4.png)
 
 Ты крепко сжимаешь <strong>сковороду </strong>в руках. <strong>Мим </strong>всё ещё уставился в стену. Он даже не подозревает, что <strong>ты </strong>находишься сзади.
 
@@ -52,14 +52,14 @@ permalink: /160
 ## >снова стать Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_5.png)
 
 Так привычнее. Бедный <strong>Марио </strong>явно не справляется с тем, что его периодически берут под контроль.
 
 ## >Вспомнить, где мы видели изображение ключа, и сходить туда с новым зрением
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_159_6.png)
 
 Ты идёшь в свою старую <strong>камеру</strong>. <strong>Марио </strong>следует за тобой.
 

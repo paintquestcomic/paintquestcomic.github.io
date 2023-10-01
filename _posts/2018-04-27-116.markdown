@@ -8,7 +8,7 @@ permalink: /116
 # >подружиться с роботом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_115_1.png)
 
 Как бы спокойно ни сиделось тебе за непроходимой стеной колючей флоры, <strong>надо действовать</strong>. Первое действие в списке — <strong>завести новое знакомство</strong>.
 
@@ -25,7 +25,7 @@ permalink: /116
 ## >ДРУЖБАТАЛИЯ!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_115_2.png)
 
 Появление <strong>больших летающих в воздухе букв</strong> даёт тебе понять, что ты инициировал какую-то <strong>систему социальных взаимодействий</strong>.
 
@@ -38,12 +38,12 @@ permalink: /116
 ## >Пармезан! Я выбираю тебя!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_115_4.png)
 
 Ты достаёшь из своего инвентаря <strong>Пармезана </strong>и <strong>кидаешь </strong>его в генеральном направлении к <strong>роботу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_115_3.png)
 
 <em>Это было не очень эффективно…</em>
 

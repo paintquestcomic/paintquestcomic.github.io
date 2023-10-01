@@ -8,7 +8,7 @@ permalink: /129
 # >пойти по проводу и включить гирлянду в источник питания
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_1.png)
 
 <em>Хорошая идея! </em>
 
@@ -23,36 +23,36 @@ permalink: /129
 ## >смело броситься вперёд навстречу темноте, закрыв глаза
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_2.png)
 
 Зажмурив глаза, ты несёшься <strong>вперёд</strong>, в <strong>беспросветную тьму</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_3.png)
 
 …чтобы тут же <strong>споткнуться</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_4.png)
 
 …и упасть в какую-то <strong>яму</strong>. 
 
 Ты приземляешься на <strong>холодную </strong>и слегка <strong>влажную </strong>поверхность. От удара слышен звон, похожий на <strong>металлический.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, что там происходит! Что это был за звук?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_5.png)
 
 Поднявшись на ноги, ты всматриваешься в <strong>темноту</strong>. 
 
 <strong>Чувствуется чьё-то присутствие.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkRobot.png)
 
 <blockquote>— БИП БУП.</blockquote>
 
@@ -61,14 +61,14 @@ permalink: /129
 Слышен щелчок <strong>рубильника</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_128_6.png)
 
 Ты на мгновение слепнешь, когда включается <strong>прожектор</strong>, направленный тебе прямо в лицо. Через некоторое время твои глаза привыкают к яркому свету.
 
 Ты обнаруживаешь себя на дне <strong>огромной цистерны</strong>. Через стекло в стене ты видишь изрядно покорёженного <strong>робота, </strong><em>причём подозрительно знакомого.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_RobotRival.png)
 
 <blockquote>— БИП БУП! БИП БУП БИП БИП БУП! БУП БУП БИП БУП!</blockquote>
 

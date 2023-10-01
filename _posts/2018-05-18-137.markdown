@@ -8,14 +8,14 @@ permalink: /137
 # >понажимать кнопки и покрутить крутилки на электронной бандуре
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_1.png)
 
 У тебя <strong>глаза разбегаются</strong>, ты абсолютно не представляешь, с <strong>чего </strong>начать! Так много вариантов, целых… <em>четыре</em>?
 
 В итоге ты останавливаешься на <strong>большом красном переключателе</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_2.gif)
 
 <strong>Прожектор тухнет</strong>. Ты как-то умудрился отключить электричество.
 
@@ -26,14 +26,14 @@ permalink: /137
 ## >представить, что ты дикий тигр, и напасть на робота!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_3.png)
 
 <em>В логове зверя веди себя как зверь. Вцепись в победу когтями и клыками.</em>
 
 В тебе кипит дикая, животная <strong>ярость</strong>. Ты с <strong>дротиком </strong>в руках нападаешь на <strong>отвлечённого противника.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_4.png)
 
 <strong>Он тебя заметил и увернулся в последний момент! </strong>
 
@@ -42,14 +42,14 @@ permalink: /137
 Ты ловко <strong>приземляешься </strong>на ноги.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_5.png)
 
 <strong>Вот теперь началась настоящая битва.</strong>
 
 ## >отвлечь робота дротиком и вооружиться ведром с рассолом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_136_6.png)
 
 Ты бросаешь свой <strong>последний дротик</strong> в сторону от <strong>робота</strong>, делая вид, что промахнулся. Этого блефа достаточно, чтобы купить немного <strong>времени</strong>.
 

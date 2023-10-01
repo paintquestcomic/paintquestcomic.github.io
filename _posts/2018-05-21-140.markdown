@@ -8,18 +8,18 @@ permalink: /140
 # >почувствовать запах победы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_139_4.png)
 
 Ты бы никогда не подумал, что победа пахнет <strong>палёными микросхемами</strong> и <strong>солёными огурцами</strong>, но сейчас для тебя <strong>нет запаха слаще</strong>.
 
 ## >дождаться, пока у робота помрёт питающий элемент
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_139_1.png)
 
 <em>Я просто не могу поверить.</em>
 
-<strong>Мы уже проходили через это! Почти сто выпусков назад!</strong>
+<strong>Мы уже проходили через это! <a href="{{ site.url }}/043">Почти сто выпусков назад!</a></strong>
 
 <strong>Повторяю:</strong> рассол, возможно, <strong>магический</strong>. Робот, скорее всего, <strong>тоже</strong>. Над ними неподвластны законы физики. 
 
@@ -30,7 +30,7 @@ permalink: /140
 ## >осмотреть комнату, чтобы понять, как можно спасти Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_139_2.png)
 
 Теперь, когда неминуемая <strong>опасность </strong>всё-таки миновала, стоит перейти ко <strong>второй фазе </strong>твоего <strong>плана</strong> по спасению Гарри — собственно, <strong>самому спасению</strong>.
 
@@ -39,7 +39,7 @@ permalink: /140
 Однако… можно воспользоваться <strong>одним из рычагов</strong>, которым робот закрыл верх <strong>цистерны</strong>! Возможно, так получится её открыть и вытащить Гарри!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_139_3.png)
 
 Ты <strong>дёргаешь</strong> дальний от цистерны <strong>рычаг</strong>. 
 
@@ -48,7 +48,7 @@ permalink: /140
 ## >перезарядиться и сделать меткий контрольный выстрел
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_139_5.png)
 
 Ты подбираешь <strong>дротик </strong>с пола.
 

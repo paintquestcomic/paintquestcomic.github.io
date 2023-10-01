@@ -8,7 +8,7 @@ permalink: /141
 # >пополнить запас электродротиков
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_140_1.png)
 
 Ты поднимаешь с земли <strong>второй дротик</strong> и проводишь с ним те же <strong>манипуляции</strong>, что с первым. 
 
@@ -17,7 +17,7 @@ permalink: /141
 ## >направить прожектор на робота, чтобы рассол на нём быстрее высох
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_140_2.png)
 
 Ты двигаешь <strong>прожектор </strong>ближе к роботу и направляешь его на <strong>лужу рассола</strong>.
 
@@ -26,7 +26,7 @@ permalink: /141
 ## >открыть крышку механизма
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_140_3.png)
 
 Открыв <strong>боковую панель</strong> громоздкого <strong>устройства</strong>, ты находишь внутри серьёзных размеров <strong>батарейку </strong>(<em>или же аккумулятор?</em>) с индикатором.
 
@@ -35,7 +35,7 @@ permalink: /141
 ## >нажать другие кнопки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_140_4.png)
 
 <strong>Разнообразие </strong>(<em>четырёх</em>) <strong>кнопок </strong>снова вводит тебя в <strong>ступор</strong>, поэтому ты выбираешь уже проверенный вариант — нажать на <strong>красный переключатель</strong>.
 
@@ -44,7 +44,7 @@ permalink: /141
 Помимо того, откуда-то сверху доносится <strong>механический скрежет</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_140_5.png)
 
 <strong>Цистерна открывается!</strong>
 

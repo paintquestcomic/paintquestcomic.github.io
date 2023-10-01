@@ -8,7 +8,7 @@ permalink: /113
 # >выглянуть через выход, но не выходить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_1.png)
 
 Ты прислоняешься к <strong>двери</strong>, стараясь что-нибудь разглядеть за её небольшим окном. Однако, <strong>мутное стекло </strong>не даёт тебе ни шанса увидеть хоть что-то.
 
@@ -17,7 +17,7 @@ permalink: /113
 ## >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_2.png)
 
 За последнее время был достигнут довольно-таки приличный прогресс, хорошо было бы и <strong>сохраниться</strong>. Что ты, собственно, и <strong>делаешь</strong>.
 
@@ -30,7 +30,7 @@ permalink: /113
 ## >отвлечь Беню, схватить его шляпу и выкатиться на бочке из магазина
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_3.png)
 
 <em>Маэстро, к Вам в голову всегда приходят коварнейшие планы, и этот — не исключение.</em>
 
@@ -47,19 +47,19 @@ permalink: /113
 <strong>Марио </strong>устремляется вслед за тобой (<em>а скорее — подальше от разъярённого торговца</em>).
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_4.png)
 
 Снаружи ты не можешь удержаться от того, чтобы похвастаться своим новым <strong>трофеем</strong>. <strong>Марио </strong>явно не разделяет радости твоего триумфа.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, тут же верни шляпу этому дружелюбному джентльмену и извинись перед ним!</blockquote>
 
 <blockquote>Ты же понимаешь, что его дружелюбие сейчас быстро на нет спадёт!? У него же есть чёртов <strong>ла-</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_5.png)
 
 <strong>-зер.</strong>
 
@@ -84,7 +84,7 @@ permalink: /113
 ## >ЗАГРУЗИТЬ ПОСЛЕДНЕЕ СОХРАНЕНИЕ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_6.png)
 
 <strong>С немым криком ты просыпаешься. </strong>
 
@@ -99,14 +99,14 @@ permalink: /113
 <em>А кто обещал, что последствий от смерти не будет?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_112_7.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Эй, ушастый, с твоим другом всё в порядке? Вид у него какой-то… испуганный.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я… не знаю. Я его таким раньше никогда не видел.</blockquote>

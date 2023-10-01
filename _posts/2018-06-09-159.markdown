@@ -8,7 +8,7 @@ permalink: /159
 # >тщательно осмотреть всю комнату на предмет ключа
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_1.png)
 
 Пока <strong>Гарри </strong>сидит и рассматривает <strong>незримый мир</strong> вокруг нас, ты (<em>всё ещё Марио</em>) почему-то решаешь искать в комнате <strong>ключ </strong>или <strong>что-нибудь на него похожее</strong>.
 
@@ -19,7 +19,7 @@ permalink: /159
 ## >положить гриб в котелок, после растолочь его пластиной
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_2.png)
 
 Для начала тебе надо найти как <strong>гриб</strong>, так и <strong>пластину</strong>.
 
@@ -28,7 +28,7 @@ permalink: /159
 ## >налить в котелок воду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_3.png)
 
 Ты кладёшь <strong>гриб </strong>в котелок и расталкиваешь его <strong>треугольной пластиной</strong>, после чего ты заливаешь всё <strong>водой</strong>.
 
@@ -37,7 +37,7 @@ permalink: /159
 Кажется, ты что-то упустил…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_4.png)
 
 <strong>Постой, что!? Что ты мог упустить?</strong>
 
@@ -54,14 +54,14 @@ permalink: /159
 ## >вернуться за сковородой и вооружиться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_5.png)
 
 Точно, <strong>сковорода </strong>должна была уже остыть. 
 
 Ты быстренько доходишь до комнаты со сковородой за один <strong>видеомонтаж </strong>(<em>если, конечно, с точки зрения семантики картинку можно считать за видео из одного кадра</em>).
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_158_6.gif)
 
 Ты триумфально вооружаешься <strong>металлической сковородой</strong> на потенциально эпилептическом фоне с переменяющимися оранжевым и жёлтым.
 

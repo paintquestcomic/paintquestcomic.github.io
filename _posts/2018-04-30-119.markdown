@@ -8,7 +8,7 @@ permalink: /119
 # >проверить коллекцию разблокированных последователей
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_118_1.png)
 
 <strong>Последователей</strong>? Ты же <strong>мим</strong>, какие у тебя могут быть <strong>последователи</strong>?
 
@@ -19,7 +19,7 @@ permalink: /119
 ## >принять робота в свою команду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_118_2.png)
 
 Ты уже был готов поведать роботу о <strong>прекрасном мире пантомимы </strong>и о том, что у него к ней <strong>врождённый талант </strong>(<em>парень за всё время ни слова ни сказал!), </em>но вдруг твой металлический друг <strong>даёт дёру</strong>.
 
@@ -28,7 +28,7 @@ permalink: /119
 ## >забрать Пармезана и пойти в дверь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_118_3.png)
 
 Ты подбираешь <strong>Пармезана </strong>с пола. Ты не очень хорошо обращался с ним во время <strong>налаживания контакта</strong>, поэтому ты чувствуешь небольшую <strong>вину </strong>перед этим <strong>бутербродом</strong>.
 
@@ -41,7 +41,7 @@ permalink: /119
 Поэтому ты решаешь <strong>пойти дальше по коридору</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_118_4.png)
 
 Ну вот и <strong>новая комната</strong>!
 

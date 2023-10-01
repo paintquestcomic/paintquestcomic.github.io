@@ -8,17 +8,17 @@ permalink: /151
 # >cпросить робо-мышь про детали лифта
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_1.png)
 
 Теперь, когда были налажены каналы коммуникации между <strong>вами </strong>и вашим <strong>металлическим другом</strong>, можно начать <strong>диалог </strong>и, как вариант, <strong>получить полезную информацию</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— <strong>⚙️?</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mouse.png)
 
 <blockquote>— «<strong>ОЧИ ТВОИ ГЛЯДЯТ ПО СВЕТУ, НО ДИВИТ МЕНЯ ТВОЯ СЛЕПОТА.</strong></blockquote>
 
@@ -27,26 +27,26 @@ permalink: /151
 <blockquote><strong>НЕ ЗНАМШИ, КАК ПОД НОГИ СВОИ СМОТРЕТЬ, НЕ НАЙДЁШЬ НИЧЕГО.</strong>»</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_2.png)
 
 После этих слов на <strong>экране интерпретатора</strong> появляется до боли знакомая <strong>карта</strong>. Одно из мест отмечено <strong>крестом</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_3.png)
 
 Кажется, ты <strong>что-то</strong> упустил. Но <strong>что</strong>? 
 
 <strong>Что</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А правда же, ты же ту дверь взломал, а мы в неё так и не-</blockquote>
 
 ## >почувствовать вину за то, что оставил Пармезана зябнуть на холодном металле
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_4.png)
 
 <strong>Пармезан!</strong>
 
@@ -55,7 +55,7 @@ permalink: /151
 <strong>Оставив </strong>робо-мышь с интерпретатором, ты хватаешь <strong>Марио </strong>и бежишь с ним вниз, к <strong>Пармезану</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_5.png)
 
 Вы приходите в <strong>комнату </strong>с <strong>закороченным роботом</strong>. <strong>Пармезан </strong>всё ещё <strong>на месте</strong>, как и подобает.
 
@@ -68,19 +68,19 @@ permalink: /151
 ## >поручить Марио охранять бутерброд
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_6.png)
 
 Уверенный в своём <strong>компаньоне</strong>, ты передаёшь <strong>Пармезана </strong>в руки <strong>Марио</strong>. Ты рассчитываешь на то, что Марио будет <strong>заботиться</strong> о бутерброде, как о <strong>собственном дитя</strong>, иначе и быть не может.
 
 А вот Марио думает немного… <strong>по-другому</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Т-ты уверен, что хочешь отдать этот бутерброд мне? Я, честно говоря, лучше бы не прикасался к гнилой пище, ты знаешь…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_150_7.png)
 
 <em>Ха, как будто его отговорки смогут одолеть твою настойчивость.</em>
 

@@ -8,27 +8,27 @@ permalink: /125
 # >надеть медальон на себя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_124_1.png)
 
 Увы, но этот <strong>медальон </strong>делали с расчётом на кого-то с <strong>головой поменьше твоей</strong>.
 
 ## >показать медальон Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_124_2.png)
 
 Так как <strong>Марио </strong>знаком с неизвестным алфавитом, то, возможно, и про <strong>медальон </strong>он что-то знает?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Снова какой-то мусор принёс? Ладно давай <strong>сюд-</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_124_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Т-т-ты где это нашёл?</blockquote>
 
@@ -43,7 +43,7 @@ permalink: /125
 ## >попытаться открутить болты мышкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_124_4.png)
 
 У робо-мыши довольно интересный <strong>хвост</strong>. Может, с его помощью можно открутить <strong>болты</strong>?
 
@@ -54,7 +54,7 @@ permalink: /125
 ## >cкрестить мышь с Пармезаном, чтобы получить Пармеборга
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_124_5.png)
 
 <strong>Да! Конечно!</strong> Скрестив <strong>гнилой бутерброд</strong> и <strong>мелкого робота-грызуна</strong>, ты получишь <em>самое могущественное оружие во вселенной</em> — <strong>Пармеборга</strong>! 
 

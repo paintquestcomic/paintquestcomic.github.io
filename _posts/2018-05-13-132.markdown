@@ -8,7 +8,7 @@ permalink: /132
 # >стать Гарри и выпить половину рассола
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_131_1.png)
 
 Ты становишься <strong>Гарри</strong>.
 
@@ -21,7 +21,7 @@ permalink: /132
 ## >последним взглядом выразить презрение к роботу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_131_2.png)
 
 Через стекло ты <strong>смотришь </strong>на своего <strong>бывшего сокамерника</strong>.
 
@@ -42,7 +42,7 @@ permalink: /132
 ## >стать Марио и успокоить себя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_131_3.png)
 
 Ты снова <strong>Марио</strong>, и ты понимаешь, что <strong>пора взять себя в руки</strong>.
 
@@ -57,7 +57,7 @@ permalink: /132
 ## >пойти направо
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_131_4.png)
 
 Ты проходишь <strong>дальше</strong>. 
 

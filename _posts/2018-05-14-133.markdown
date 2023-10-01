@@ -8,7 +8,7 @@ permalink: /133
 # >перекусить аппетитным огурчиком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_132_1.png)
 
 Ты подбираешь <strong>огурец </strong>и откусываешь от него.
 
@@ -17,7 +17,7 @@ permalink: /133
 ## >открыть окно героя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_132_2.png)
 
 <strong>Да! Теперь все секреты Марио будут известны!</strong>
 
@@ -28,7 +28,7 @@ permalink: /133
 ## >кинуть огурец, чтобы проверить, что находится впереди
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_132_3.png)
 
 Ты решаешь <strong>проверить безопасность</strong> дальнейшего пути, кинув вперёд свой <strong>перекус</strong>.
 
@@ -37,7 +37,7 @@ permalink: /133
 ## >прокатиться дальше верхом на бочке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_132_4.png)
 
 <strong>Чего?</strong> Какая странная мысль.
 
@@ -48,7 +48,7 @@ permalink: /133
 ## >пройти дальше по коридору
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_132_5.png)
 
 Ты идёшь <strong>дальше</strong>, <em>нормальным образом</em>.
 

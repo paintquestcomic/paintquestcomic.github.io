@@ -8,17 +8,17 @@ permalink: /130
 # >сказать Марио, что всё будет 👌, и разбить стекло чем-нибудь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_1.png)
 
 <strong>Во-первых</strong>, надо убедить своего <strong>компаньона</strong>, что данная ситуация не представляет опасности.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— <strong>👌!</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Чего? Мне с этой высоты не очень хорошо видно, что ты там показываешь!</blockquote>
 
@@ -31,12 +31,12 @@ permalink: /130
 ## >помолиться Богу Безмолвия
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_2.png)
 
 Ты возводишь руки вверх, мысленно направляя свою духовную энергию к <strong>Богу Безмолвия</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_3.png)
 
 <strong>Ты чувствуешь, как тебя наполняют мимовские силы. </strong>
 
@@ -45,12 +45,12 @@ permalink: /130
 ## >cоздать невидимые ступеньки и забежать по ним
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_4.png)
 
 Заряженный <strong>мимовской энергией</strong>, ты создаёшь <strong>ступеньки </strong>и тут же начинаешь свой <strong>подъём </strong>по ним…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_5.png)
 
 Вдруг ты слышишь <strong>щелчок второго рубильника</strong>, который всё это время был <strong>за кадром</strong>!
 
@@ -69,7 +69,7 @@ permalink: /130
 ## >быть Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_129_6.png)
 
 Теперь ты <strong>Марио</strong>.
 

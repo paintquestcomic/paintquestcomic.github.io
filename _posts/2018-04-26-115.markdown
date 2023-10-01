@@ -8,7 +8,7 @@ permalink: /115
 # >облизать розовые кусты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_1.png)
 
 Ты облизываешь <strong>куст </strong>в надежде попробовать хотя бы капельку этой сладкой, живительной <strong>влаги</strong>.
 
@@ -19,12 +19,12 @@ permalink: /115
 ## >узнать у Марио, понимает ли он надпись «Магазин»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_2.png)
 
 Ты подводишь своего <strong>спутника </strong>к <strong>знаку</strong> и вопросительным жестом указываешь на <strong>текст</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что на этот раз? Этот знак?</blockquote>
 
@@ -35,12 +35,12 @@ permalink: /115
 ## >заглянуть в аллею
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_3.png)
 
 Ты решаешь более подробно изучить <strong>тёмную аллею, </strong>а также проверить, куда она ведёт. <strong>Марио </strong>немного нервничает.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты уверен, что ходить по тёмным переулкам рядом с магазинами сомнительного качества — хорошая идея?</blockquote>
 
@@ -53,7 +53,7 @@ permalink: /115
 Будем надеяться, что нам достался первый вариант.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_4.png)
 
 <strong>Аллея </strong>(<em>всё-таки оказавшаяся не переулком</em>) неожиданно заканчивается небольшой <strong>круглой комнатой</strong>.
 
@@ -66,7 +66,7 @@ permalink: /115
 ## >засунуть руку в то тёмное отверстие на стене
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_5.png)
 
 В твоей голове возникает очередная гениальная идея — <strong>засунуть свою конечность в тёмное отверстие, </strong>образованное трещиной в стене.
 
@@ -79,7 +79,7 @@ permalink: /115
 ## >спрятаться в кустах и ждать, пока придёт какой-нибудь робот
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_6.png)
 
 Скажем прямо, с <strong>роботами </strong>у тебя отношения <strong>не задались</strong>.
 
@@ -90,12 +90,12 @@ permalink: /115
 Ты занимаешь позицию за <strong>кустами роз</strong> (<em>потому что прятаться прямо в колючих кустах попахивает плохой идеей</em>). <strong>Марио </strong>нехотя, но тоже присоединяется к твоей игре в прятки.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А теперь ты что замыслил? Решил основать собственное партизанское движение? У нас дела есть, знаешь ли.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_114_7.png)
 
 Как ни странно, через некоторое время действительно появляется <strong>робот.</strong>
 

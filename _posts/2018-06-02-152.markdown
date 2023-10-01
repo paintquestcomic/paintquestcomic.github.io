@@ -8,14 +8,14 @@ permalink: /152
 # >познакомить мышь с Пармезаном
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_151_1.png)
 
 <strong>Ты их уже знакомил, балда!</strong>
 
 ## >вернуться за интерпретатором
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_151_2.png)
 
 Вызволив <strong>Пармезана </strong>из холодного подземного плена, вы возвращаетесь за <strong>интерпретатором</strong>. 
 
@@ -24,19 +24,19 @@ permalink: /152
 ## >идти к месту на карте, про которое рассказала мышь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_151_3.png)
 
 Если верить <strong>карте</strong>, то вы прибыли к <strong>пункту назначения</strong>. <strong>Экран интерпретатора </strong>гаснет.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_151_4.png)
 
 Эй, а ты помнишь это <strong>место</strong>! Да, ты точно помнишь, как взломал <strong>замок на двери</strong> при помощи <strong>кубика</strong>. 
 
 <em>Правда, потом вы решительно про неё забыли и пошли дальше. А потом ты попал в ловушку. Долгая история, короче.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Стоп, а чего тут всё ещё темно? Я же включил гирлянду!</blockquote>
 

@@ -8,7 +8,7 @@ permalink: /139
 # >впасть в боевую ярость
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_138_1.png)
 
 Ладно, <strong>довольно дрожать</strong>! Так просто ты не сдашься.
 
@@ -17,7 +17,7 @@ permalink: /139
 ## >с криком и слезами побежать к роботу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_138_2.png)
 
 <em>Ой, кажется, я ошибся с одной эмоцией.</em>
 
@@ -28,7 +28,7 @@ permalink: /139
 ## >запнуться об собственные ноги и опрокинуть рассол на робота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_138_3.png)
 
 <strong>-ноги.</strong>
 
@@ -37,7 +37,7 @@ permalink: /139
 <strong>Искрящий робот в агонии падает за тобой. </strong><em>Победа? Я думал, что эта битва будет чуть труднее, да ладно уже.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_138_4.png)
 
 Ты встаёшь с пола. 
 
@@ -48,7 +48,7 @@ permalink: /139
 ## >выпить рассол
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_138_5.png)
 
 Хмм, в <strong>ведре </strong>осталось немного <strong>рассола</strong>! Возможно, стоит всё-таки сделать <strong>победный глоток</strong>?
 

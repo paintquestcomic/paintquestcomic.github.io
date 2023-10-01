@@ -8,14 +8,14 @@ permalink: /120
 # >повнимательней осмотреть параллелепипедообразный объект
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_119_1.png)
 
 Вы подходите поближе к <strong>столу</strong>, на котором лежит <strong>неизвестный объект</strong>.
 
 <strong>Марио </strong>смотрит на него заинтересованно, внимательно <strong>изучая</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Две половины, скреплены между собой, отверстие сбоку…</blockquote>
 
@@ -26,7 +26,7 @@ permalink: /120
 ## >осмотреть дверь внизу и замок на ней
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_119_2.png)
 
 Приближаясь к <strong>двери</strong>, ты замечаешь кое-что, чего не видел издалека.
 
@@ -41,7 +41,7 @@ permalink: /120
 ## >угрожать пистолетом дыре в углу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_119_3.png)
 
 При помощи <strong>воображаемого пистолета</strong> ты максимально агрессивно угрожаешь <strong>дыре в углу</strong>.
 
@@ -52,7 +52,7 @@ permalink: /120
 ## >уверенно пройти дальше на восток
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_119_4.png)
 
 Вы идёте <strong>дальше </strong>на восток.
 

@@ -8,19 +8,19 @@ permalink: /153
 # >штука осветит нам путь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_1.png)
 
 Ты вспоминаешь про то, что у тебя в инвентаре имеется <strong>отличное устройство освещения</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_2.png)
 
 Ты достаёшь <strong>штуковину с кнопками</strong>, предварительно освободив её от <strong>ниток</strong>, <strong>верёвки </strong>и <strong>кубиков </strong>(<em>потому что я не собираюсь рисовать <strong><strong>это </strong></strong>в таком маленьком масштабе</em>). Всё это <strong>барахло </strong>ты собираешь в клубок и оставляешь в <strong>инвентаре</strong>.
 
 ## >пусть устройство держит Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_3.png)
 
 Ты отдаёшь <strong>Марио </strong>устройство, а сам забираешь <strong>ведро с Пармезаном</strong> у него из рук.
 
@@ -29,14 +29,14 @@ permalink: /153
 Вы проходите <strong>внутрь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_4.png)
 
 Тут <strong>лестница</strong>, ведущая вверх. Видимо, какое-то служебное помещение, судя по скудости интерьера. 
 
 Вы начинаете своё <strong>восхождение</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_5.png)
 
 Через пару-тройку лестничных пролётов вы достигаете <strong>верха</strong>.
 
@@ -47,6 +47,6 @@ permalink: /153
 Что ты, собственно, и<strong> делаешь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_152_6.png)
 
 <strong>С возвращением.</strong>

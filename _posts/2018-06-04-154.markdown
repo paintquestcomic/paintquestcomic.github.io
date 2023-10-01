@@ -8,7 +8,7 @@ permalink: /154
 # >напиться воды
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_1.png)
 
 Ты подбираешь один из <strong>сосудов с водой</strong>, чтобы утолить свою жажду. <strong>Марио </strong>тоже решает присоединиться к, за неимением более грациозного слова, <strong>водопою</strong>.
 
@@ -19,7 +19,7 @@ permalink: /154
 ## >наладить с Бенедиктом монополию на стеклотару
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_2.png)
 
 Ты не знаешь, почему, но пребывание в <strong>этой комнате</strong> заставляет тебя чувствовать… <strong>ностальгию</strong>,что ли? Ты не знаешь, сколько времени прошло с твоего падения в ту <strong>дыру</strong>, но все <strong>бутылки </strong>лежат на своих местах, нетронутые.
 
@@ -32,7 +32,7 @@ permalink: /154
 Для этого ты <strong>выкидываешь </strong>все предметы из <strong>инвентаря </strong>и заполняешь освободившиеся ячейки <strong>сосудами</strong> всех форм и размеров.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_3.png)
 
 <blockquote><strong>НАУЧНО-ВЫГЛЯДЯЩИЙ СОСУД</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -45,24 +45,24 @@ permalink: /154
 Словно <em>недавно пришедший к деньгам магнат стеклодувной промышленности</em>, ты отправляешься на встречу с <strong>будущим бизнес-партнёром</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_4.png)
 
 Ты приходишь в <strong>магазин </strong>и демонстративно ставишь один из <strong>сосудов </strong>на прилавок.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Приятель, у меня для тебя есть плохие новости…</blockquote>
 
 Бенедикт подходит к <strong>шкафу </strong>в углу и <strong>приоткрывает дверцу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_5.png)
 
 <strong>Чёрт!</strong> <strong>В шкафу полно стеклотары!</strong> В который раз перенасыщение рынка подводит твой стартап!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— У меня в достатке ровно две категории товаров: <strong>металлолом </strong>и <strong>стеклянная тара</strong>. </blockquote>
 
@@ -73,7 +73,7 @@ permalink: /154
 ## >отправиться к плавильне и отлить форму
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_6.png)
 
 <strong>Хорошая идея.</strong> Вы с Марио идёте в сторону <strong>плавильни</strong>.
 
@@ -82,14 +82,14 @@ permalink: /154
 Вот и <strong>шлакоблоки</strong>, и <strong>дротики</strong>, и (<em>светлая память</em>) <strong>Угол Обзора</strong>. Ты немного скучаешь по тем временам. <em>Всё тогда было… проще, наверное? Ты и сам не уверен.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_7.png)
 
 А вот и нереализованная <strong>могила </strong>Угла Обзора. Ты до сих пор не уверен, правильным ли было решением лишать его покоя в земле.
 
 <em>Хотя… нет, он может ещё пригодиться. Ты что-нибудь придумаешь.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_153_8.png)
 
 Ну и <strong>плавильная комната</strong>.
 

@@ -8,7 +8,7 @@ permalink: /145
 # >нажать на кнопку рядом с гильотиной
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_1.png)
 
 Ты дёргаешь за <strong>рычаг</strong>. <strong>Лезвие гильотины</strong> стремительно падает. Через некоторое время механизм вновь поднимает его.
 
@@ -17,7 +17,7 @@ permalink: /145
 ## >рассмотреть клочок бумаги
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_2.png)
 
 Твоя догадка подтверждается — перевернув <strong>обрывок бумаги</strong>, ты обнаруживаешь на нём знакомые <strong>разноцветные точки</strong>.
 
@@ -26,7 +26,7 @@ permalink: /145
 ## >сшить из лоскутов ткани шапки для Марио и Пармезана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_3.png)
 
 Да, введение единой <strong>униформы </strong>поспособствовало бы <strong>тимбилдингу</strong>, но есть одно но — без <strong>иголки </strong>ты ничего особо не сошьёшь. 
 
@@ -35,21 +35,21 @@ permalink: /145
 ## >привязать моток ниток к устройству, обвязанному верёвкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_4.png)
 
 Пришло время старого доброго <strong>менеджмента инвентаря</strong>.
 
 Ты обматываешь <strong>катушку с нитками</strong> вокруг загадочного <strong>устройства</strong>. <em>А вдруг пригодится?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_5.png)
 
 <blockquote><strong>УСТРОЙСТВО-КУБИКИ-ВЕРЁВКА-НИТКИ</strong> ДОБАВЛЕНЫ В ИНВЕНТАРЬ КАК ОДИН ПРЕДМЕТ (КАКИМ-ТО ОБРАЗОМ)</blockquote>
 
 ## >проверить плюш манекенов на скрытые предметы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_6.png)
 
 Ты поднимаешь <strong>обезглавленное чучело</strong> с земли и осматриваешь его внутренности. 
 
@@ -58,12 +58,12 @@ permalink: /145
 ## >используя бочку, подняться на уступ и вверх по лестнице
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_7.png)
 
 Ты взбираешься на <strong>бочку</strong>, что позволяет тебе добраться до <strong>лестницы</strong>. Ты начинаешь свой <strong>подъём</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_144_8.png)
 
 После продолжительно вскарабкивания ты оказываешься в <strong>помещении</strong>, которое умудряется быть одновременно <strong>тесным</strong> и <strong>просторным</strong>.
 

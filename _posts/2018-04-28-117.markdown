@@ -8,7 +8,7 @@ permalink: /117
 # >поклониться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_116_1.png)
 
 Ты со всей своей грацией <strong>кланяешься </strong>перед роботом.
 
@@ -19,7 +19,7 @@ permalink: /117
 ## >продемонстрировать своё мастерство пантомимы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_116_2.png)
 
 А, <strong>«человек, несущий очень тяжёлое бревно»</strong> — неотъемлемая часть твоей рутины. Всегда срабатывает.
 
@@ -30,7 +30,7 @@ permalink: /117
 ## >подарить розу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_116_3.png)
 
 Ты осторожно срываешь одну из <strong>роз </strong>с куста и преподносишь её своему <strong>оппоненту</strong>.
 
@@ -41,7 +41,7 @@ permalink: /117
 ## >предложить дружеские обнимашки и бросить его на прогиб
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_116_4.png)
 
 <strong>Смена плана.</strong>
 
@@ -50,7 +50,7 @@ permalink: /117
 …а затем ты <strong>резко кидаешь его на прогиб</strong> и переворачиваешь с ног (<em>эм, колеса?</em>) на голову, тем самым <strong>обезвреживая потенциального противника</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_116_5.png)
 
 Ты подходишь к <strong>роботу </strong>и заключаешь свои руки вокруг его корпуса. Смущённый и растерянный, он <strong>также </strong>начинает тянуться к тебе.
 

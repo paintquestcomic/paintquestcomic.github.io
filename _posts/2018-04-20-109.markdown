@@ -8,7 +8,7 @@ permalink: /109
 # >одна лежачая палочка, три стоячие палочки, три кружка, пять палочек
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_1.png)
 
 <em>Я не верю своим глазам.</em>
 
@@ -21,7 +21,7 @@ permalink: /109
 <em>Меня переполняет гордость тысячи отцов.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_2.png)
 
 <strong>Дверца сейфа</strong> медленно <strong>отворяется</strong>.
 
@@ -30,22 +30,22 @@ permalink: /109
 Возможно, даже <strong>деталь лифта</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_3.png)
 
 <strong>О нет.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— <strong>О да!</strong></blockquote>
 
 <blockquote>Ну вы даёте, парни! Я-то думал, что вы согласились на взлом от безысходности вашей ситуации, а вы оказались настоящими взломщиками!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_5.png)
 
 <strong>Сейф </strong>почти полностью заполнен <strong>консервными банками</strong>.
 
@@ -64,17 +64,17 @@ permalink: /109
 <strong>Что-то</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Джентльмены, вы даже не представляете ту ценность, которую представляют эти банки. Алюминий пользуется у роботов огромным спросом!</blockquote>
 
 <blockquote>Сегодня мы сорвали джекпот! На этих консервах я построю свою собственную торговую империю!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Сомневаюсь, что на банках можно построить целую империю. Так, максимум посёлок городского типа.</blockquote>
 
@@ -83,51 +83,51 @@ permalink: /109
 <strong>Незнакомец </strong>даже не реагирует на резкий ответ <strong>Марио</strong>. Кажется, что он полностью погружён в мечты о торговой империи.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Думаю, на этом ваша работа закончена! Пройдёмте со мной, партнёры!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_7.png)
 
 Ваш «<strong>партнёр</strong>» зовёт тебя и <strong>Марио </strong>за собой. Он ведёт вас в <strong>комнату</strong>, в которой вы ещё не были.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_8.png)
 
 Вы оказываетесь в <strong>просторной комнате</strong>, поделённой надвое неким подобием <strong>прилавка</strong>. 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— А теперь давайте пройдёмся по остальным условиям нашего соглашения! Что вы там мне обещали помимо услуги? Бутылку и мелки с пуговицами?</blockquote>
 
 Ты понимаешь, что нехорошо будет сейчас нарушать ваш своеобразный <strong>контракт</strong>. С тяжёлым сердцем ты отдаёшь неизвестному <strong>пустую стеклянную бутылку</strong>, <strong>коробку с мелками</strong> (паучка ты вытащил), а также коллекцию <strong>пуговиц</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_108_9.png)
 
 <blockquote>ПРЕДМЕТЫ ПОТЕРЯНЫ: <strong>МЕЛКИ</strong>, <strong>БУТЫЛКА</strong>, <strong>ПУГОВИЦЫ</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я так понимаю, мы теперь свободны?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Как птицы! И зла я на вас не держу, всё-таки помогли вы мне больше, чем навредили.</blockquote>
 
 <blockquote>К слову о помощи. Вы же помните те три купюры, которые были в вашей камере?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— (Уже две.)</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Так вот — <strong>добро пожаловать в мою скромную лавку</strong>!</blockquote>
 

@@ -8,12 +8,12 @@ permalink: /138
 # >взять робота в плен, угрожая ему рассолом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_137_1.png)
 
 Пора применить старую-добрую <strong>дипломатию</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Объясняю популярно, либо ты сдаёшься сейчас же, либо получаешь ведро рассола в лицо!</blockquote>
 
@@ -22,7 +22,7 @@ permalink: /138
 ## >выждать момент, чтобы безопасно для себя закоротить робота рассолом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_137_2.png)
 
 <strong>Ч-что!? </strong>Что это вообще значит? Разве сейчас может наступить <strong>безопасный момент</strong>?
 
@@ -37,7 +37,7 @@ permalink: /138
 ## >выбрать в качестве чемпиона Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_137_3.png)
 
 <strong>Да, точно!</strong> Старинный обычай — <strong>бой чемпионов</strong>!
 
@@ -50,7 +50,7 @@ permalink: /138
 ## >после победы глотнуть рассола, чтобы почувствовать её вкус
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_137_4.png)
 
 <strong>Откуда эта мысль вообще взялась!? Победой пока что и не пахнет! </strong>Ты начинаешь сомневаться в правильности своих приоритетов.
 

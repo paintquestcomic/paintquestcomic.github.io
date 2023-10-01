@@ -8,7 +8,7 @@ permalink: /124
 # >вспомнить азбуку Морзе и понять, что говорит мышь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_123_1.png)
 
 <strong>Азбуку Морзе?</strong> 
 
@@ -17,7 +17,7 @@ permalink: /124
 …однако, ты действительно замечаешь, что <strong>сигналы робо-мыши</strong> делятся на длинные и короткие. Ты даже начинаешь их немного разбирать.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mouse.png)
 
 <blockquote>— --.. -.. .-.</blockquote>
 
@@ -26,7 +26,7 @@ permalink: /124
 ## >завязать дружБаталию с мышью
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_123_2.png)
 
 Да начнётся <strong>Дружбаталия!</strong>
 
@@ -35,7 +35,7 @@ permalink: /124
 ## >подобрать медальон, упавший из мусорки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_123_3.png)
 
 Краем глаза ты видел, как из <strong>мусорного бака</strong> вылетело <strong>что-то блестящее</strong>.
 
@@ -46,14 +46,14 @@ permalink: /124
 Ты решаешь забрать медальон себе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_123_4.png)
 
 <blockquote><strong>МЕДАЛЬОН </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 ## >проверить, нарисованы ли пластины
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_123_5.png)
 
 Надо <strong>проверить металлические пластины</strong> в буровой комнате на предмет <strong>нарисованности</strong>.
 

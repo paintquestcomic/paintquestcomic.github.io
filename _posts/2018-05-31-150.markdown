@@ -8,19 +8,19 @@ permalink: /150
 # >купить интерпретатор
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_149_1.png)
 
 <strong>Продано!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— А, всё-таки вернулись за интерпретатором! Отличный выбор.</blockquote>
 
 <blockquote>Правда, это модель немного… <strong>«устаревшая»</strong>. Так, на заметку.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_149_2.png)
 
 <blockquote><strong>ВИНТАЖНЫЙ ИНТЕРПРЕТАТОР</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -29,7 +29,7 @@ permalink: /150
 ## >использовать интерпретатор на бутерброд
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_149_3.png)
 
 Стоит проверить своё <strong>приобретение </strong>на чём-нибудь. Ты возвращаешься к <strong>Пармезану</strong>, который, как и положено бутерброду, сидит на месте и никуда не двигается.
 
@@ -38,25 +38,25 @@ permalink: /150
 ## >использовать интерпретатор на своём младшем безмолвном ученике
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_149_4.png)
 
 Через некоторое время вам удаётся найти <strong>робомышь</strong>. Ты подносишь <strong>интерпретатор </strong>поближе к электронному грызуну.
 
 <strong>Вдруг, устройство начинает трещать!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_149_5.png)
 
 На <strong>экране интерпретатора </strong>начинают появляться <strong>буквы</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mouse.png)
 
 <blockquote>— «<strong>ЧУЮ, МАХИНА СИЯ ВНЕМЛЕТ МОЛВЕ МОЕЙ.</strong></blockquote>
 
 <blockquote><strong>СЛЫШЬ ЖЕ ГЛАС МОЙ, ЛЮД ИСПОЛИНСКИЙ.</strong>»</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Теперь понятно, почему нам так дёшево продали эту «<strong>устаревшую</strong>» модель. Ну, хотя бы она работает?</blockquote>

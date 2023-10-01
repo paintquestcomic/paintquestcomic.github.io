@@ -8,7 +8,7 @@ permalink: /143
 # >повернуть пару рубильников
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_142_1.png)
 
 Зачем? Ты уже знаешь, что делают эти <strong>рубильники </strong>— один включает прожектор, другой закрывает цистерну.
 
@@ -19,7 +19,7 @@ permalink: /143
 ## >облить его живительным рассолом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_142_2.png)
 
 <em>Извини, но ты не знаешь никакого «его».</em>
 
@@ -32,7 +32,7 @@ permalink: /143
 ## >осознать бренность бытия и начать искать смысл жизни
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_142_3.png)
 
 Какая ещё <strong>бренность бытия</strong>? В твоей <strong>жизни </strong>и так полно <strong>смысла</strong>, верно?
 
@@ -49,7 +49,7 @@ permalink: /143
 Твои рассуждения о судьбе и смысле жизни оказываются резко <strong>прерваны</strong>. <strong>Пощёчиной</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ну же, приходи в себя! Не знаю, что с тобой не так, но вид у тебя был такой, будто ты начал проваливаться в бездну экзистенциального кризиса.</blockquote>
 
@@ -58,14 +58,14 @@ permalink: /143
 ## >сменить переполненное ведро, в которое рассол льётся уже третий выпуск
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_142_4.png)
 
 Кстати, а это действительно странно — <strong>ведро давно должно было переполниться</strong>! Надо бы его <strong>проверить</strong>.
 
 Ты приподнимаешь его с пола. <strong>Марио </strong>что-то замечает.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Посмотри, да тут в дне огромные дыры!</blockquote>
 

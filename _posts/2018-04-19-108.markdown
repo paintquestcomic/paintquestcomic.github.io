@@ -8,7 +8,7 @@ permalink: /108
 # >посмотреть на коробку с дыркой и на то, что лежит рядом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_107_1.png)
 
 Ты подходишь к <strong>письменному столу</strong> и осматриваешь лежащие на нём <strong>предметы</strong>.
 
@@ -21,12 +21,12 @@ permalink: /108
 ## >осмотреть шкаф на наличие тайных стенок
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_107_2.png)
 
 Ты уж было решил хорошенько осмотреть стоящий в углу <strong>шкаф</strong>, как вдруг <strong>твой путь преградили</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Далеко собрался? Извини, но я не могу подпустить тебя к шкафу.</blockquote>
 
@@ -39,7 +39,7 @@ permalink: /108
 ## >снять обивку со стула при помощи ножниц
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_107_3.png)
 
 Время всё уходит и уходит, а <strong>сейф </strong>остаётся закрытым. Т<em>ебе уже везде начинают мерещиться подсказки</em>.
 
@@ -48,7 +48,7 @@ permalink: /108
 Тоже в <strong>порыве</strong> (<em>но не отчаяния, а, скорее, страха</em>), <strong>незнакомец </strong>хватает стул и прижимает его к себе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_vendor_u.png)
 
 <blockquote>— Чего творишь!? Так, будем вести себя цивилизованно, не стоит портить чужую мебель без каких-либо на то причин.</blockquote>
 
@@ -61,7 +61,7 @@ permalink: /108
 ## >вспомнить про 5 рыб в холодильнике и посмотреть на горизонтальные палочки, к которым пририсована красная
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_107_4.png)
 
 <em>Где бы ты мог видеть <strong><strong>рыбу</strong></strong>…</em>
 
@@ -76,7 +76,7 @@ permalink: /108
 У тебя такое чувство, что ты сейчас совершил что-то очень важное для разгадки комбинации.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_107_5.png)
 
 Ты отмечаешь все <strong>разгаданные символы</strong> рядом с их <strong>рисунками</strong>.
 

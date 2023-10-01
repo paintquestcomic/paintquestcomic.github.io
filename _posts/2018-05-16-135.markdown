@@ -8,7 +8,7 @@ permalink: /135
 # >перезарядить оружие, подобрав все патроны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_134_1.png)
 
 Да зачем тебе <strong>оружие</strong>? 
 
@@ -21,12 +21,12 @@ permalink: /135
 ## >подойти к дыре и крикнуть что-то
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_134_2.png)
 
 Ты подходишь к открывшемуся <strong>люку</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, есть кто дома! Предупреждаю, я вооружён и очень опасен!</blockquote>
 
@@ -39,7 +39,7 @@ permalink: /135
 ## >без раздумий прыгнуть в дыру!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_134_3.png)
 
 Ну, не то, чтобы прям <strong>без раздумий</strong>, одна <strong>мысль </strong>у тебя всё-таки была.
 
@@ -48,14 +48,14 @@ permalink: /135
 В дыру ты всё-таки <strong>прыгаешь</strong>, <em>в последний момент поняв, что ты мог просто скинуть дротики вниз</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_134_4.png)
 
 Твоё падение оказывается <strong>не таким долгим</strong>, да и приземлился ты <strong>мягко</strong>.
 
 Точнее, на <strong>что-то мягкое</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_134_5.png)
 
 Кто-то проницательный догадался подложить <strong>матрас</strong>, чтобы спокойней было падать.
 

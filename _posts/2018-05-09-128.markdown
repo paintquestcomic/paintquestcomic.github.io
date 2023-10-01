@@ -8,12 +8,12 @@ permalink: /128
 # >положить металлическую пластину в инвентарь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_1.png)
 
 Ты вылезаешь из <strong>дыры </strong>и подбираешь с пола упавшую <strong>металлическую пластину</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_2.png)
 
 <blockquote><strong>МЕТАЛЛИЧЕСКАЯ ПЛАСТИНА </strong>ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -22,7 +22,7 @@ permalink: /128
 ## >осмотреть скважину
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_3.png)
 
 Да, это определённо тот же тип замка, но с <strong>квадратной </strong>скважиной вместо треугольной.
 
@@ -31,7 +31,7 @@ permalink: /128
 ## >впихнуть кубик в квадратное отверстие и повернуть
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_4.png)
 
 Ты пробуешь вставить грань <strong>кубика </strong>в <strong>замочную скважину</strong>. 
 
@@ -42,26 +42,26 @@ permalink: /128
 ## >вместе с Марио отодрать гирлянду и обвязать себя ею
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_5.png)
 
 Ухватившись за висячий конец <strong>гирлянды</strong>, ты пытаешься <strong>сорвать </strong>её со стены. Увидев это, <strong>Марио </strong>следует примеру.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_6.png)
 
 От усилия вы не только <strong>срываете </strong>гирлянду со стены, но, видимо, и <strong>вырываете </strong>её из <strong>источника питания</strong>.
 
 Теперь неожиданно светлая комната стала ожидаемо <strong>тёмной</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Мне следует начать думать своей головой, а не пользоваться твоей… чем-то.</blockquote>
 
 ## >мы идём налево!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_7.png)
 
 Ты идёшь <strong>налево </strong>и-
 
@@ -72,7 +72,7 @@ permalink: /128
 Так, другое лево! <strong>Другое</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_127_8.png)
 
 Вы идёте <strong>направо </strong>(<em>по отношению к точке обзора</em>). 
 

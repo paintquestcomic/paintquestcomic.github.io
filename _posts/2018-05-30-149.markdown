@@ -8,7 +8,7 @@ permalink: /149
 # >забираем две купюры!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_148_1.png)
 
 Ты забираешь <strong>банкноты </strong>из <strong>машины</strong>.
 
@@ -19,81 +19,81 @@ permalink: /149
 ## >попытаться продать батарейку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_148_2.png)
 
 По дороге в <strong>магазин Бенедикта </strong>ты подбираешь <strong>Марио</strong>.
 
 Вы предъявляете торговцу <strong>три купюры</strong>, а также <strong>огромную батарейку</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— О, так это мои лучшие партнёры! И не с пустыми руками, я смотрю! Чем меня порадуете?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, во-первых, у нас есть эти три…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Откуда у вас наличка? У меня тут монополия на денежный оборот, вообще-то. Хотя…</blockquote>
 
 <blockquote>Припоминаю, как когда-то давно потерял пару-тройку купюр. Ну да ладно, что упало — то пропало, так ведь?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— …да. Во-вторых, сколько ты дашь за эту батарейку?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Хм. Массивная штукенция, не видывал таких раньше. Скажем, две деньги за батарейку. По рукам?</blockquote>
 
 Ваш баланс был пополнен. Ваш новый баланс: <strong>5</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— «Две деньги»? Ты так и не придумал название для своей валюты?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— А зачем? Как будто в округе есть другие деньги. </blockquote>
 
 <blockquote>Сменим тему. Вы, наверное, вновь хотите на ассортимент взглянуть.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_148_3.png)
 
 С этими словами <strong>Бенедикт </strong>протягивает вам <strong>бумажный буклет</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, а как же механизированный каталог с музыкой и прочим?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— …бюджетные издержки.</blockquote>
 
 Ты берёшь <strong>буклет </strong>и просматриваешь его <strong>содержимое</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_148_4.png)
 
 Список товаров практически <strong>не изменился</strong>. Осталось только придумать, на <strong>что </strong>потратить ваши <strong>5 денег</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да тут только старые товары! </blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ребята, вы же понимаете, что у меня два главных поставщика: один из них ушастый, а второй — молчаливый. Догадываетесь, о ком я?</blockquote>
