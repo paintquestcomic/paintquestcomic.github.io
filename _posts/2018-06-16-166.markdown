@@ -8,7 +8,7 @@ permalink: /166
 # >остаться Марио и пойти за горизонт
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_1.png)
 
 Ты всё ещё продолжаешь быть <strong>Марио</strong>.
 
@@ -17,7 +17,7 @@ permalink: /166
 ## >теперь можно сохраниться?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_2.png)
 
 <em>И не знать цены будущего поражения?</em>
 
@@ -32,21 +32,21 @@ permalink: /166
 ## >проверить стены на эхо
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_3.png)
 
 <em>Это было адресовано не тебе, но тем не менее.</em>
 
 <em>Вот стена. Ты не хочешь проверять её. Тебя больше волнует другой вопрос.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_4.png)
 
 <em>Тебя волнует, откуда тут взялась стена. Её тут не было раньше.</em>
 
 <em>Ты отодвигаешь руку.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_5.gif)
 
 <em>На самом деле тут нет стены.</em>
 
@@ -57,22 +57,22 @@ permalink: /166
 <em>Ты идёшь дальше.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_6.png)
 
 <em>Ты пришёл.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_7.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Ну и ну.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_165_8.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Не ожидал увидеть гремлина.</strong></blockquote>

@@ -8,7 +8,7 @@ permalink: /195
 # >попытаться протереть стекло террариума своим халатом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_1.png)
 
 Ты пробуешь <strong>протереть </strong>стекло одного из <strong>террариумов </strong>подолом <strong>лабораторного халата</strong>.
 
@@ -17,7 +17,7 @@ permalink: /195
 Ну и ладно! Раз так повысить видимость не получилось, то поступим <strong>проще </strong>— откроем крышку и <strong>заглянем внутрь</strong>. 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_2.png)
 
 Внутри короб обклеен <strong>кусками бумаги</strong> разных форм и размеров. Каждый кусок прикреплён <strong>скотчем </strong>ко дну или стенкам.
 
@@ -30,7 +30,7 @@ permalink: /195
 ## >взять стаканчик и поставить его на генератор, затем включить генератор
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_3.png)
 
 Ты по-быстрому бежишь за <strong>стаканчиком </strong>в <strong>первую комнату</strong> и тут же возвращаешься. <em>Рисовать это я не буду, конечно же.</em>
 
@@ -43,21 +43,21 @@ permalink: /195
 Ты уже тянешься к <strong>кнопке включения</strong> <strong>генератора</strong>, но тебе <strong>не суждено</strong> узнать, что произойдёт! <em>Почему?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_4.png)
 
 <strong>ПОТОМУ ЧТО-</strong>
 
 ## >нажать на кнопки на машине, которая когда-то выплёвывала график
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_5.png)
 
 <strong>-НЕТ-</strong>
 
 ## >нажать на рычаг
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_6.png)
 
 <strong>-ЭЛЕКТРИЧЕСТВА!</strong>
 
@@ -70,7 +70,7 @@ permalink: /195
 ## >потянуть полки на себя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_7.gif)
 
 От <strong>злости </strong>ты хватаешься за <strong>полки </strong>и со всей силой <strong>тянешь </strong>их на себя!
 
@@ -81,7 +81,7 @@ permalink: /195
 ## >узнать в искорёженной мешанине Угол Обзора
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_194_8.png)
 
 <strong>Нет, это не он.</strong> 
 

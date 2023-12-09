@@ -8,7 +8,7 @@ permalink: /185
 # >засунуть фонарь себе в рот
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_1.png)
 
 Мысли о <strong>жестокой подлости</strong>, совершённой при первой попытке поместить электрический источник света в твой рот, не дают тебе покоя. <em>Ну кто знал, что лампочка была нарисованная?</em>
 
@@ -21,7 +21,7 @@ permalink: /185
 ## >обыскать коробки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_2.png)
 
 Ты открываешь остальные <strong>коробки </strong>и изучаешь их <strong>внутренности</strong>.
 
@@ -30,7 +30,7 @@ permalink: /185
 ## >проверить, заперт ли ящик
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_3.png)
 
 Ты проверяешь крышку металлического <strong>ящика</strong>. Она оказывается не только настоящей (<em>а не нарисованной, с чем ты уже свыкся, как с обычным обстоятельством</em>), но и <strong>незапертой</strong>.
 
@@ -43,14 +43,14 @@ permalink: /185
 ## >вместо стекла вставить в фонарик колбу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_4.png)
 
 А что, если пропустить <strong>направленный свет</strong> через <strong>розовую жидкость</strong>? Будет ли какой <strong>эффект</strong>?
 
 Ты подносишь <strong>сосуд </strong>с «зельем» к <strong>фонарику</strong>. Без каких-либо <strong>приспособлений </strong>закрепить сосуд не выйдет, но для единичного эксперимента сойдёт и так.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_5.png)
 
 Ты <strong>включаешь </strong>фонарик.
 
@@ -61,7 +61,7 @@ permalink: /185
 ## >надеть маску на Пармезана, предварительно нанеся на неё грим мима
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_6.png)
 
 Возможно, ты найдёшь этой <strong>маске </strong>более <strong>благородное </strong>применение.
 
@@ -72,7 +72,7 @@ permalink: /185
 ## >избавиться от консервы, взять парочку листов и подняться на жилой уровень до комнаты «моя ^_^»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_10.png)
 
 Ты припоминаешь, что она из <strong>комнат </strong>на схеме была <strong>отмечена </strong>от руки. Она должна находиться на <strong>жилом уровне</strong>.
 
@@ -81,7 +81,7 @@ permalink: /185
 Ты кладёшь <strong>фонарик </strong>в освободившуюся ячейку <strong>маски</strong>, а <strong>богохульную банку</strong> заменяешь <strong>парой листов</strong> из одной из коробок.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_9.png)
 
 <blockquote><strong>РАЗРЯЖЕННЫЙ ФОНАРИК</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -90,14 +90,14 @@ permalink: /185
 Ты взбираешься по <strong>лестнице </strong>в общей комнате <strong>наверх</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_7.png)
 
 Теперь ты на <strong>жилом уровне</strong>. Тут довольно уютно, несмотря на темноту.
 
 Не теряя времени, ты проходишь в <strong>коридор</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_184_8.png)
 
 Похоже, тебе надо <strong>сюда</strong>. Комната «<strong>02</strong>», причём число написано на <strong>бумаге</strong>, приклеенной к двери <strong>скотчем</strong>. <em>Знакомая технология.</em>
 

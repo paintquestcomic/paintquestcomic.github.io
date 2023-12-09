@@ -8,7 +8,7 @@ permalink: /201
 # >возмутиться, что дилетанты настолько дилетанты, что даже стрел к луку не дали
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_1.png)
 
 <strong>Ну ёлки-палки!</strong>
 
@@ -19,14 +19,14 @@ permalink: /201
 ## >настойчиво позвать богиню и расспросить её о том, что здесь происходит
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_2.png)
 
 Как-то подозрительно быстро эта <strong>Ансилла Лучезарная</strong> исчезла. Тебя это совсем не устраивает, тебе нужны <strong>ответы</strong>.
 
 Ты <strong>кричишь </strong>в небо, потому что не знаешь других способов общения с Высшими Силами.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Эй, куда ты делась! У меня ещё есть вопросы!</blockquote>
 
@@ -35,12 +35,12 @@ permalink: /201
 ## >крикнуть приветствие в темноту шахты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_3.png)
 
 <strong>Небо </strong>тебя <strong>подвело</strong>. Может, с <strong>подземными глубинами</strong> выйдет лучше?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Эй, есть кто внизу?!</blockquote>
 
@@ -49,7 +49,7 @@ permalink: /201
 ## >бросить копьё острием вниз в люк, просто на всякий случай
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_4.png)
 
 Ты подбираешь <strong>копьё </strong>с травы и <strong>бросаешь </strong>его в темноту, предварительно направив колющую его часть вниз.
 
@@ -58,7 +58,7 @@ permalink: /201
 ## >топором срубить крышку люка и взять её вместо подушки-щита
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_5.png)
 
 Вооружившись <strong>топором</strong>, ты принимаешься рубить <strong>крышку люка</strong>, пытаясь отделить её от, собственно, <strong>люка</strong>.
 
@@ -69,7 +69,7 @@ permalink: /201
 ## >взять булаву, и почувствовать СиЛуШкУ бОгАтЫрСкУю
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_6.png)
 
 <em>Хм…</em>
 
@@ -84,14 +84,14 @@ permalink: /201
 ## >спрыгнуть вниз люка, используя плащ как парашют
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_7.png)
 
 <em>Да кому нужны лестницы, верно?</em>
 
 Схватившись за края своего <strong>плаща </strong>(<em>и всё ещё держа в руке булаву</em>), ты <strong>прыгаешь </strong>в темноту! Ты полон веры в то, что твой <strong>импровизированный парашют</strong> смягчит твоё падение.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_8.png)
 
 И ты тут же <strong>падаешь</strong>.<strong> Как камень. </strong><em>Что было довольно предсказуемо.</em>
 
@@ -100,7 +100,7 @@ permalink: /201
 Ты <strong>встаёшь </strong>на ноги и осматриваешь комнату.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_9.png)
 
 Ты приземлился на <strong>уступ </strong>непонятного назначения, выходящий из стены. К уступу ведут <strong>две лестницы</strong>: одна спускается <strong>сверху </strong>(<em>та, которой ты решил пренебречь</em>), а другая берёт своё начало <strong>внизу</strong>.
 
@@ -121,7 +121,7 @@ permalink: /201
 ## >while (author.kindness >= 1) do { show(command_list); }
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_200_10.png)
 
 <strong>Так.</strong>
 

@@ -8,7 +8,7 @@ permalink: /174
 # >похлопать в ладоши и порадоваться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_1.gif)
 
 <strong>Потрясающе! </strong>Подобранный тобой <strong>код </strong>подошёл!<strong> </strong>У тебя действительно получилось открыть эту <strong>штуковину</strong>!
 
@@ -17,17 +17,17 @@ permalink: /174
 ## >уточнить у Марио, не деталь ли это от лифта?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_2.png)
 
 Действительно, стоит проконсультироваться у <strong>Марио</strong>. Он в этом деле должен разбираться.
 
 А вот и… <strong>Марио</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Быть не может! Ещё одна, ещё! Какая мастерская работа! Какая точная геометрия! Абсолютно ничего лишнего, словно держу в руках металлический микрокосм абсолютного баланса!</blockquote>
 
@@ -40,14 +40,14 @@ permalink: /174
 ## >быстро спрячь деталь, пока Марио не увидел!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_4.png)
 
 Для этого немного поздно, <strong>Марио </strong>уже увидел и распознал <strong>деталь</strong>.
 
 А вот теперь он и <strong>тебя </strong>увидел. Увидел он и то, в какое недоумение тебя привёл его… <em>энтузиазм </em>по отношению к <strong>детали</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ч-что? Чего уставился? Б-будто ты понимаешь, что есть истинный гений инженерной мысли!</blockquote>
 
@@ -58,14 +58,14 @@ permalink: /174
 ## >взять стеклотару и налить в неё немного красной жижи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_5.png)
 
 Ты подбираешь очередной <strong>сосуд </strong>из груды бесконечных сосудов в соседней комнате и возвращаешься к <strong>розовой луже</strong>.
 
 Руками ты пытаешься сгрести внутрь сосуда как можно больше <strong>жижи</strong>. Липкая и полузасохшая жидкость плохо поддаётся твоим телодвижениям, но <strong>некоторую часть</strong> тебе собрать <strong>удаётся</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_6.png)
 
 <blockquote><strong>ЗАСОХШЕЕ ЗЕЛЬЕ ВОСПРИЯТИЯ ТАЙНОГО </strong>ДОБАВЛЕНО В ИНВЕНТАРЬ</blockquote>
 
@@ -74,17 +74,17 @@ permalink: /174
 ## >спуститься в люк в конце переулка рядом с магазином
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_7.png)
 
 Вдруг ты вспоминаешь про <strong>открытый люк</strong>, который вы нашли рядом с <strong>магазином</strong>. Туда вы через некоторое время и прибываете.
 
 Внизу видна лишь <strong>темнота</strong>, дно люка ты не видишь. <em>При условии, что у него есть дно.</em> 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_173_8.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, я знаю, что у тебя на уме. Если решишь прыгать, то остановить тебя я точно не смогу, мы оба это знаем.</blockquote>
 

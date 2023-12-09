@@ -8,19 +8,19 @@ permalink: /178
 # >использовать переводчик и шанс на то, что с ними ещё можно договориться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_1.png)
 
 Ты достаёшь свой «<strong>винтажный</strong>» <strong>интерпретатор </strong>и кладёшь его на землю. 
 
 Когда дела касаются <strong>дипломатии</strong>, первый шаг — <strong>устранить все барьеры общения</strong>. В нашем случае — языковой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_2.png)
 
 Лампочки крыс начинают мигать <strong>морзянкой</strong>, а на экране прибора появляются <strong>буквы</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_rats.png)
 
 <blockquote>— «<strong>ИЗЫДИ ДА СГИНЬ, ДРЯНЬ РАЗМАЛЁВАННАЯ. </strong></blockquote>
 
@@ -31,7 +31,7 @@ permalink: /178
 ## >устроить дружбаталию с робо-крысами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_3.png)
 
 Да будет <strong>Дружбаталия! </strong>
 
@@ -44,7 +44,7 @@ permalink: /178
 ## >исполнить танец мира и любви для робо-крыс
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_4.png)
 
 Ты никогда не был <strong>танцором</strong>, это всем известно.
 
@@ -59,7 +59,7 @@ permalink: /178
 ## >изобразить робо-кошку и распугать всех робо-крыс
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_5.png)
 
 Пришло время для одного из твоих самых непризнанных номеров — «<strong>Последний Стан Кибермурлыки</strong>»!
 
@@ -74,7 +74,7 @@ permalink: /178
 ## >попытаться залезть обратно в трубу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_6.png)
 
 Схватив <strong>ведро</strong>, ты вскарабкиваешься в <strong>отверстие в стене</strong>.
 
@@ -87,7 +87,7 @@ permalink: /178
 Следует воспользоваться минутной передышкой и начать планировать свой <strong>следующий шаг</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_177_7.png)
 
 Так, а куда делась <strong>робо-крыса</strong>, схватившая твою <strong>карту</strong>? Наверное, ты <strong>упустил их из виду</strong> во время танца или пантомимы. 
 

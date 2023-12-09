@@ -8,7 +8,7 @@ permalink: /200
 # >cделать ключ своим верным оружием
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_1.png)
 
 Не знаю, в качестве оружия или нет, но этот <strong>ключ </strong>ещё может тебе пригодиться. Ты кладёшь ключ в свой <strong>инвентарь</strong>…
 
@@ -21,22 +21,22 @@ permalink: /200
 ## >проверить, есть ли тут угол обзора, или дилетанты настолько дилетанты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_2.png)
 
 Сейчас проверим наши <strong>обозрительные </strong>возможности. <strong>К левому краю</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_3.png)
 
 <strong>Правый верхний угол!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_4.png)
 
 <strong>А теперь переворот!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_5.png)
 
 Хм. Без <strong>переворота</strong>, значит.
 
@@ -47,7 +47,7 @@ permalink: /200
 ## >отправиться навстречу приключениям
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_6.png)
 
 Ты выходишь <strong>наружу</strong>.
 
@@ -56,12 +56,12 @@ permalink: /200
 Тебе так и хочется <strong>крикнуть</strong>! А, собственно, что тебе мешает?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Приключения, я иду к вам!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_7.png)
 
 Вдруг на тебя ниспадает <strong>поток света, </strong>словно ты попал под огромный прожектор! Но ты понимаешь, что это не обычный <strong>солнечный свет</strong>, ни в коем случае!
 
@@ -72,7 +72,7 @@ permalink: /200
 Ты обращаешь свой взор к <strong>небесам.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_8.png)
 
 Высоко в <strong>голубом небе</strong>, среди <strong>белоснежных облаков</strong> тебе удаётся различить очертания <strong>сияющей фигуры</strong>. 
 
@@ -81,7 +81,7 @@ permalink: /200
 Затем она <strong>заговаривает </strong>с тобой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Здравствуй, герой! Не бойся меня, я не собираюсь причинить тебе вреда.</blockquote>
 
@@ -92,24 +92,24 @@ permalink: /200
 <blockquote>Как ты зовёшь себя?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Игорь… Пармезанов Игорь Сырг-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Игорь, значит! Интересное имя для героя!</blockquote>
 
 <blockquote>Знай же, Игорь, что этот мир возлагает всю свою надежду на тебя! </blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— На меня? Почему?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ну как же! Ты ведь герой, которого мы все ждали! Герой, который спасёт нас всех! Такова твоя <strong>судьба</strong>!</blockquote>
 
@@ -118,15 +118,15 @@ permalink: /200
 <blockquote>Но тебе не придётся идти по этому пути в одиночку. Я всегда буду сопровождать тебя и своей незримой рукой всячески оказывать помощь, поэтому я и сделала тебя своим <strong>чемпионом</strong>!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_9.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Что? Чемпионом? Меня геройство не особо интересует, вообще-то.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Глупости! Ты — прирождённый герой, иначе и быть не может. Ты же не струсил? </blockquote>
 
@@ -137,12 +137,12 @@ permalink: /200
 <blockquote>Где-то в Тёмном Лесу спрятана <strong>Священная Поляна</strong>, где стоит <strong>Обелиск Доблести</strong>. Доберись до неё и <strong>коснись Обелиска</strong>!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— И… всё?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ну конечно же нет! Всё не так просто, как кажется на первый взгляд.</blockquote>
 
@@ -153,7 +153,7 @@ permalink: /200
 <blockquote>Удачи, мой чемпион, хоть она тебе и не пригодится!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_199_10.png)
 
 С этими словами <strong>богиня </strong>исчезает в облаках.
 

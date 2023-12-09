@@ -8,14 +8,14 @@ permalink: /209
 # >сделать эпично-героично-шутовское сальто назад в честь успеха
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_1.png)
 
 Ты решаешь отметить свою <strong>победу </strong>над чемпионскими испытаниями, сделав <strong>сальто назад</strong>. 
 
 <strong>Акробатика </strong>— важная часть репертуара любого шута.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_2.png)
 
 <strong>Ты падаешь на спину.</strong>
 
@@ -26,7 +26,7 @@ permalink: /209
 ## >нелепо споткнуться, на потеху публике
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_3.png)
 
 Раз уж акробата из тебя не сделать, то будем пытаться выжать <strong>развлекательный потенциал</strong> из твоей <strong>неуклюжести</strong>.
 
@@ -41,7 +41,7 @@ permalink: /209
 ## >на всякий случай забрать цветы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_4.png)
 
 <em>Всё своё ношу с собой.</em>
 
@@ -50,7 +50,7 @@ permalink: /209
 ## >взять бутафорский меч, который торчит за деревом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_5.png)
 
 …и <strong>меч</strong>, не будем про него забывать. 
 
@@ -59,7 +59,7 @@ permalink: /209
 ## >признать тролля богом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_6.png)
 
 <em>Тролль…</em>
 
@@ -74,19 +74,19 @@ permalink: /209
 ## >попрощаться с лучшим троллем этого мира и продолжить своё ГЕРОИЧЕСКОЕ шествие
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_7.png)
 
 Прощай, <strong>старый друг</strong>.<em> Мы не подведём тебя, обещаю.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_8.png)
 
 А нам с тобой пора, <strong>Игорь</strong>.<em> Остались лишь формальности, покончим с ними и будем наслаждаться жизнью, договорились?</em>
 
 Ну что, пройдёмся по <strong>дороге славы</strong>? 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_208_9.png)
 
 Вот мы и пришли. Должно быть, это и есть та самая <strong>Священная Поляна</strong>.
 

@@ -8,12 +8,12 @@ permalink: /181
 # >взять недо-удочку с собой в дальнейшее приключение
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_1.png)
 
 Ты приходишь к выводу, что <strong>длинная палка</strong> может оказаться предметом неожиданной полезности. Ты помещаешь <strong>удилище </strong>в свой <strong>инвентарь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_2.png)
 
 <blockquote><strong>УДИЛИЩЕ</strong> ДОБАВЛЕНО В ИНВЕНТАРЬ</blockquote>
 
@@ -22,7 +22,7 @@ permalink: /181
 ## >понять, что мозг могут контролировать, увидев спутниковую тарелку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_3.png)
 
 В твоей голове рождается гипотеза, что <strong>спутниковая тарелка</strong> могла использоваться для <strong>контроля разума</strong> невинных прохожих! Более того, она всё ещё может излучать <strong>негативные псионические волны</strong>!
 
@@ -31,7 +31,7 @@ permalink: /181
 ## >рассмотреть торговый автомат
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_4.png)
 
 Да, это определённо какой-то аналог <strong>торгового автомата</strong>.
 
@@ -42,21 +42,21 @@ permalink: /181
 ## >воткнуть в дверь ведро, донышком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_5.png)
 
 Слишком <strong>маленькое</strong>.
 
 ## >приставить тарелку к углублению
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_6.png)
 
 Слишком <strong>большая</strong>.
 
 ## >попробовать снять знак с молнией и установить его в дверь в коридоре
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_7.png)
 
 Ты выходишь наружу и пытаешься снять <strong>круглый знак с молнией </strong>из корпуса сферической структуры. У тебя это <strong>выходит</strong>.
 
@@ -67,7 +67,7 @@ permalink: /181
 Ты возвращаешься к <strong>двери</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_180_8.png)
 
 <strong>Эмблема </strong>с удовлетворяющим кликом входит в <strong>паз</strong>. По <strong>размеру </strong>она подходит идеально, будто влитая.
 

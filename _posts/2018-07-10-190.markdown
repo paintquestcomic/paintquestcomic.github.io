@@ -8,7 +8,7 @@ permalink: /190
 # >рассмотреть аварийный ящик
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_1.png)
 
 Обогнув <strong>робо-крыс</strong>, ты подходишь поближе к <strong>аварийному ящику</strong>.
 
@@ -17,7 +17,7 @@ permalink: /190
 ## >собрать в котомку диспенсер с остатками скотча, письменные принадлежности и конфетку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_2.png)
 
 Ты вновь взбираешься на <strong>жилой уровень</strong> и кладёшь в свою <strong>котомку </strong>следующий набор предметов: одну <strong>нераскрытую конфетку</strong>, один <strong>диспенсер скотча</strong> с рулоном внутри и <strong>три ручки/маркера</strong>.
 
@@ -26,7 +26,7 @@ permalink: /190
 ## >осмотреть остальные рисунки, посчитав, что это бестиарий, теория заговора или хотя бы просто интересное искусство
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_3.png)
 
 С чего ты вообще взял, что это — <strong>бестиарий</strong>? Где тут скрываются элементы <strong>теории заговора</strong>? Что в этом <strong>искусстве </strong>вообще <strong>интересного</strong>?
 
@@ -39,12 +39,12 @@ permalink: /190
 ## >используя пантомиму, подняться по невидимой лестнице к трубе над станцией
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_4.png)
 
 Просто взять и <strong>забраться</strong> наверх? <strong>Всё бы ничего</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_5.png)
 
 …вот только эта затея заранее <strong>обречена на провал</strong>.
 
@@ -53,7 +53,7 @@ permalink: /190
 ## >сгоняй за магнитом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_6.png)
 
 Ты достаёшь <strong>магнит </strong>из <strong>металлического ящика</strong> в кладовой.
 
@@ -62,7 +62,7 @@ permalink: /190
 ## >начать с каждой крысой отдельную дружбаталию
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_7.png)
 
 Ты начинаешь <strong>Дружбаталию</strong>!
 
@@ -75,7 +75,7 @@ permalink: /190
 <blockquote><strong>ПОКАЗАНИЯ ДРУЖБОМЕТРА™: 2 </strong>—<strong> </strong>Опасные Оппоненты!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_189_8.png)
 
 Вдруг, <strong>магнит </strong>в твоей руке резко <strong>дёргается </strong>по направлению к <strong>робо-крысе</strong>, а <strong>крыса </strong>— <strong>к</strong> <strong>магниту</strong>!
 

@@ -8,12 +8,12 @@ permalink: /194
 # >приделать кнопки от кодового замка обратно 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_1.png)
 
 Непорядок, нужно исправлять ошибки молодости. А вдруг это были <strong>важные цифры</strong>?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_2.png)
 
 <strong>Эй!</strong> 
 
@@ -26,7 +26,7 @@ permalink: /194
 ## >подняться на самый верхний этаж этого комплекса, по пути забрав с собой котомку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_3.png)
 
 Ты сматываешься с нижнего этажа и начинаешь подниматься как можно выше по <strong>лестнице</strong>. Пока что без <strong>котомки</strong>, за ней ты всегда успеешь вернуться, а с ней и всем прочим грузом лезть наверх будет <strong>тяжеловато</strong>.
 
@@ -35,27 +35,27 @@ permalink: /194
 Видимо, он открывается <strong>удалённо</strong>. <em>А ты пока спускаешься вниз, что тебе ещё остаётся делать!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_4.png)
 
 Хоть <strong>котомку </strong>с собой заберёшь из <strong>кладовой</strong>.
 
 ## >проверить можешь ли ты свистеть
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_5.png)
 
 Ну, тут у нас существует <strong>две проблемы</strong>:
 
 1) <strong>Свист </strong>относится к <strong>издаванию звуков при помощи рта</strong>, что мимам делать <strong>запрещено</strong>.
 
-2)Ты <strong>не умеешь</strong> свистеть. Ты никогда и не учился, а зачем оно тебе?
+2) Ты <strong>не умеешь</strong> свистеть. Ты никогда и не учился, а зачем оно тебе?
 
 Ты всё равно <strong>пробуешь </strong>свистнуть, засунув два пальца в рот, но даже <strong>малейшего звука </strong>не исходит. 
 
 ## >посвятить мышь-принцессу в свои ученики
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_6.png)
 
 Вообще-то у тебя есть <strong>стандарты</strong>, если что! Ты не можешь просто посвящать в свои ученики <strong>каждого встречного</strong>!
 
@@ -66,7 +66,7 @@ permalink: /194
 ## >пойти в лабораторию
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_193_7.png)
 
 Ты со всем своим зверинцем проходишь в <strong>лабораторию</strong>. 
 

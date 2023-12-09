@@ -8,7 +8,7 @@ permalink: /189
 # >надеть халат
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_1.png)
 
 <em>Эй, красавчик, классный лабораторный халат!</em>
 
@@ -19,7 +19,7 @@ permalink: /189
 ## >развернуть скомканные бумажки и изучить
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_2.png)
 
 Ты поднимаешь один из <strong>скомканных листов</strong> и разворачиваешь его.
 
@@ -30,7 +30,7 @@ permalink: /189
 ## >осмотреть гамак из первой комнаты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_3.png)
 
 В попытке осмотреть <strong>гамак </strong>ты осторожно касаешься его концом своей <strong>котомки</strong>. 
 
@@ -41,7 +41,7 @@ permalink: /189
 Конечно же, ты его тут же <strong>изучаешь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_4.png)
 
 На нём определённо нарисовано <strong>насекомое</strong>, не то гусеница, не то сколопендра. Верхняя часть рисунка была <strong>оборвана</strong>, так что головы насекомого тебе не видать. <em>Как известно, нет головы — нет точному определению вида этого представителя царства насекомых.</em>
 
@@ -50,12 +50,12 @@ permalink: /189
 ## >выглянуть из станции и посмотреть, откуда там она провалилась
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_5.png)
 
 Ты выходишь <strong>наружу </strong>и обращаешь свой взор к <strong>небу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_6.png)
 
 Точнее, к <strong>потолку</strong>, покрытому <strong>несметным количеством труб</strong> разной длины и диаметра. 
 
@@ -66,7 +66,7 @@ permalink: /189
 ## >стать Марио ещё раз, чтобы проверить, как у него дела
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_7.png)
 
 Перейдём на мгновение к <strong>Марио</strong>. Он уже успел закончить <strong>укладку паркета</strong> и даже получить плату за работу в виде <strong>двух денег</strong> (<em>которые были добавлены на ваш совместный баланс</em>).
 
@@ -75,12 +75,12 @@ permalink: /189
 Теперь же он сидит вместе с <strong>хозяином магазина</strong>, отдыхая от проделанной работы. Между ними повисла <strong>неловкая пауза</strong>, которую твой компаньон (<em>а теперь он — это ты</em>) прерывает <strong>вопросом</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А, собственно, куда тот люк ведёт?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— А кто его знает? Я бы предположил, что на свалку. </blockquote>
 
@@ -89,7 +89,7 @@ permalink: /189
 <blockquote>Но в случае этого люка я определённо склоняюсь к свалке. Почему спрашиваешь?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да так, назовём это любопытством.</blockquote>
 
@@ -98,7 +98,7 @@ permalink: /189
 ## >самым наглейшим образом ворваться в реактор, в котором явно не может быть ничего опасного!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_188_8.png)
 
 Ты спускаешься по лестница <strong>вниз</strong>, в <strong>недра станции</strong>.
 

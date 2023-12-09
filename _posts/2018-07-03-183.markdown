@@ -8,7 +8,7 @@ permalink: /183
 # >принять Пармезана в компаньоны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_1.png)
 
 Есть вероятность, что ты <strong>не вернёшься из темноты</strong>. Надо разобраться с одним <strong>незаконченным делом</strong>.
 
@@ -23,19 +23,19 @@ permalink: /183
 ## >вылить всю агрессию и злость твоего мимского существа на эту злосчастную сосисочную морду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_2.png)
 
 Следующие N минут ты проводишь в попытках принести заполученной <strong>алюминиевой банке </strong>максимальный физический <strong>ущерб</strong>.
 
 ## >положить консерву в инвентарь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_3.png)
 
 Несмотря на скрытый в тебе <strong>гнев</strong>, твоё <strong>жалкое мимское тело</strong> неспособно достаточно сильно повредить банку. Осознав потенциал банки как <strong>психологического оружия</strong>, ты <strong>забираешь </strong>(<em>не без отвращения</em>) её с собой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_4.png)
 
 <blockquote><strong>ПОМЯТАЯ КОНСЕРВА </strong>ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -44,7 +44,7 @@ permalink: /183
 ## >взять с собой осколок стекла от автомата, на всякий случай
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_5.png)
 
 <strong>Обмундирования </strong>много не бывает — ты подбираешь один из <strong>стеклянных осколков</strong> покрупнее и поудобнее.
 
@@ -53,21 +53,21 @@ permalink: /183
 ## >вот тут точно стоит сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_6.png)
 
 Ты <strong>перезаписываешь </strong>один из старых слотов. <em>Когда ты уже начнёшь ими пользоваться?</em>
 
 ## >пройти вперёд, навстречу неизвестному
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_7.png)
 
 <em>Кажется, всё.</em>
 
 Держа <strong>ведро </strong>в одной руке, а <strong>стеклянный осколок</strong> — в другой, ты погружаешься в <strong>глубины тёмного коридора</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_182_8.png)
 
 Ты приходишь в Г-образное <strong>помещение</strong>.
 

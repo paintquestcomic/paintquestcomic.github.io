@@ -8,33 +8,33 @@ permalink: /193
 # >повернуть маховик
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_1.png)
 
 Ты крепко хватаешься за <strong>маховик </strong>обеими руками и пытаешься <strong>повернуть </strong>его.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_2.png)
 
 Эта штуковина даже <strong>не планирует</strong> двигаться с места! Сколько бы ты ни старался, какую силу ты бы ни прикладывал — <strong>всё впустую</strong>.
 
 ## >стукнуть чем-нибудь дверь реактора
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_3.png)
 
 Один раз хороший <strong>удар ведром</strong> уже помог тебе.
 
 <strong>Поможет и сейчас!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_4.png)
 
 <strong>Стой!</strong> 
 
 Похоже, <strong>робо-крыса</strong> против того, чтобы ты бил <strong>толстую укреплённую дверь</strong> своим <strong>хлипким ведром</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_5.png)
 
 Она указывает тебе на <strong>слот</strong>.
 
@@ -45,7 +45,7 @@ permalink: /193
 ## >сделать из листов бумаги корону и короновать крысу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_6.png)
 
 Любителем <strong>оригами </strong>тебя <strong>не назовёшь</strong>.
 
@@ -58,7 +58,7 @@ permalink: /193
 ## >возьми принцессу и положи в карман халата
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_192_7.png)
 
 Со всей своей осторожностью ты берёшь <strong>робо-крысу</strong> с пола и аккуратно <strong>кладёшь </strong>её в <strong>передний карман </strong>лабораторного халата.
 

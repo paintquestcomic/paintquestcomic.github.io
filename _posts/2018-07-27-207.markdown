@@ -8,7 +8,7 @@ permalink: /207
 # >снова дать букет троллю
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_1.png)
 
 Ты подбираешь с деревянных досок моста <strong>букет</strong>, который однажды уже был презентован <strong>троллю</strong>.
 
@@ -21,7 +21,7 @@ permalink: /207
 ## >вернуться в башню и найти камешек поаппетитнее
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_2.png)
 
 Ты возвращаешься в единственное место, где ты видел <strong>камни</strong> — на <strong>лесную поляну</strong> снаружи твоей камеры.
 
@@ -34,7 +34,7 @@ permalink: /207
 ## >потянуть за последнее кольцо
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_3.png)
 
 Раз уж ты уже здесь, есть смысл пополнить запасы <strong>драгоценного пластилина</strong>.
 
@@ -45,7 +45,7 @@ permalink: /207
 В отличие от <strong>четвёртого кольца</strong>, оно не открывает двери, не запускает какой-либо механизм и вообще не активирует абсолютно ничего.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_4.png)
 
 <strong>Ты дёргаешь за кольцо ещё сильнее.</strong>
 
@@ -56,7 +56,7 @@ permalink: /207
 ## >предложить камешек троллю
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_5.png)
 
 Ты предлагаешь <strong>аппетитно выглядящий камень</strong> троллю ровно в той же манере, в какой ты предлагал ему букет.
 
@@ -69,7 +69,7 @@ permalink: /207
 ## >слепить из пластилина солнечные очки и надеть их на тролля
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_6.png)
 
 Пора перейти к <strong>более существенным</strong> подаркам.
 
@@ -82,7 +82,7 @@ permalink: /207
 ## >отдать троллю свою булаву
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_7.png)
 
 А и правда, зачем она тебе? 
 
@@ -95,26 +95,26 @@ permalink: /207
 ## >посочувствовать троллю, что дилетанты заставили его стоять на солнце без возможности двигаться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_206_8.png)
 
 Как-то странно, что <strong>тролль </strong>за всё это время даже <strong>не пошевелился</strong>. Неужели он <strong>окаменел</strong>, стоя под открытым небом на палящем <strong>солнце </strong>(<em>так же тролли работают</em>)?
 
 <em>Бедняга</em>. Ты просто <strong>обязан </strong>дать ему знать, что про него не все забыли.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Друг, ну как так можно? Стоять целыми днями, охранять этот мост…</blockquote>
 
 <blockquote>Зашёл хоть бы в лес, остыл бы в тени деревьев. Так и солнечный удар схватить можно. Подумай хоть о себе!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_troll.png)
 
 <blockquote>— …</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Я серьёзно, зачем оно тебе? Бросай ты уже этот мост и эту реку!</blockquote>
 
@@ -125,7 +125,7 @@ permalink: /207
 <blockquote>Ну же, соглашайся!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_troll.png)
 
 <blockquote>— …</blockquote>
 

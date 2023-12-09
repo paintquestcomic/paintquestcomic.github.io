@@ -8,7 +8,7 @@ permalink: /180
 # >ткнуть эту структуру продолговатым предметом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_1.png)
 
 После некоторого копания в мусоре тебе удаётся найти <strong>удочку</strong>!
 
@@ -21,7 +21,7 @@ permalink: /180
 Ничего не происходит. <em>Полезно знать?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_2.png)
 
 <blockquote><strong>ТРАГЕДИЙНАЯ МАСКА</strong> ДОБАВЛЕНА В ИНВЕНТАРЬ</blockquote>
 
@@ -30,14 +30,14 @@ permalink: /180
 ## >откопать перед собой круглую штуку, похожую на мяч
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_3.png)
 
 Вот <strong>эту</strong>? Штука и правда <strong>круглая</strong>, но чем ближе ты к ней подходишь, тем сильнее исчезает сходство с мячом.
 
 Ты принимаешься за <strong>раскопки</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_4.png)
 
 Видимо, это — <strong>спутниковая тарелка</strong>.
 
@@ -46,7 +46,7 @@ permalink: /180
 ## >проверить, как дела у Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_5.png)
 
 Быстренько переключимся на <strong>Марио</strong>.
 
@@ -57,14 +57,14 @@ permalink: /180
 ## >убрать грязь, которая закрывает что-то круглое над входом в помещение справа
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_6.png)
 
 Хм, ты сразу и не заметил, но за <strong>грязью </strong>на сферической <strong>структуре </strong>действительно что-то скрывается.
 
 <strong>Раскроем </strong>и эту тайну.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_7.png)
 
 Ты смахиваешь грязь. Твоему взору открывается не то <strong>знак</strong>, не то <strong>логотип</strong>, не то <strong>эмблема </strong>(<em>будто ты знаешь между ними разницу</em>).
 
@@ -75,14 +75,14 @@ permalink: /180
 ## >осмотреть помещение с помощью свечи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_8.png)
 
 Взяв <strong>ведро </strong>с Пармезаном и свечой, ты <strong>спускаешься </strong>в частично заваленный <strong>проход</strong>, внутрь в сферическую структуру.
 
 Ты осторожно ступаешь на покрытый <strong>плиткой </strong>пол и выдвигаешься <strong>вглубь</strong>, навстречу неизвестному.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_179_9.png)
 
 Твою встречу с неизвестным отменяет <strong>дверь</strong>, возникшая в конце коридора (<em>а шёл ты именно по коридору</em>).
 

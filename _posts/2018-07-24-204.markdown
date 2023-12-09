@@ -8,7 +8,7 @@ permalink: /204
 # >отвязать нитки от колец и начать жонглировать кольцами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_1.png)
 
 Ты развязываешь нитки, держащие три упавших <strong>кольца</strong>.
 
@@ -19,7 +19,7 @@ permalink: /204
 ## >ГЕРОИЧЕСКИ слепить из пластилина(?) новую булаву
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_2.png)
 
 <em>Не нужно быть скульптором, чтобы лепить из пластилина.</em>
 
@@ -30,7 +30,7 @@ permalink: /204
 <em>Должно прийти.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_3.png)
 
 <strong>Та-дам!</strong>
 
@@ -41,14 +41,14 @@ permalink: /204
 ## >нажать на кнопку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_4.png)
 
 Можно и <strong>нажать</strong>, что тебе ещё терять-то?
 
 <em>Только не будь ловушкой, только не будь ловушкой, только не будь ловушкой…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_5.png)
 
 В двери открывается <strong>отверстие</strong>, из которого выскакивает… <strong>цветочный букет!</strong>
 
@@ -59,7 +59,7 @@ permalink: /204
 ## >вознося хулу на всех возможных Пластилиновых Богов, зацепить наконец четвёртое кольцо за крюк
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_6.png)
 
 <em>Эх, Боги Пластилина, покровители наших дилетантов, куда же вы смотрите? Могли бы подсказать им, как нормальные люди делают головоломки с нуля, а не плагиатят.</em>
 
@@ -70,7 +70,7 @@ permalink: /204
 ## >сходить за ещё одним оружием и, по доброй традиции, кинуть его за дверь, после чего героически проникнуть следом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_7.png)
 
 Ты возвращаешься за <strong>мечом</strong>.
 
@@ -79,7 +79,7 @@ permalink: /204
 Ты бросаешь (<em>безусловно, бутафорский</em>) <strong>меч</strong> в <strong>темноту</strong>. С ним ничего не происходит, путь <strong>безопасен</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_8.png)
 
 <strong>Ты выходишь.</strong>
 
@@ -88,19 +88,19 @@ permalink: /204
 Подобрав на всякий случай <strong>меч</strong>, ты выдвигаешься <strong>вглубь </strong>деревьев.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_9.png)
 
 Через некоторое время ты выходишь в <strong>более открытую местность</strong>. Эти просторы будут <strong>поживописнее</strong>, чем тёмная лесная чаща.
 
 Здешний <strong>ассортимент флоры</strong> радует глаз. Вокруг всякие <strong>кустики </strong>и <strong>деревца</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_10.png)
 
 Вот ещё <strong>облако </strong>в небе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_11.png)
 
 А вот тут даже протекает <strong>река</strong>, и через неё прокинут изогнутый <strong>мост</strong>.
 
@@ -111,7 +111,7 @@ permalink: /204
 ## >очисти разум, выбросив из головы всё
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_203_12.png)
 
 <em>Стой</em>.
 

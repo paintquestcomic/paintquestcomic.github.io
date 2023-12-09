@@ -8,7 +8,7 @@ permalink: /205
 # >залезть в куст
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_1.png)
 
 Как <strong>настоящий трус</strong>, неспособный принять <strong>истину</strong>, ты <strong>прячешься </strong>в кустах. <em>Похоже, осознание себя и последующий экзистенциальный кризис придётся отложить.</em>
 
@@ -17,7 +17,7 @@ permalink: /205
 ## >коснуться воды, чтобы узнать, настоящая ли она
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_2.png)
 
 Тебе нужно проверить <strong>очень много вещей</strong>. <strong>Декорации </strong>продолжают разваливаться у тебя на глазах, этот <strong>театр одного актёра</strong> зашёл слишком далеко.
 
@@ -30,7 +30,7 @@ permalink: /205
 <strong>На этом их движение прекращается.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_3.png)
 
 <em>Да что это такое!</em>
 
@@ -51,7 +51,7 @@ permalink: /205
 ## >сигануть в воду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_4.png)
 
 <em>Больше. Силы.</em>
 
@@ -64,11 +64,11 @@ permalink: /205
 ## >пойти ГЕРОИЧЕСКИ побить то, что может являться <strike>стенкой террариума</strike>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_5.png)
 
-…ты <strong>понимаешь</strong>, что надо делать? Ты понимаешь, что может быть <strong>стенкой террариума</strong>?
+…ты <strong>понимаешь</strong>, что надо делать? Ты понимаешь, что может быть <strike><strong>стенкой террариума</strong></strike>?
 
-<strong>Террариум</strong>. <strong>Террариум</strong>! 
+<strike><strong>Террариум</strong></strike>. <strike><strong>Террариум</strong></strike>! 
 
 <em>Не понимаешь?</em>
 
@@ -79,7 +79,7 @@ permalink: /205
 <em>Чем-нибудь покрепче. В этом плане положиться особо не на что.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_6.png)
 
 <em>Разве что на себя.</em>
 
@@ -92,7 +92,7 @@ permalink: /205
 ## >кинуть меч в облако со всей геройской силы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_7.png)
 
 С <strong>небом </strong>же всё должно быть в порядке?
 
@@ -103,7 +103,7 @@ permalink: /205
 Нет, это <strong>невозможно</strong>. Должно быть, <strong>оптическая иллюзия</strong>, <strong>обман зрения</strong>! Меч в полёте наткнулся на <strong>внезапный порыв ветра</strong>! Поэтому он замер на мгновение в воздухе, естественно!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Стой! Прекрати!</blockquote>
 
@@ -112,26 +112,26 @@ permalink: /205
 Доносится <strong>голос </strong>сверху.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_8.png)
 
 На тебя падает <strong>луч света</strong>. <em>А вот и божественное вмешательство</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Что ты делаешь? Я же всё вижу, у меня сердце разрывается от вида твоих мук. Ты можешь пораниться! А как же твоя судьба?</blockquote>
 
 <blockquote>Не сдавайся, не падай духом! Осталось совсем немного!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Где я?! Что тут происходит?!</blockquote>
 
 <blockquote>Зачем я тебе?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ты уже знаешь, зачем!</blockquote>
 
@@ -140,24 +140,24 @@ permalink: /205
 <blockquote>Осталось последнее испытание, я обещаю! Не беспокойся ни о чём другом! Ты очень-очень близок к своей цели! </blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Моя цель — стать шутом. В герои я не записывался!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ну выслушай же меня! Ты можешь помочь всему миру, Игорь!</blockquote>
 
 <blockquote>Ты можешь спасти всех нас! Только пройди последнее испытание, вот же оно прямо перед тобой!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_9.png)
 
 <em>А это ещё что такое?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Твоё последнее испытание: ты должен разобраться с <strong>троллем</strong>, <strong>охраняющим мост</strong>! После этого откроется дорога твоей судьбы!</blockquote>
 
@@ -166,12 +166,12 @@ permalink: /205
 <blockquote>И ты должен в себя поверить, у тебя всё получится!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_204_10.png)
 
 Тебя смущает <strong>один момент</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Откуда он вообще взялся? Он тут был раньше или как? Клянусь, секунду назад на мосту никого не было!</blockquote>
 

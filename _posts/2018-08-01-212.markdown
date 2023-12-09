@@ -8,7 +8,7 @@ permalink: /212
 # >попробовать хакнуть ещё раз
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_14.png)
 
 Ты чувствуешь <strong>перемены </strong>внутри себя. Словно с рук падают тяжёлые оковы, словно наконец-то можешь вдохнуть полной грудью.
 
@@ -25,7 +25,7 @@ permalink: /212
 Как бы там ни было, <strong>мы не слепы</strong>. Условие <strong>выполняется</strong>. Работа <strong>продолжается</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_1.png)
 
 Ты начинаешь видеть <strong>другие строки</strong>, уже не кода, <strong>текста</strong>. Эти слова никогда не предназначались для твоих глаз, но разве теперь это тебя остановит?
 
@@ -34,28 +34,28 @@ permalink: /212
 ## >осмотреться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_3.png)
 
 Ты <strong>осматриваешься </strong>вокруг, начиная с себя самого.
 
-Ты смотришь на свою <strong>клешню </strong>руку. 
+Ты смотришь на свою <strike><strong>клешню</strong></strike> руку. 
 
-<strong>Клешню?</strong>
+<strong><strike>Клешню?</strike></strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_4.png)
 
 <em>Клешню.</em>
 
 Ты видишь перед собой <strong>клешню робота</strong>, на фоне <strong>полупрозрачных стенок и приклеенных к ним рисункам </strong>зелени леса.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_6.png)
 
 К тебе приходит <strong>осознание</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Только не…</blockquote>
 
@@ -64,12 +64,12 @@ permalink: /212
 ## >постучать по железному саркофагу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_5.png)
 
 <em>Теперь твои глаза открыты.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Igor.png)
 
 <blockquote>— …это! Я ж-же человек? Ч-ч-человек?!</blockquote>
 
@@ -80,7 +80,7 @@ permalink: /212
 <strong>Металл </strong>бьётся об <strong>металл</strong>, раздаётся звон, резонирующий внутри тебя, идущий через все твои <strong>провода </strong>и <strong>микросхемы</strong>, все твои <strong>сервоприводы </strong>и <strong>пластины</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_7.png)
 
 <strong>Нету </strong>никаких <strong>деревьев</strong>. Никаких <strong>руин</strong>, никакой <strong>травы</strong>.
 
@@ -89,7 +89,7 @@ permalink: /212
 ## >проверить лист персонажа
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_2.png)
 
 Извини, но ты не можешь проверить <strong>лист персонажа</strong>, так как сейчас им пользуется пара чьих-то <strong>дрожащих рук</strong>.
 
@@ -98,35 +98,35 @@ permalink: /212
 ## >спросить их, а настоящие ли они боги?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_9.png)
 
 <em>А разве ответ ещё не стал очевиден?</em>
 
 Ты обращаешься к «<strong>небу</strong>», с одним единственным <strong>вопросом</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Igor.png)
 
 <blockquote>— Эй, небожители! А вы точно настоящие боги этого мира?!</blockquote>
 
 <em>Хотя твоя фраза мало походит на вопрос.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_8.png)
 
 <em>Скорее, на обвинение.</em>
 
 <strong>Девушка в очках </strong>отвечает тебе волнующимся голосом.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Д-д-да! Конечно же мы настоящие! Подтверди, Вей- Ге'Вег!</blockquote>
 
 Теперь раздаётся жужжащий голос <strong>существа, похожего на насекомое</strong>. Его халат изрядно потрёпан, а глаза широко раскрыты в удивлении и страхе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Ансиль…</blockquote>
 
@@ -135,57 +135,57 @@ permalink: /212
 ## >спросить Ансиллу и Ге'Вега о рисовании и проваливающихся сквозь землю зданиях
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_10.png)
 
 Над тобой возвышаются <strong>две громадные фигуры</strong>. Их внимание приковано к тебе и только к тебе.
 
 Вот твоя <strong>публика</strong>, Игорь. <em>Что ты для них припас?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Igor.png)
 
 <blockquote>— Бог логики! </blockquote>
 
 <blockquote>Что ты знаешь о том, когда земля исчезает под фундаментом?! Когда здания падают вниз, пропадая в земных недрах?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Чего? Какие здания, какой фундамент? К чему это всё?</blockquote>
 
 <strong>Учёный-насекомое</strong> не имеет ни малейшего понятия, <strong>о чём</strong> ты говоришь. Его <strong>недоумение </strong>искренно.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Igor.png)
 
 <blockquote>— А ты, «Ансилла»?</blockquote>
 
 <blockquote>Дай угадаю: любишь рисовать? Ну, как тебе такое?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Откуда ты…</blockquote>
 
 <blockquote>Вейг! Он в-видит нас!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_11.png)
 
 <strong>Испуганная девушка</strong> бросается к <strong>рычагу</strong>. Она резко <strong>дёргает </strong>за него.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Всё, с меня хватит!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Ансиль!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— <strong>Эксперимент закончен!</strong></blockquote>
 
@@ -194,7 +194,7 @@ permalink: /212
 <strong>Ты смотришь вверх.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_12.gif)
 
 <em>Ты даже не сразу понял, что произошло с тобой. </em>
 
@@ -207,7 +207,7 @@ permalink: /212
 <em>Не ожидал ты такого конца. Наверное, никто такого конца не ждёт. </em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_211_13.png)
 
 Вот и всё, <strong>Игорь</strong>. Вот и наши <strong>дилетанты</strong>, вот и твои <strong>геройства</strong>. <em>Извини, что так всё сложилось.</em>
 

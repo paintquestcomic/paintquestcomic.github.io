@@ -8,7 +8,7 @@ permalink: /208
 # >отдать троллю свой подушко-щит
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_1.png)
 
 Пусть <strong>тролль </strong>и <strong>подушку </strong>заберёт, раз уж такое дело! Тебе для него ничего не жалко, хоть присесть ему будет на что.
 
@@ -19,7 +19,7 @@ permalink: /208
 ## >надеть на тролля свой плащ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_2.png)
 
 Да, <strong>плащ </strong>ему к лицу. Он сразу стал таким <strong>внушительным </strong>— то, что нужно для <strong>охранника</strong>!
 
@@ -28,7 +28,7 @@ permalink: /208
 ## >сделать троллю парик из куста
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_3.png)
 
 Остановись, ты слишком <strong>дружелюбен </strong>с ним!
 
@@ -39,7 +39,7 @@ permalink: /208
 <blockquote><strong>ПОКАЗАНИЯ ТЕРМОМЕТРА:</strong> Сейчас рванёт, прячьтесь!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_4.png)
 
 <strong>Что происходит?! Что за странное свечение?!</strong>
 
@@ -50,7 +50,7 @@ permalink: /208
 <strong>Что…</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_5.png)
 
 <em>Господи.</em>
 
@@ -59,7 +59,7 @@ permalink: /208
 Все твои <strong>подарки</strong>, вся твоя <strong>безграничная доброта </strong>и <strong>щедрость </strong>превратили его в отличного, нет, <strong>идеального тролля</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_6.png)
 
 Он что, <strong>улетает</strong> <strong>в небо</strong>?
 
@@ -68,12 +68,12 @@ permalink: /208
 ## >представиться троллю
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_7.png)
 
 Срочно, <strong>скажи </strong>же что-нибудь!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Я совсем забыл представиться, меня зовут Игорь!</blockquote>
 
@@ -88,7 +88,7 @@ permalink: /208
 <em>Мы все скучаем.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_207_8.png)
 
 <em>Да, может, ты и потерял все свои вещи, но оно было к лучшему.</em>
 

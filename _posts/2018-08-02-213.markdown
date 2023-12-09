@@ -8,7 +8,7 @@ permalink: /213
 # >внимательно слушать учёных
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_1.png)
 
 В твоём текущем состоянии <strong>трудно </strong>воспринимать окружающую действительность.
 
@@ -17,99 +17,99 @@ permalink: /213
 Ты <strong>слушаешь</strong>, и слушаешь ты очень внимательно.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Поверить не могу, я же всё просчитала! Как?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Сколько раз мы тебе говорили? Этот феномен крайне малопонятен, чтобы пытаться найти в нём применение.</blockquote>
 
 <blockquote>Мы не можем доверять решение наших проблем таким, как он. Он был слишком непредсказуем. Слишком опасен!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Но всё шло так хорошо! Если бы ты только видел, что он вытворял!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkTallsciguy.png)
 
 <blockquote>— Гюннервейг.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_2.png)
 
 В комнате появился <strong>третий</strong>. Его монотонного голоса ты раньше не слышал.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkTallsciguy.png)
 
 <blockquote>— Мне требуется доступ к аварийному зарядному устройству. Оно под паролем.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— Ой, неужели так трудно запомнить четыре цифры?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Во-первых, кто бы говорил, Ансиль!</blockquote>
 
 <blockquote>А во-вторых, не четыре цифры, а четыре буквы. Причём те самые буквы, которыми нам тычут в лицо каждый день!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkTallsciguy.png)
 
 <blockquote>— Гюннервейг, твоя дерзость отрицательно сказывается на работе Станции. У меня есть тесты, результаты которых это подтверждают.</blockquote>
 
 <blockquote>Не говоря уже о твоём неустойчивом режиме сна.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Эй! У меня такой метаболизм, это от меня не зависит!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkTallsciguy.png)
 
 <blockquote>— Я всего лишь хочу, что весь персонал Станции был сосредоточен на цели.</blockquote>
 
 <blockquote>Мы не просто так носим почётное звание эсхатологов. Вы же помните, какой у нас девиз?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_3.png)
 
 Твоя <strong>связь </strong>с телом постепенно <strong>обрывается</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ansille.png)
 
 <blockquote>— «Смерть Червю»!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Weig.png)
 
 <blockquote>— Эх… </blockquote>
 
 <blockquote>«Смерть Червю».</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_DarkTallsciguy.png)
 
 <blockquote>— «Смерть Червю».</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_4.png)
 
 На этом голоса <strong>умолкают</strong>. Ты больше не в комнате.
 
 ## >ГЕРОИЧЕСКИ воскреснуть
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_5.png)
 
 Твоё <strong>геройство </strong>не было настоящим. Его вживили тебе искусственно, в микросхемы и код. <em>Хотя и от них ты кое-что смог перенять.</em>
 
@@ -118,19 +118,19 @@ permalink: /213
 <em>А существование, как известно, никуда исчезнуть не может.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_6.png)
 
 <em>Оно лишь меняет свою форму.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_7.png)
 
 Тебя зовут <strong>Гарри Стикман</strong>.
 
 Только что ты прожил чью-то чужую <strong>жизнь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_8.png)
 
 Тебя переполняет новый <strong>опыт</strong>, со всеми его плюсами и минусами.
 
@@ -143,24 +143,24 @@ permalink: /213
 Так, а <strong>где </strong>ты вообще находишься? Как ты тут оказался?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_9.png)
 
 <strong>Марио?!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Гарри! Ты наконец-то очнулся!</blockquote>
 
 <blockquote>Фух, я уже переживать стал. Ты хоть знаешь, как трудно тебя было найти?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_212_10.png)
 
 Похоже, ты всё ещё на <strong>Станции</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Тебя так долго не было, что мы решили отправиться на поиски. Бродили по свалке, пока не наткнулись на эту здоровую штуковину.</blockquote>
 

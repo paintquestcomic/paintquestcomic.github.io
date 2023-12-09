@@ -8,42 +8,42 @@ permalink: /168
 # >спросить о том, что вас ждёт после выполнения предназначенного
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_1.png)
 
 <em>Да, у тебя есть вопрос. Только что появился.</em>
 
 <em>Вопрос, может, и не твой, но задаёшь его ты.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Что будет со мной и Гарр- адептом Безмолвного Бога после завершения нашей миссии?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Значит, ты попал сюда с благословения жреца. Очень интересно.</strong></blockquote>
 
 <blockquote><strong>Не рассчитывал на такой личный вопрос. Я знаю много, но не всё. Чужие судьбы для меня — загадка.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Что за миссия?</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Последняя воля Праотца Фангуса. Он сказал, что судьба адепта заключается в том, чтобы донести грибные споры вниз, в «беспросветные пещеры».</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Так, значит. Я не верю в судьбу. Но я знаю про старый гриб.</strong></blockquote>
 
@@ -54,12 +54,12 @@ permalink: /168
 <blockquote><strong>Первородный гриб лишь привёл в действие механизм, который обеспечит «правильное» развитие событий. Боюсь, что ты и жрец — всего лишь шестерёнки.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Это не отвечает на мой вопрос.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Потому что я не знаю ответа. Но я могу предположить.</strong></blockquote>
 
@@ -68,15 +68,15 @@ permalink: /168
 ## >спросить, почему он говорит, сам являясь жрецом Безмолвного Бога
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— А почему ты разговариваешь? Разве ты не жрец Безмолвного Бога?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Нет. Я не служу никому. В этом месте я — гость, и попасть сюда смертному без должного благословения практически невозможно.</strong></blockquote>
 
@@ -85,57 +85,57 @@ permalink: /168
 <blockquote><strong>Пришло время моего подарка. Запомни этот урок.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Киноварь.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Кобальт.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_7.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Аурум.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_8.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Купрум.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_9.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Ключи от ключа. </strong></blockquote>
 
 <blockquote><strong>Ответ проще, чем кажется. Не плоди сущности.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_11.gif)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Тебе пора.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_167_10.png)
 
 Ты приходишь в себя и возвращаешься в более привычный <strong>физический мир</strong>.
 

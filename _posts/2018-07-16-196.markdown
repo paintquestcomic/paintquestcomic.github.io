@@ -8,14 +8,14 @@ permalink: /196
 # >рассмотреть свою руку в микроскопе
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_1.png)
 
 Довольно рассматривать <strong>всякий хлам</strong>, уж лучше проверить работоспособность <strong>микроскопа</strong>. <em>Будем надеяться, что он не электронный.</em>
 
 Одну руку ты подставляешь под <strong>объектив </strong>микроскопа, а второй <strong>регулируешь</strong>, при этом смотря в <strong>окуляр</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_2.png)
 
 Да, это определённо твоя <strong>рука</strong>!
 
@@ -28,12 +28,12 @@ permalink: /196
 ## >собрать немного зелёной жидкости в стеклотару
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_3.png)
 
 Ты собираешь <strong>зелёную жидкость</strong> из разбитой футуристической банки в <strong>сосуд </strong>с засохшим зельем <strong>Восприятия Тайного</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_4.png)
 
 <blockquote><strong>СОСУД С ЗЕЛЁНОЙ ЖИДКОСТЬЮ И ЗАСОХШИМ ЗЕЛЬЕМ</strong> ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
@@ -42,7 +42,7 @@ permalink: /196
 ## >выпить неизвестную жидкость и угостить Пармезана
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_5.png)
 
 Ты капаешь каплю <strong>неизвестной зелёной жидкости</strong> себе на язык.
 
@@ -55,7 +55,7 @@ permalink: /196
 ## >съесть конфетку из котомки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_6.png)
 
 Точно, у тебя же в <strong>котомке </strong>припрятана <strong>конфетка</strong>!
 
@@ -70,7 +70,7 @@ permalink: /196
 ## >морально подготовиться к познанию "пустоты" от куска металлолома
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_7.png)
 
 Да погоди <strong>морально </strong>готовиться, сначала <strong>физически </strong>будь готов!
 
@@ -87,7 +87,7 @@ permalink: /196
 ## >сконцентрироваться на металлоломе
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_8.gif)
 
 <strong>Ты даёшь пустоте поглотить себя.</strong>
 
@@ -102,7 +102,7 @@ permalink: /196
 Дело в твоей <strong>сущности</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_9.png)
 
 А <strong>это </strong>ещё что такое? Похоже на листок бумаги, даже текст есть. Что там <strong>написано</strong>?
 
@@ -111,7 +111,7 @@ permalink: /196
 ## | СОЗДАНИЕ ПЕРСОНАЖА |
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_195_10.png)
 
 <strong>Чего?</strong>
 

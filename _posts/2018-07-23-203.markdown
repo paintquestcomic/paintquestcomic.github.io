@@ -8,7 +8,7 @@ permalink: /203
 # >ГЕРОИЧЕСКИ обратить на стену внимание
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_1.png)
 
 Ты всё-таки решаешь обратить внимание на <strong>стену</strong>, почему-то.
 
@@ -21,7 +21,7 @@ permalink: /203
 ## >кинуть в четвёртую стену булаву
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_2.png)
 
 Ты без всяких проблем кидаешь <strong>булаву </strong>прямо в <strong>четвёртую стену</strong>.
 
@@ -36,14 +36,14 @@ permalink: /203
 ## >внимательно осмотреть второй конец нитки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_3.png)
 
 Похоже, нитка не просто оборвалась, она ещё умудрилась прихватить с собой <strong>кусок потолка</strong>.
 
 А на <strong>чём </strong>она тут вообще держится?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_4.png)
 
 При более тщательном осмотре выясняется, что <strong>нитка </strong>к потолку была прикреплена при помощи… <strong>куска глины</strong>?
 
@@ -54,7 +54,7 @@ permalink: /203
 ## >не нажимая кнопку сыграть в «тук-тук — кто там?»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_5.png)
 
 Вопросительным стуком ты стучишь в <strong>дверь</strong>, при этом стараясь не зацепить подозрительную <strong>кнопку</strong>.
 
@@ -67,7 +67,7 @@ permalink: /203
 ## >дёрнуть каждое из остальных колец
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_6.png)
 
 Ладно, пока что <strong>логика </strong>тебе помочь не смогла. Будем решать головоломку самым простым способом — <strong>перебором</strong>!
 
@@ -80,14 +80,14 @@ permalink: /203
 ## >открыть дверь
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_7.png)
 
 Именно это ты и делаешь, когда тянешь за <strong>четвёртое кольцо</strong> — <strong>открываешь дверь</strong>.
 
 За <strong>дверью </strong>ты ничего не видишь, там царит <strong>полная тьма</strong>. <em>Ну, это только с дальнего расстояния, а если вблизи?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_202_8.png)
 
 Ты отпускаешь <strong>кольцо</strong>.
 

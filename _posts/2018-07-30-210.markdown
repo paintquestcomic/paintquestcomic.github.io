@@ -8,7 +8,7 @@ permalink: /210
 # >потыкать эту штуку палочкой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_1.png)
 
 <em>Правильно, нечего всякие мистические структуры трогать голыми руками.</em>
 
@@ -21,7 +21,7 @@ permalink: /210
 ## >возложить цветы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_2.png)
 
 Кто знает, <strong>что </strong>тебя ждёт после прикосновения к <strong>Обелиску</strong>? Стоит попытаться <strong>умаслить </strong>богов с помощью <strong>небольшого подношения</strong>, терять тебе нечего.
 
@@ -30,7 +30,7 @@ permalink: /210
 ## >прикоснуться к Обелиску Доблести
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_3.png)
 
 Ты медленно подводишь свою руку к <strong>Обелиску</strong>.
 
@@ -39,7 +39,7 @@ permalink: /210
 Ты почти уже <strong>коснулся </strong>его…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_4.png)
 
 Нет, погоди, <strong>что-то</strong> не так…
 
@@ -48,21 +48,21 @@ permalink: /210
 ## >ГЕРОИЧЕСКИ прикоснуться к Обелиску Доблести
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_5.png)
 
 <em>Ты никогда не считал себя героем. До сих пор не считаешь, не будем лукавить.</em>
 
 <em>Тем не менее, сейчас ты направляешь всё своё геройство в одно простое движение.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_6.png)
 
 <strong>Ты касаешься Обелиска Доблести.</strong>
 
 <em>Героически.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_7.png)
 
 <em>…и что?</em>
 
@@ -71,12 +71,12 @@ permalink: /210
 В порыве <strong>ярости </strong>(<em>смешанной с не менее сильным разочарованием</em>) ты начинаешь <strong>бить </strong>по Обелиску, пытаясь хоть как-нибудь <strong>активировать </strong>этот бесполезный кусок камня!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_8.png)
 
 Внезапно, в небе возникает <strong>знакомый образ</strong>.<em> Не тролля, к сожалению.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Эй, спокойно, я тут, я на месте!</blockquote>
 
@@ -85,12 +85,12 @@ permalink: /210
 <blockquote>Надеюсь, я хоть не испортила драматическое первое прикосновение к Обелиску?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Эмм, «драматическое»? Да не особо, я бы сказал…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ну и чудненько! Перейдём к делу.</blockquote>
 
@@ -99,22 +99,22 @@ permalink: /210
 <blockquote>Ты смог доказать, ты что достоин быть моим <strong>чемпионом </strong>и, что важнее, <strong>истинным героем</strong>!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Так, а что дальше?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— А дальше мы решим, как можно применить твои героические способности во спасение этого мира! Может, и не только этого!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— «Мы»?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Ага! Я и другие боги. Сейчас же созываю <strong>Божественный Совет</strong>!</blockquote>
 
@@ -123,7 +123,7 @@ permalink: /210
 <blockquote>Вот! Г- Ге'Вег, иди сюда, у нас <strong>Божественный Совет</strong>!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_9.png)
 
 В небе появляется <strong>ещё один образ</strong>, и этот образ тебе совершенно <strong>незнаком</strong>.
 
@@ -132,14 +132,14 @@ permalink: /210
 <em>Ты не был морально готов к огромным небесным сколопендрам, уж точно не сегодня.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Не пугайся его вида, на самом деле он — просто душка!</blockquote>
 
 <blockquote>Игорь, познакомься, это — <strong>Ге'Вег</strong>, бог разума, природы и логики! А также <strong>движитель небесный</strong>, <strong>мировой оператор</strong> и-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_insect.png)
 
 <blockquote>— Да-да-да, это всё про меня, это всё я.</blockquote>
 
@@ -148,33 +148,33 @@ permalink: /210
 <blockquote>…только не говори мне, что ты разбудила меня ради этого маленького человечка.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_goddess.png)
 
 <blockquote>— Да ты что, причина самой важной важности! </blockquote>
 
 <blockquote>Его зовут Игорь, и он прошёл все испытания! У него просто поразительные способности к решению проблем, уверяю тебя!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_insect.png)
 
 <blockquote>— Прошёл? Все испытания? А вот это уже интересное развитие событий.</blockquote>
 
 <blockquote>Ну здравствуй, «Игорь», так же тебя зовут?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Д-да, верно. Меня зовут Игорь.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_insect.png)
 
 <blockquote>— Славно. Теперь будем думать, что же с тобой делать…</blockquote>
 
 ## >задуматься, вдруг твоё существование закончится после выполнения задания? Почему его было так легко выполнить? Неужели тут нет никакого подвоха?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_209_10.png)
 
 «<em>Что же с тобой делать</em>»? Ой, не нравится мне эта <strong>формулировка</strong>, Игорёк.
 

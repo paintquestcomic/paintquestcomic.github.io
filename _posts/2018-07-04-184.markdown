@@ -8,7 +8,7 @@ permalink: /184
 # >оценить пустые пространства под каждым столом по 10-бальной шкале
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_1.png)
 
 <em>Что ты там оценивать собрался? А, да ну тебя!</em>
 
@@ -19,7 +19,7 @@ permalink: /184
 <strong>2/10 (очень мало места).</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_2.png)
 
 Следующий — <strong>металлический стол с банкой сверху</strong>.
 
@@ -28,7 +28,7 @@ permalink: /184
 <strong>6/10 (в связи с нанесённым психологическим ущербом).</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_3.png)
 
 И напоследок — <strong>стол с клавиатурой</strong>.
 
@@ -41,7 +41,7 @@ permalink: /184
 ## >поискать мини-игры на компьютере
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_4.png)
 
 Ты бы с удовольствием, вот только <strong>монитор </strong>всё ещё не работает. <strong>Клавиатура </strong>тоже не отзывается.
 
@@ -50,7 +50,7 @@ permalink: /184
 ## >вооружившись своим копьём, представить себя рыцарем на верном скакуне
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_5.gif)
 
 Ты хватаешь <strong>удилище </strong>в одну руку и садишься на <strong>офисное кресло</strong>. 
 
@@ -61,7 +61,7 @@ permalink: /184
 ## >внимательно рассмотреть схему
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_6.png)
 
 Ты поближе подходишь к висящей на стене <strong>схеме</strong>.
 
@@ -72,7 +72,7 @@ permalink: /184
 ## >разведать западный проход
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_183_7.png)
 
 Ты проходишь на <strong>запад</strong>, в <strong>комнату</strong>, которая не была обозначена на плане. Похоже, ты оказался в <strong>кладовке</strong>.
 

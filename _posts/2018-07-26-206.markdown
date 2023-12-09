@@ -8,7 +8,7 @@ permalink: /206
 # >пройти по очень плотной воде на другую сторону
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_1.png)
 
 <em>Хм, тоже мне, «испытание».</em>
 
@@ -17,14 +17,14 @@ permalink: /206
 ## >не забыть взять с собой новую булаву
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_2.png)
 
 <em>…да чтоб тебя.</em>
 
 Ладно, ты <strong>возвращаешься </strong>за своей <strong>булавой </strong>и <strong>только после этого</strong> переходишь на другой берег.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_3.png)
 
 И… <strong>что дальше</strong>?
 
@@ -39,7 +39,7 @@ permalink: /206
 ## >кинуть под ноги троллю небольшой камешек
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_4.png)
 
 <strong>Камешков </strong>вокруг ты не видишь, поэтому ты срываешь кусок <strong>куста</strong>, чтобы использовать его в качестве <strong>снаряда</strong>.
 
@@ -48,7 +48,7 @@ permalink: /206
 ## >кинуть в тролля небольшой камешек
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_5.png)
 
 <strong>Камешки</strong>, опять же, <strong>отсутствуют</strong>, поэтому ты подбираешь ранее сорванный и однажды брошенный <strong>кусок куста</strong> и повторяешь содеянное с ним, в этот раз целясь непосредственно в <strong>тролля</strong>.
 
@@ -61,7 +61,7 @@ permalink: /206
 ## >начать с троллем нагло одолженную дилетантами дружбаталию
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_6.png)
 
 Ты начинаешь…
 
@@ -78,7 +78,7 @@ permalink: /206
 ## >преподнести троллю букет из предыдущей комнаты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_7.png)
 
 <strong>Тролль</strong>, как и всегда, даже <strong>не собирается</strong> шевелиться или как-то реагировать на твой <strong>презент</strong>.
 
@@ -89,14 +89,14 @@ permalink: /206
 ## >исполнить забавный танец
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_8.png)
 
 Точно, <strong>забавный танец</strong>! Отличный <strong>шутовской </strong>способ наладить отношения!
 
 Сейчас ты что-нибудь придумаешь!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_9.gif)
 
 Ты… <strong>танцуешь</strong>, кажется.
 
@@ -107,12 +107,12 @@ permalink: /206
 ## >рассказать парочку анекдотов про троллей
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_10.png)
 
 Ага, теперь пора продемонстрировать свою <strong>остроумную</strong> сторону! Давай, <strong>Игорь</strong>, рассмеши зрителя!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_fake_portrait_Igor.png)
 
 <blockquote>— Эй, меня всегда такая штука интересовала — почему троллей так трудно развеселить?</blockquote>
 
@@ -121,7 +121,7 @@ permalink: /206
 <blockquote>…<strong>лица каменные</strong>?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_205_11.png)
 
 <em>Господи, за что…</em>
 

@@ -8,15 +8,15 @@ permalink: /167
 # >спросить, кого здесь можно ожидать увидеть, если не гремлина?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_1.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— А… кого ожидал, тогда?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Первородных, ищущих приюта. </strong></blockquote>
 
@@ -31,10 +31,10 @@ permalink: /167
 ## >поздороваться и узнать у существа, кто оно
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_2.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Эмм…</blockquote>
 
@@ -43,21 +43,21 @@ permalink: /167
 <blockquote>Я…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Не трать силы, маленький гремлин. Сейчас не время.</strong></blockquote>
 
 <blockquote><strong>Ты ищешь что-то?</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Да, я ищу детали механизма пневмолифта…</blockquote>
 
 <blockquote>А кто ты такой?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Чернокнижник. Алхимик. Узник.</strong></blockquote>
 
@@ -68,7 +68,7 @@ permalink: /167
 ## >сесть на стул
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_4.png)
 
 <em>Ты присаживаешься на параллелепипед, материализовавшийся позади тебя.</em>
 
@@ -79,25 +79,25 @@ permalink: /167
 ## >выяснить у сущности: где ты?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Где м-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_3.png)
 
 <em>Стоило звуку покинуть твой рот, как под тобой исчезает опора.</em>
 
 <em>Ты падаешь на пол.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Значит, ты несёшь на себе марку Безмолвного Бога. Интересно.</strong></blockquote>
 
@@ -106,12 +106,12 @@ permalink: /167
 <blockquote><strong>Ничто не даётся даром.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_Mario.png)
 
 <blockquote>— Так где мы, всё-таки?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Сейчас мы находимся за пределами явного мира. Всё остальное — излишние подробности, которые тебе не помогут.</strong></blockquote>
 
@@ -122,10 +122,10 @@ permalink: /167
 <blockquote><strong>Но перед этим…</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_166_7.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paperdark_portrait_alch_unknown.png)
 
 <blockquote><strong>— Задай мне вопрос. Один. Любой вопрос. </strong></blockquote>
 

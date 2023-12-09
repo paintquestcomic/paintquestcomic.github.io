@@ -8,7 +8,7 @@ permalink: /192
 # >тронуть свое ❤️
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_191_1.png)
 
 Ты <strong>прикасаешься </strong>к своему телу где-то в районе груди.
 
@@ -17,7 +17,7 @@ permalink: /192
 ## >взять лист и маркер (ручку) и нарисовать портрет крысы-принцессы, а затем подарить его ей
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_191_2.png)
 
 Один <strong>портрет </strong>для <strong>прекрасной дамы</strong>, на подходе!
 
@@ -30,7 +30,7 @@ permalink: /192
 ## >сыграть роль свахи и предложить робо-крысе ту самую робо-мышь в качестве партнера по жизни
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_191_3.png)
 
 Ты не очень уверен, насколько <strong>этично </strong>с твоей стороны навязывать <strong>партнёра </strong>своему <strong>другу-грызуну</strong>.
 
@@ -41,7 +41,7 @@ permalink: /192
 ## >предложить благородной принцессе рыцарский эскорт
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_191_4.png)
 
 Нельзя оставлять <strong>даму </strong>одну после столь <strong>героического </strong>спасения! Надо убедиться, что она <strong>доберётся </strong>до королевских палат в <strong>целости </strong>и <strong>сохранности</strong>!
 
@@ -52,7 +52,7 @@ permalink: /192
 <blockquote><strong>ПОКАЗАНИЯ ДРУЖБОМЕТРА™: 6 </strong>—<strong> </strong>Приятственные Приятели!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_191_5.png)
 
 <strong>С</strong>-<strong>сюда </strong>тебе надо?
 

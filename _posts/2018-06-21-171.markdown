@@ -8,7 +8,7 @@ permalink: /171
 # >найти элементы в книге
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_1.png)
 
 Ты находишь <strong>элементы</strong> в книге необычайно быстро.
 
@@ -21,7 +21,7 @@ permalink: /171
 ## >вернуться к тому месту, где вы с Марио упали на свалку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_2.png)
 
 Ты идёшь в <strong>комнату с плиточной головоломкой</strong>.
 
@@ -36,7 +36,7 @@ permalink: /171
 ## >попробовать набрать на странном объекте комбинации
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_3.png)
 
 <strong>Шестиугольник… Замок… Ключ… «Ищи ключ»…</strong>
 
@@ -63,7 +63,7 @@ permalink: /171
 Вдохновлённый порывом логики, ты тут же достаёшь из инвентаря <strong>шестиугольную штуку</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_4.png)
 
 Ах, точно. Ты же <strong>не различаешь цвета</strong>. Сейчас ты видишь четыре абсолютно одинаковые красные кнопки.
 
@@ -76,31 +76,31 @@ permalink: /171
 ## >отнести первый кулинарный опыт Марио в холодильник, перелив его в небольшой стеклянный сосуд
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_5.png)
 
 Ты возвращаешься в <strong>книжную комнату</strong>, по пути захватив из комнаты с фонтаном <strong>сосуд</strong>.
 
 Ты начинаешь переливать <strong>грибной суп</strong> в стеклянную тару. <strong>Марио </strong>в растерянности наблюдает за процессом.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— У тебя возникла какая-то идея?</blockquote>
 
 Ты молча доливаешь остатки в сосуд и идёшь <strong>вниз</strong>. <strong>Марио </strong>из любопытства следует за тобой.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_6.png)
 
 Через некоторое время вы вновь оказываетесь на <strong>свалке</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Меня эти спуски и подъёмы уже начинают утомлять.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_170_7.png)
 
 Ты кладёшь <strong>сосуд </strong>в <strong>холодильник</strong>.
 

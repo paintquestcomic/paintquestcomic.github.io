@@ -8,14 +8,14 @@ permalink: /199
 # >проверить, не нарисован ли пейзаж за решёткой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_1.png)
 
 Ну как ты проверишь, если ты только что сам <strong>бочку сломал</strong>, дубина! На что ты <strong>взбираться </strong>собрался? Или ты у нас родом из семьи <strong>йогов </strong>и <strong>факиров</strong>, которых с горшка учат <strong>левитировать</strong>?
 
 ## >проверить, не приклеен ли серый квадрат на полу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_2.png)
 
 <em>Хм, а уж думал,что это такое кирпичное обрамление по периметру комнаты.</em>
 
@@ -24,7 +24,7 @@ permalink: /199
 Кажется, <strong>поддаётся</strong>! Ты хватаешься обеими руками за <strong>угол </strong>и тянешь его!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_3.png)
 
 Угол неожиданно <strong>отрывается </strong>от квадрата и ты <strong>падаешь </strong>навзничь!
 
@@ -35,14 +35,14 @@ permalink: /199
 ## >разыграй представление театра теней, в котором неизвестный тебе Гарри Стикман вместе со своим компаньоном Марио относит споры в беспросветные пещеры
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_4.png)
 
 «Эй, смотрите все, это я — <strong>Гарри</strong>… <em>ну как его там</em>. <em>Стик-стук-струк</em>… <strong>Струкманн</strong>! <strong>Гарри Струкманн</strong>!»
 
 «А я — <strong>Марио</strong>! И вместе мы идём… э<em>мм</em>…»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_5.png)
 
 Не, что-то <strong>не выходит</strong> театр теней. <em>Ты очень надеешься, что настоящие шуты не устраивают теневые представления, иначе у тебя проблемы.</em>
 
@@ -51,7 +51,7 @@ permalink: /199
 ## >задуматься, а на самом ли деле ты герой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_6.png)
 
 А действительно, с какой стати тебе заниматься <strong>геройствами</strong>?
 
@@ -62,7 +62,7 @@ permalink: /199
 <em>Где тут твоё окно героя? Или профиль, или как я там его называю обычно…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_7.png)
 
 <em>Вот сейчас я не понял юмора.</em>
 
@@ -77,7 +77,7 @@ permalink: /199
 ## >постигнуть и принять экзистенциальный кризис
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_8.gif)
 
 <em>Но ты меня уже не слушаешь, верно? Игорь? Игорь Сыргеевич?</em>
 
@@ -92,7 +92,7 @@ permalink: /199
 <strong>Где ты?!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_9.png)
 
 <em>Спокойно. Вдох. Выдох. Вдох…</em>
 
@@ -105,7 +105,7 @@ permalink: /199
 ## >подобрать ключ, поискать скважину на решётке и попробовать открыть
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_198_10.png)
 
 <strong>Ключ</strong>? Какой <strong>ключ</strong>?
 

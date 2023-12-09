@@ -8,14 +8,14 @@ permalink: /188
 # >послушать предыдущие записи на устройстве звукозаписи
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_1.png)
 
 Раз уж новую запись тебе не записать, стоит хоть послушать <strong>старые</strong>.
 
 Ты отматываешь на <strong>самую раннюю запись</strong> и жмёшь <strong>кнопку проигрывания</strong>. Из динамика раздаётся <strong>звук</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— <strong>*ПШШШ*</strong> -та штука работает?</blockquote>
 
@@ -30,12 +30,12 @@ permalink: /188
 ## >изучить рисунки на стене
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_2.png)
 
 Во <strong>второй комнате</strong> ты принимаешься за изучение <strong>рисунков</strong>, приклеенных к стене, а также продолжаешь прослушивание <strong>записей </strong>на устройстве.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— <strong>*ПШШШ*</strong> -от так. </blockquote>
 
@@ -48,29 +48,29 @@ permalink: /188
 <blockquote>*звук осторожно открывающейся двери*</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Вейг, у тебя всё в порядке? Я тут просто мимо проходила и услышала, как ты сам с собой разговариваешь. Ты же ещё не совсем слетел с катушек верно?</blockquote>
 
 <blockquote>Ой, а что это у тебя такое?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— Что? А, эта штуковина? Это диктофон, я решил захватить его с собой перед отправкой сюда.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Зачем он тебе?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— …даже не знаю. Мне показалось, что он может пригодиться, наверное?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Ага, конечно, "господин оператор", так я тебе и поверила. Давай уже, колись! Что, возомнил себя большой шишкой и решил завести себе аудио-журнал? Да? </blockquote>
 
@@ -79,77 +79,77 @@ permalink: /188
 <blockquote>Я вообще к тебе вот по какому вопросу: у меня фонарик разрядился, а батареек я найти не могу. Не поделишься?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— У меня тоже кончились. Если сильно надо, то пойди возьми аварийную зарядку внизу. Беспроводную, ну, ты поняла.</blockquote>
 
 <blockquote>Она под паролем, пароль там должен быть наш стандартный.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Это который девять-шес-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— Ну не на запись же! Секретная информац- <strong>*ПШШШ*</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_3.png)
 
 Ещё одна <strong>запись</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— <strong>*ПШШШ* </strong>-щё раз можешь повторить?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— Эй, это моё! Сколько раз мне ещё говорить — не трогай мои вещи!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Да что ты прям такой! Я твою болтовню запоминаю с трудом, мне потом надо будет ещё эту запись отдельно расшифровывать.</blockquote>
 
 <blockquote>Или ты бы предпочёл, чтобы я тебя с вопросами доставала всё время?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— Ладно.</blockquote>
 
 <blockquote>Значит, так. Тебе нужно в тёмную пещеру на болоте. Чтобы туда попасть, тебе нужен источник света, да?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— Да, но когда я беру с собой факел, то-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— Взрываются болотные газы, всё верно. Поэтому тебе нужно собрать в пустую банку светлячков, они как раз должны быть перед болотом, а-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_CheerVoice.png)
 
 <blockquote>— А пустую банку я получу, когда съем всё варенье из банки в избушке, поняла!</blockquote>
 
 <blockquote>Спасибо, Вейг! Что бы мы без тебя делал- <strong>*ПШШШ*</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_4.png)
 
 И ещё одна <strong>запись</strong>. 
 
 На этот раз <strong>последняя</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_BuzVoice.png)
 
 <blockquote>— <strong>*ПШШШ*</strong></blockquote>
 
@@ -176,7 +176,7 @@ permalink: /188
 ## >лизнуть конфетку, бумажку со второй двери и органические ошмётки из первой комнаты
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_5.png)
 
 Серьёзно? <em>Твори что хочешь, мне всё равно.</em>
 
@@ -187,7 +187,7 @@ permalink: /188
 ## >создать скотчевую броню
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_6.png)
 
 У тебя не получается создать полноценные латы, но одного <strong>рулона скотча </strong>тебе хватает, чтобы смастерить <strong>полипропиленовую кирасу </strong>(<em>пригодность к использованию в качестве настоящего элемента брони не подтверждена независимым тестированием</em>)!
 
@@ -198,7 +198,7 @@ permalink: /188
 ## >заглянуть в комод
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_187_7.png)
 
 Ты выдвигаешь <strong>ящик комода</strong>. Из него на тебя смотрит (<em>не буквально</em>) аккуратная стопка <strong>лабораторных халатов</strong>.
 

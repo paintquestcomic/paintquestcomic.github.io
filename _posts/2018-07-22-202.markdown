@@ -8,7 +8,7 @@ permalink: /202
 # >сменить фоновую музыку на рэп
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_1.png)
 
 <strong>Постой, что?!</strong>
 
@@ -26,7 +26,7 @@ permalink: /202
 ## >напомнить автору какой-то несправедливый момент из жизни, чтобы он разозлился
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_2.png)
 
 <em>Напомнить несправедливый момент?!</em>
 
@@ -45,7 +45,7 @@ permalink: /202
 <strong>Я терпеть это не собираюсь!!! Я-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_3.png)
 
 А, мы <strong>вышли из цикла</strong>.
 
@@ -56,7 +56,7 @@ permalink: /202
 ## >ГЕРОИЧЕСКИ спуститься вниз, чтобы получше осмотреть кольца и головоломку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_4.png)
 
 Ты <strong>героически </strong>спускаешься по лестнице на пол.
 
@@ -65,7 +65,7 @@ permalink: /202
 ## >подвинуть штуку с крюком под второе слева кольцо, подпрыгнуть с неё, схватить кольцо и нацепить на крюк
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_5.png)
 
 Ты двигаешь <strong>вес на колёсиках</strong> под <strong>второе кольцо</strong>.
 
@@ -74,7 +74,7 @@ permalink: /202
 Секунда <strong>быстро заканчивается</strong>, и ты <strong>падаешь </strong>на пол, всё ещё держа <strong>кольцо </strong>в руке. Твой <strong>вес </strong>оказался слишком значительным, а <strong>сила тяготения</strong> сделала всю остальную работу.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_6.png)
 
 Несмотря на своё уже третье по счёту <strong>падение</strong>, ты поднимаешься и всё равно цепляешь <strong>кольцо </strong>на <strong>крюк</strong>.
 
@@ -83,7 +83,7 @@ permalink: /202
 ## >попробовать пожонглировать булавой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_7.png)
 
 Ты с <strong>разочаровывающей лёгкостью</strong> подбрасываешь <strong>булаву </strong>в воздух.
 
@@ -94,18 +94,18 @@ permalink: /202
 ## >ГЕРОИЧЕСКИ сломать четвертую стену
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_8.png)
 
 <strong>Четвёртая стена</strong>, значит.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_9.png)
 
 Ты не уверен, что сможешь сломать (<em>героически или нет</em>) <strong>четвёртую стену</strong> этой комнаты. Как и её одна параллельная и две перпендикулярные сёстры, эта стена выложена из <strong>массивных серых кирпичей</strong>, по крайней мере на вид. В список твоих способностей «<strong>разбивание массивных серых кирпичей голыми руками</strong>» не входит, к сожалению.
 
 У тебя нет выбора, кроме как оставить эту <strong>неприглядную </strong>и <strong>довольно-таки скучную</strong> стену в покое.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_201_10.gif)
 
 <em>Да, просто не обращай на неё внимания.</em>

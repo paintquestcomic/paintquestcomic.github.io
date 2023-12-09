@@ -8,7 +8,7 @@ permalink: /179
 # >использовать мимикрию и притвориться Пармезаном
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_1.png)
 
 <strong>Мимикрировать </strong>под протухший бутерброд? 
 
@@ -25,14 +25,14 @@ permalink: /179
 ## >схватить одну из крыс и взять в заложники, угрожая подпалить её огнём
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_2.png)
 
 Ты не даёшь секунде замешательства пройти зря и <strong>хватаешь </strong>одного из <strong>паразитов </strong>за хвост.
 
 <em>Если они не хотят играть по хорошему, то пришла пора менять правила игры.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_3.png)
 
 С угрожающим видом ты подносишь <strong>крысу </strong>к <strong>пламени свечи</strong>…
 
@@ -45,7 +45,7 @@ permalink: /179
 ## >взять с ДРУЖБОМЕТРА™ одну из масок и начать театральное представление, потихоньку уходя в сторону прошлого места приземления
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_4.png)
 
 <strong>Меняем план!</strong> <strong>Заложника </strong>придётся отпустить, тебе понадобятся <strong>свободные руки</strong>.
 
@@ -54,7 +54,7 @@ permalink: /179
 <em>Один момент.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_5.png)
 
 <strong>Так</strong>. Вот <strong>этот размер</strong> тебе больше подходит.
 
@@ -65,7 +65,7 @@ permalink: /179
 <strong>Надевать </strong>её ты точно <strong>не собираешься</strong>, <em>уж скорее сменишь грим на клоунский</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_6.png)
 
 А в качестве <strong>реквизита </strong>она сойдёт, впрочем.
 
@@ -74,14 +74,14 @@ permalink: /179
 А теперь затаим наше дыхание в ожидании <strong>кульминации</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_7.png)
 
 <strong>Исчезновение!</strong>
 
 <em>Вот <strong><strong>поэтому </strong></strong>классику надо любить.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_178_8.png)
 
 <strong>Фух! </strong>Хоть сбежать получилось.
 

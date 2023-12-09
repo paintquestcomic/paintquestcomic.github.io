@@ -8,19 +8,19 @@ permalink: /191
 # >отцепи крысу от магнита и брось его в замок
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_1.png)
 
 Осторожным движением ты отделяешь <strong>робо-крысу</strong> от <strong>магнита</strong>. Крыса особо <strong>не сопротивляется</strong>.
 
 Ты ставишь <strong>крысу </strong>на <strong>трубу</strong>, на которой она до этого сидела, а сам замахиваешься <strong>магнитом </strong>в сторону <strong>аварийного ящика</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_2.png)
 
 <strong>Ты бросаешь магнит!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_3.gif)
 
 <strong>Да чтоб тебя!</strong>
 
@@ -31,7 +31,7 @@ permalink: /191
 ## >демонстративно поругать магнит и извиниться перед робо-крысой 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_4.png)
 
 Ты <strong>укорительно </strong>тычешь пальцем в лежащий на полу <strong>магнит </strong>и всячески демонстрируешь своё <strong>недовольство </strong>его поведением.
 
@@ -42,7 +42,7 @@ permalink: /191
 ## >используя пантомиму, разыграть представление о том, как доблестный рыцарь спасает прекрасную принцессу от ужасного дракона
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_5.png)
 
 Даже не перечислить все известные тебе вариации этого <strong>классического сюжета</strong>. <em>Просто, но эффективно.</em>
 
@@ -51,7 +51,7 @@ permalink: /191
 Ну а <strong>принцесса</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_190_6.png)
 
 Показания <strong>ДРУЖБОМЕТРА™ </strong>только что выросли <strong>на три единицы</strong>. Я даже не представляю, как тебе это удалось.
 

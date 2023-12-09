@@ -8,7 +8,7 @@ permalink: /182
 # >рассмотреть записку с другой стороны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_1.png)
 
 Ты загибаешь край <strong>записки</strong>, чтобы рассмотреть её <strong>обратную сторону</strong>.
 
@@ -17,7 +17,7 @@ permalink: /182
 ## >потрясти торговый автомат, пытаясь вытолкнуть оттуда оставшийся предмет
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_2.gif)
 
 <em>Ну же! Давай, падай!</em>
 
@@ -28,7 +28,7 @@ permalink: /182
 ## >разбить стекло автомата ведром
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_3.png)
 
 <strong>Ха!</strong> Один <strong>точный удар</strong> обращает стекло автомата в груду осколков!
 
@@ -39,7 +39,7 @@ permalink: /182
 <strong>Только не снова.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_4.png)
 
 Да чтоб тебя и твою ехидную улыбку, <strong>человек-сосиска</strong>!
 
@@ -48,7 +48,7 @@ permalink: /182
 ## >рассмотреть эмблему повнимательней
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_5.png)
 
 Ты в который раз возвращаешься к <strong>двери </strong>и рассматриваешь вставленную <strong>эмблему</strong>.
 
@@ -57,14 +57,14 @@ permalink: /182
 ## >повернуть эмблему по часовой, до совмещения полосы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_6.png)
 
 А что, если <strong>повернуть </strong>эмблему?
 
 <strong>Полосы совпали</strong>. Что-то происходит…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_181_7.gif)
 
 <strong>Дверь открылась!</strong>
 

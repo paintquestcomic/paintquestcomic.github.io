@@ -8,7 +8,7 @@ permalink: /169
 # >проверить место укуса
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_1.png)
 
 Да, тебя же <strong>укусил Гарри </strong>перед тем, как ты отправился в <strong>увлекательное путешествие</strong> по <strong>бездне за пределами реального мира</strong>. Не нужно быть гением, чтобы догадаться, что одно является следствием другого.
 
@@ -21,56 +21,56 @@ permalink: /169
 ## >пойти искать Гарри и рассказать ему о случившемся
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_2.png)
 
 Ты находишь дорогу обратно в <strong>магазин</strong>. Пока что ты не встретил ни единой души.
 
 Интересно. По всему дому проносится <strong>грохот</strong>, а <strong>дверь в камеру</strong> слегка приоткрыта. Твои уши и реверсивная эхолокация подсказывают тебе, что <strong>источник грохота</strong> скрывается именно в <strong>камере</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_3.png)
 
 <em>Тем временем, где-то трещит кирпичная стена.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_4.png)
 
 <em>Куски кирпича летят во все стороны! От удара кувалды в стене образуется дыра.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Я же говорил, что это <strong>не</strong> несущая стена!</blockquote>
 
 По <em>пока неизвестной тебе причине</em> торговец <strong>Бенедикт </strong>ломает одну из стен камеры. <strong>Гарри </strong>смотрит бессмысленным взглядом в пустоту.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Слушай, я пока украду у тебя мима, хорошо?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ты что, он мне так «помогает», стоя на месте и ничего не делая!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты поосторожней с сарказмом, я его таким полезным никогда не видел.</blockquote>
 
 <blockquote>И под «полезным» я имею ввиду «безвредным».</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_6.png)
 
 Ты отводишь <strong>мима </strong>подальше.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я без понятия, что ты со мной сделал, но после твоего укуса меня отправило в какое-то тёмное измерение!</blockquote>
 
@@ -81,7 +81,7 @@ permalink: /169
 ## >стать Гарри и обойти все места с указанными символами
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_7.png)
 
 Ты снова <strong>Гарри</strong>. Тебе эти символы хорошо известны, ты их видел в той <strong>книге-справочнике</strong>.
 
@@ -92,7 +92,7 @@ permalink: /169
 Стоит ещё раз осмотреть стены <strong>тут </strong>и в <strong>твоей камере</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_168_8.png)
 
 На стене в <strong>камере у Бенедикта</strong> ты определяешь следующую последовательность: <strong>Аурум</strong>, <strong>Киноварь</strong>, <strong>Купрум</strong>.
 
