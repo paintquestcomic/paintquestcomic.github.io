@@ -8,7 +8,7 @@ permalink: /254
 # >спросить Марио, что такое флогистон
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_1.png)
 
 <strong>Флогистон</strong>? Это слово отчётливо звучит в твоей голове, вот только сам ты понимаешь, что про этот <strong>загадочный флогистон </strong>ты знаешь крайне мало.
 
@@ -17,12 +17,12 @@ permalink: /254
 Ты решаешь <strong>спросить </strong>своего компаньона напрямую.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— <strong>⚫? ⚛️?</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Круг… </blockquote>
 
@@ -31,12 +31,12 @@ permalink: /254
 <blockquote>Это был флогистон. По крайней мере мне кажется, что это был флогистон. По свойствам совпадает, пусть даже теоретическим. Как бы тебе объяснить…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_2.png)
 
 Немного подумав, <strong>Марио </strong>устремляет свой взгляд в <strong>трещину </strong>на поверхности <strong>взорвавшегося устройства.</strong> Затем он приступает к <strong>объяснению</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так. Как ты знаешь, всё вокруг состоит из разных видов материи и их сочетаний. Земля, камень, металл и так далее. Ты же знаешь это, да?</blockquote>
 
@@ -65,7 +65,7 @@ permalink: /254
 ## >проверить огромную дыру в глазу Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_3.png)
 
 Взрыв «<em>таинственного газообразного вещества</em>» оставил в корпусе <strong>Архимеда </strong>крайне удобное <strong>отверстие</strong>, через которое можно изучать внутренности гигантской робо-крысы на предмет <strong>деталей</strong>, достойных каннибализации.
 
@@ -74,12 +74,12 @@ permalink: /254
 Ты медленно протягиваешь <strong>руку </strong>к <strong>отверстию</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_4.png)
 
 Но протягивание тут же <strong>подходит к концу</strong>, когда <strong>Марио </strong>укорительно <strong>шлёпает </strong>тебя по руке.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Куда полез?! Не видишь, металл ещё светится от нагрева! Хочешь окончательно себе руку опалить?!</blockquote>
 
@@ -94,31 +94,31 @@ permalink: /254
 <em>И так твой компаньон спас тебя от (очередного) происшествия, связанного с засовыванием конечностей в загадочные и крайне опасно выглядящие отверстия.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_5.png)
 
 Вы всем составом (<em>включая Бенедикта, который предпочёл не влезать в ваш крайне скучный и крайне односторонний разговор про суть вещей</em>) решаете пока что <strong>отойти</strong> от нагретой кучи металла в форме робо-крысы.
 
 Ты издаёшь бесшумный (<em>по очевидным причинам</em>) <strong>вздох облегчения</strong>, осознав, что опасность миновала.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Всё-таки приятно, когда твоей жизни не угрожает толпа разъярённых железяк-паразитов. Никогда больше не пойду с вами, приключенцы вы эдакие.</blockquote>
 
 <blockquote>Прошу повысить мою долю добычи до 55% в качестве моральной компенсации.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Даже не думай.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Никакого уважения к малому бизнесу! Ну, попытаться стоило. </blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Лично я рад тому, что остался со всеми своими конечностями после этого. И тому, что мы наконец-таки в безопасности.</blockquote>
 
@@ -127,18 +127,18 @@ permalink: /254
 ## >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_253_6.png)
 
 Ты <strong>сохра-</strong>
 
 <strong>Опять?!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, ты чего такой испуганный вид принял? Снова тебе что-то не так?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Никогда не видел, как паникуют без звука. Занимательно, но настораживает.</blockquote>

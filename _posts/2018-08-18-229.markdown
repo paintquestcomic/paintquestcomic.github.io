@@ -8,24 +8,24 @@ permalink: /229
 # >привлечь внимание героя-спасителя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_1.png)
 
 <strong>Интуиция </strong>подсказывает тебе, что сейчас произойдёт нечто <strong>страшное</strong>. В таком случае ты бы предпочла оказаться на <strong>нужной</strong> стороне.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Джеки, начинай махать хвостом! Сэр рыцарь должен заметить нас и понять, что мы не враги!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Поддерживаю. Против одного исполина у нас вдвоём шансов точно нет, а тут их как минимум два с половиной!</blockquote>
 
 ## >стать Гарри и улыбнуться грызунам в знак приветствия
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_2.png)
 
 И ты снова становишься <strong>Гарри Стикманом</strong>. 
 
@@ -40,29 +40,29 @@ permalink: /229
 ## >позволить грызунам присоединиться к тебе
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_3.png)
 
 Ты не против того, чтобы <strong>пополнить </strong>свой <strong>отряд </strong>новыми лицами, хоть и такими миниатюрными.
 
 Ты создаёшь в стене <strong>отверстие</strong>, через которое <strong>грызуны </strong>залезают к тебе на руку.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, да это же та робо-мышь! А у той крысы… корона на голове!?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— <strong>🐭🤝! 🐀👸🤝!</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ну всё, они забрались на него и уже целятся в глотку. Молчун — покойник, современная медицина тут бессильна. Пошли отсюда.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да погоди ты! Он говорит, что эти — дружелюбные.</blockquote>
 
@@ -71,7 +71,7 @@ permalink: /229
 ## >стать Марио и (с включённым устрашением) показать крысам робокота
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_4.png)
 
 <em>И ты снова меняешь персонажа, что за непостоянство?</em>
 
@@ -80,7 +80,7 @@ permalink: /229
 И у тебя есть <strong>план</strong>, как было упомянуто ранее. <em>И никто, абсолютно никто не встанет у тебя на пути к его выполнению.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Гарри, прочь с дороги!</blockquote>
 
@@ -89,10 +89,10 @@ permalink: /229
 <blockquote>Ещё раз! Приготовились…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Поехали!</blockquote>
 
@@ -105,15 +105,15 @@ permalink: /229
 ## >эпически-пафосно-героически позировать!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_6.png)
 
 <em>Да! Покажи этим тварям, на что ты способен!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_7.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А как вам такое, крысы!</blockquote>
 
@@ -122,26 +122,26 @@ permalink: /229
 <em>Похоже, ты так долго ходил в компаньонах этого мима, что твоё подсознание как-то умудрилось почерпнуть его знания о номерах пантомимы. Более логичного объяснения у меня нет. Мистика, да и только.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Для следующего рисунка мне понадобится доброволец!</blockquote>
 
 <blockquote>Гарри, повторяй за мной!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_8.png)
 
 <strong>Страсти нарастают! Позы усложняются!</strong>
 
 К счастью, твоему <strong>партнёру по позированию</strong> не составляет труда подыгрывать твоим <strong>позам</strong>. Сразу видно — сам <strong>мастер пантомимы</strong> в деле!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И в стороны!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_9.png)
 
 <strong>Робо-кот номер три</strong>!
 
@@ -152,44 +152,44 @@ permalink: /229
 <em>Только тогда они начинают бояться за свои симулируемые жизни.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Беня, твой выход!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_10.png)
 
 У <strong>Бенедикта</strong>, очевидно, проблемы с <strong>пафосным позированием</strong>. <em>Словно вся его самоуверенность магическим образом испарилась.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Может, обойдёмся тремя рисунками?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— <strong>Живо</strong>.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ладно, ладно, как хотите.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_11.png)
 
 <strong>Робо-кот номер четыре</strong>?
 
 <em>Хм. Ну, это скорее кот, чем пёс, и на нём есть металлические пластины, так что… технически рисунок подходит?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Беня. Что у твоего кота с лицом?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Он… рычит? </blockquote>
 
@@ -198,7 +198,7 @@ permalink: /229
 А это уже <strong>не нам</strong> судить.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_12.png)
 
 Как там <strong>дела </strong>у примагниченных <strong>робо-крыс</strong>? <em>Плохи дела.</em>
 
@@ -211,7 +211,7 @@ permalink: /229
 <em>И, с их точки зрения, эти двое находятся именно там.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_228_13.png)
 
 <strong>Победа!</strong>
 

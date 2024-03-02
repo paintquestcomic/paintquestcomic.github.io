@@ -8,7 +8,7 @@ permalink: /247
 # >заставить крыс уверовать в силу Короны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_1.png)
 
 Заставить… <strong>как</strong>? <strong>Каким образом</strong>? Просто взять и <strong>заставить</strong>? Ну и как тебе с этой идеей вообще работать, где <strong>конкретика</strong>?
 
@@ -21,7 +21,7 @@ permalink: /247
 ## >глянуть на место приземления Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_2.png)
 
 Ты <strong>не слышал</strong> звука разбитого стекла. Это значит, что <strong>твой противник</strong> всё-таки не вылетел в окно. Ты оборачиваешься, чтобы <strong>проверить</strong>, где он.
 
@@ -30,7 +30,7 @@ permalink: /247
 <strong>Стены?!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_3.png)
 
 <strong>Архимед атакует тебя!</strong> 
 
@@ -39,7 +39,7 @@ permalink: /247
 Он слишком <strong>близко</strong>, ты <strong>не успеешь увернуться</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_4.png)
 
 <strong>Удар.</strong> 
 
@@ -48,7 +48,7 @@ permalink: /247
 Тебе повезло, что твой <strong>центр массы</strong> сокрыт за <strong>несколькими слоями полипропилена</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_5.png)
 
 Ну, <strong>был </strong>сокрыт. Исполнив свою задачу, твоя <strong>скотчевая кираса</strong> распадается на отдельные полоски, уже потерявшие всякую липкость. <strong>Ты остался без брони</strong>.
 
@@ -57,7 +57,7 @@ permalink: /247
 ## >схватить любое ведро с краской и выплеснуть его содержимое на окуляры Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_246_6.png)
 
 <em>Хм?</em> С этой идеей есть <strong>одна проблема</strong>.
 

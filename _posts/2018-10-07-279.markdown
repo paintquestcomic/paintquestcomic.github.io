@@ -8,21 +8,21 @@ permalink: /279
 # >сделать Джеки "буп" 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_1.png)
 
 Порой тебя охватывают <strong>странные порывы</strong>, которые можно объяснить как и твоими очевидно нестандартными <strong>навязчивыми мыслями</strong>, так и вполне себе стандартными <strong>человеческими желаниями</strong>. Странность их, собственно, в <strong>неоднозначном происхождении</strong>.
 
 «<strong>Буп</strong>» лучше получился бы на существе с ярко выраженным <strong>носом</strong>, а то на холодном <strong>корпусе робо-грызуна</strong> бупательные места найти трудно.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_2.gif)
 
 Впрочем, тебя это <strong>не остановило</strong>.
 
 ## >попытаться найти пушку
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_3.png)
 
 За рухнувшим шкафом ты находишь <strong>устройство</strong>, которое <strong>Архимед</strong> умудрился у тебя отобрать. Похоже, крыса кинула его сюда <strong>подальше от тебя</strong>, да и бросок был совершён с целью нанести как можно больше <strong>повреждений</strong>, судя по <strong>помятому виду</strong>.
 
@@ -31,7 +31,7 @@ permalink: /279
 Да и проверить не на чем — <strong>подопытные </strong>разбежались.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_4.png)
 
 <blockquote><strong>ИСКОРЁЖЕННОЕ УСТРОЙСТВО </strong>ДОБАВЛЕНО В ИНВЕНТАРЬ</blockquote>
 
@@ -40,7 +40,7 @@ permalink: /279
 ## >запитать пульт и понажимать все-все кнопки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_5.png)
 
 Вновь <em>полностью заполнив инвентарь хламом сомнительной полезности</em>, ты решаешь опытным путём изучить пока что неизученный <strong>пульт управления</strong>.
 
@@ -51,7 +51,7 @@ permalink: /279
 ## >спуститься вниз к реактору
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_6.png)
 
 <em>Вот и пришла пора покинуть эту треклятую площадку.</em>
 
@@ -60,17 +60,17 @@ permalink: /279
 Твой <strong>спуск </strong>привлекает внимание твоих <strong>компаньонов</strong>, хотя сами они пока что <strong>не спускаются</strong>. <em>За исключением одного пассажира, запрыгнувшего на твой берет.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Чего он, нагулялся уже? Просто взял и молча ушёл, хоть бы знак дал!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Может, нам следует за ним пойти?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— «Нам»? Ты где тут «нас» увидел? У меня тут собственные планы, напоминаю! Вы свою задачу выполнили, а дальше я уж сам справлюсь.</blockquote>
 
@@ -81,12 +81,12 @@ permalink: /279
 А потом ты достигаешь <strong>нижнего уровня</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_7.png)
 
 Спустившись на твёрдый пол, ты подходишь к <strong>массивной овальной двери</strong>. Нет, <strong>шлюзу</strong>, скорее. <em>Последняя преграда на твоём пути.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_278_8.png)
 
 Чтобы добраться до <strong>реактора</strong>, тебе осталось сделать лишь две вещи — <strong>вставить карту в слот</strong> и <strong>повернуть маховик</strong>. Далее тебя ждёт лишь <strong>неизвестность</strong>.
 

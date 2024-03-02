@@ -8,24 +8,24 @@ permalink: /273
 # >уносить ноги по мере возможности
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_1.png)
 
 Возможность позволила тебе <strong>отойти на пару шагов</strong>. Дальше отойти ты не в силах, определённо не в этом <strong>заворожённом ступоре</strong>.
 
 Тебе трудно не наблюдать за <strong>изменениями </strong>в поведении твоего противника.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_2.png)
 
 <strong>Весь дрожа, Архимед пристально смотрит на свою клешню. </strong><em>В его электронном взгляде чувствуется напряжение.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_3.png)
 
 <em>Резкий удар клешни обезображивает последний глаз Трансмутатора и искорёживает пластины корпуса вокруг.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_4.png)
 
 <em>Клешня сжимается внутри корпуса и вытягивает оборванные провода. За ударом следует второй, ещё глубже.</em>
 
@@ -34,17 +34,17 @@ permalink: /273
 <em>И ещё.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_5.png)
 
 <em>Архимед беспощадно терзает свою голову. На пол сыпятся обломки корпуса, осколки бывшего лица, оборванные провода и оторванные микросхемы.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_6.png)
 
 <em>А затем он падает на пол.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_272_7.png)
 
 <em>…</em>
 

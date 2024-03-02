@@ -8,57 +8,57 @@ permalink: /226
 # >НАСТОЙЧИВО вызвать Августа на дуэль
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_1.png)
 
 Выбора не остаётся. Этот понимает лишь <strong>язык битвы</strong>.
 
 <em>К счастью, ты им владеешь на разговорном уровне.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Будь по-твоему. </blockquote>
 
 <blockquote><strong>Ан гард!</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_2.png)
 
 Ваши <strong>хвосты </strong>сомкнулись, словно два закалённых <strong>клинка</strong>. Никто не готов уступить другому.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Как мило, ты ещё не забыла, как постоять за себя! Может, ты и сможешь унести парочку глупцов на тот свет.</blockquote>
 
 <blockquote>За собой, не иначе!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Тогда не буду терять времени. </blockquote>
 
 <blockquote>У меня как раз есть на примете один глупец!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Ты слишком бодро щебечешь для раненой крысы!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Раненой? Но я не-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_3.png)
 
 <strong>Резким движением</strong> хвоста <strong>Август </strong>отводит твой в сторону, оставляя тебя <strong>без защиты</strong>!
 
 Он немедленно <strong>атакует</strong>! Штифтами он проскальзывает по твоему <strong>уху</strong>, прорезав его в двух местах!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_4.png)
 
 Этот негодяй действительно смог <strong>ранить </strong>тебя! Твоё <strong>ухо</strong>…
 
@@ -67,41 +67,41 @@ permalink: /226
 <em>Он пожалеет об этом.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Да как ты посмел! Ты, ты…</blockquote>
 
 <blockquote><strong>Ты изуродовал моё ухо.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Ничего, привыкнешь! Тебе уже недолго осталось жить с ни-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Заткнись.</strong></blockquote>
 
 ## >задавить Августа авторитетом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_5.png)
 
 <em>Ты не собираешься терпеть подобное поведение по отношению к особе королевской крови. Пора поставить этого предателя на его место.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Тебе разрешено говорить лишь тогда, когда тебя спрашивают.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Я говорю тогда, когда хоч-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Ты зазнался, Август. Игры зашли слишком далеко.</strong></blockquote>
 
@@ -110,36 +110,36 @@ permalink: /226
 <blockquote><strong>Но хуже лишь то, что ты забыл, кто такая я.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Д-да ты никто! Такая же крыса, как и все!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Нет. </strong></blockquote>
 
 <blockquote><strong>Я — дочь Короны. Её преданная слуга.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Их слуга.</strong></blockquote>
 
 <blockquote><strong>Ты тоже был таким, когда-то давно.</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— И ч-ч-что?! Теп-п-перь я не т-т-т-такой!</blockquote>
 
 <em>Поглядите на него, дрожащего от страха. Как безуспешно этот бахвал пытается скрыть его.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Но ты мог стать таким снова. Я говорила правду, Август.</strong></blockquote>
 
@@ -148,14 +148,14 @@ permalink: /226
 <em>Во всей этой битве ты допустила лишь одну ошибку — обращалась с Августом, как с равным.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Врёшь! З-з-знаю, что в-врёшь!</blockquote>
 
 <em>А стоило обращаться, как с чернью, какой он и является.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— <strong>Но ты поднял хвост на меня.</strong></blockquote>
 
@@ -166,22 +166,22 @@ permalink: /226
 ## >используя своё проворство, заставить его упасть с трубы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_7.png)
 
 Ты поддеваешь <strong>колёсико Августа </strong>своим <strong>хвостом</strong>. <strong>Ступор </strong>не даёт ему отреагировать достаточно быстро.
 
 <strong>Август </strong>теряет равновесие.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Я была права. Помнишь?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_8.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Тебе нельзя доверять выбор в подобных вопросах.</blockquote>
 
@@ -192,7 +192,7 @@ permalink: /226
 <em>Пусть это будет уроком для всех предателей Короны.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_225_9.png)
 
 А <strong>интересная пробка</strong> всё ещё лежит неподалёку. Почему-то она кажется тебе <strong>важной</strong>.
 

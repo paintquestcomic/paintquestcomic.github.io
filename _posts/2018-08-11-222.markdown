@@ -8,7 +8,7 @@ permalink: /222
 # >найти Главный Компьютер и вырубить его
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_1.png)
 
 Ты понимаешь, что робо-крысы <strong>неспроста </strong>сидят в глубине свалки. Возможно, они что-то <strong>охраняют</strong>, или же у них тут <strong>база</strong>, или же…
 
@@ -17,36 +17,36 @@ permalink: /222
 Они не заходят далеко, потому что не могут работать <strong>вне </strong>радиуса действия… <strong>чего-то</strong>. Особого прибора, передатчика, какого-нибудь «<strong>Главного Компьютера</strong>».
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты говоришь, крысы только в глубине обитают?</blockquote>
 
 <blockquote>Этому должна быть причина. Их что-то тут удерживает. Раз уж они — роботы, то предположу, что они под контролем некоего «Главного Компьютера». Нам достаточно его найти и выключить, и с крысами будет покончено раз и навсегда!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ни слова не понял.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Просто скажи мне, в каких местах обычно обитают робо-крысы?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Дай подумаю. Если прикинуть, то…</blockquote>
 
 <blockquote>Хм. Интересно.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Чаще всего я их встречал в окрестностях большой круглой штуковины.</blockquote>
 
@@ -57,7 +57,7 @@ permalink: /222
 ## >взять сковороду
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_2.png)
 
 <em>Точно, чуть не забыл про неё. </em>
 
@@ -68,38 +68,38 @@ permalink: /222
 ## >предложить Бенедикту найти небольшие игральные кости
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_3.png)
 
 <em>Почему-то тебе кажется, что можно попробовать выиграть преданность робо-крыс в игре в кости. </em>
 
 Вот только для начала <strong>кости </strong>нужно <strong>найти</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, ты тут не видел нигде пару игральных костей?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Это… очень странный вопрос. А должен был?</blockquote>
 
 <blockquote>Это место не похоже на те, в которых народ играет в азартные игры. Слишком всё высокотехнологично, слишком «официально».</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Попытка не пытка. Может, у тебя они с собой есть?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— С собой? Точно нет.</blockquote>
 
 <blockquote>Припоминаю, что у меня дома в одном из шкафчиков была пара кубиков со странными символами. Может они сойдут?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Кубиков… с символами?! А, ладно, забудь.</blockquote>
 
@@ -108,31 +108,31 @@ permalink: /222
 ## >пусть Бенедикт выломает лазером третью дверь на жилом этаже
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_4.png)
 
 В поисках <strong>чего-нибудь полезного</strong> вы поднимаетесь на этаж выше, к <strong>жилым помещениям</strong>.
 
 Ты обнаруживаешь, что среди всех дверей <strong>закрытой </strong>осталась лишь <strong>одна </strong>в конце коридора.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Странно. В двух открытых дверях есть ключи, но не в последней. Зная закон подлости, решение нашей проблемы просто обязано быть за ней.</blockquote>
 
 <blockquote>Где бы ключ взять…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Хорошо, что я взял «ключ» от неё с собой!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— В смысле? Откуда у тебя может быть кл-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_5.png)
 
 И вновь в воздухе раздаётся треск, и на <strong>дверь </strong>с цифрой три падает испепеляющий <strong>ключ</strong>…
 
@@ -141,51 +141,51 @@ permalink: /222
 <em>Ты всё никак не привыкнешь к неожиданным включениям лазера.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ну когда ты уже научишься предупреждать перед включением этого смертельного агрегата!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote><em>— Не говори под руку, я тут провожу работы с опасным для жизни оборудованием.</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_6.png)
 
 У <strong>двери </strong>не было шансов — в ней была проделана <strong>солидных размеров дыра</strong>, через которую может пройти как взрослый гремлин, так и взрослый торговец с коробкой на голове.
 
 Ты заглядываешь <strong>внутрь</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Да вы шутите…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Напомни, что ты там говорил про закон подлости?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_7.png)
 
 За дверью оказалась <strong>ещё одна дверь</strong>. 
 
 <strong>Металлическая</strong>. <strong>Бронированная</strong>. Без ручек, рычагов и слотов для ключ-карты.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Почему везде какой-то подвох!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Никогда не видел таких сурово выглядящих дверных глазков! Как думаешь, есть шансы его оторвать и прикрепить мне на входную дверь?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я не думаю, что это глазок. Готов поспорить, это какой-нибудь сканер сетчатки или другая биометрическая шняга, которая не пропустит внутрь никого, кроме хозяина комнаты!</blockquote>
 
@@ -194,56 +194,56 @@ permalink: /222
 ## >нарисовать армию робо-котов
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_8.png)
 
 Когда ты, <em>полный горечи поражения</em>, спускался вниз, тебе в голову пришла <strong>ещё одна идея</strong>. <em>И в этот раз она даже может сработать.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Торгаш, ты ещё не все письменные принадлежности смародёрствовал?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Не думаю, меня немного перебили в момент маро- «экспроприации», так что они должны быть в той каморке с коробками.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— В таком случае тащи свою картонную голову сюда и хватайся за бумагу.</blockquote>
 
 <blockquote>Ты же умеешь рисовать?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_9.png)
 
 Ты выносишь из кладовой парочку <strong>листов бумаги</strong> и парочку <strong>ручек/фломастеров</strong> в придачу к ним. Не теряя времени (<em>и всунув половину канцтоваров Бенедикту</em>), ты <strong>принимаешься за работу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— И что мне с этим делать, ещё раз?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Рисуй кота-робота. Если можешь нарисовать его злым, то рисуй злым.</blockquote>
 
 <blockquote>Чем злее и страшнее, тем лучше. Потом я всё объясню.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Постой, ты же не думаешь, что это сработает? С чего ты вообще взял, что крысы на такое купятся?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— <strong>Чутьё</strong>.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_221_10.png)
 
 Через некоторое время ты завершаешь свой <strong>рисунок</strong>.
 

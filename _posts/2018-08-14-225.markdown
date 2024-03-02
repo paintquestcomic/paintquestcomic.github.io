@@ -8,7 +8,7 @@ permalink: /225
 # >проверить окно героя
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_224_1.png)
 
 <em>На этот раз ты даже помнишь, как правильно называется этот элемент интерфейса? Похвально, нечего сказать.</em>
 
@@ -21,7 +21,7 @@ permalink: /225
 ## >используя всю свою грацию, попытаться соблазнить Августа
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_224_2.png)
 
 <em>Все средства хороши, а?</em>
 
@@ -32,14 +32,14 @@ permalink: /225
 Включив <strong>очарование </strong>на максимум, ты пытаешься переманить этого негодяя <strong>Августа </strong>на свою сторону.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Ну и ну, неужели несчастной девушке может так улыбнуться удача? Ничто не радует глаз так, как знакомое лицо во времена раздора!</blockquote>
 
 <blockquote>Да и какое лицо! Ох, Август…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Даже не пытайся. Ещё раз скажешь про «лицо» — я тебя сам без лица оставлю.</blockquote>
 
@@ -54,40 +54,40 @@ permalink: /225
 ## >напасть сверху, пытаясь прогрызть корпус через старые раны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_224_3.png)
 
 Воспользовавшись возникшим <strong>секундным замешательством</strong>, ты на полной скорости срываешься с труб и <strong>напрыгиваешь на Августа</strong>! 
 
 <em>К такому он просто не может быть готов.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_224_4.png)
 
 Твои <strong>зубы </strong>утопают в одной из <strong>треугольных пластин-заплаток</strong> на его корпусе! Ты проделываешь в Августе <strong>зияющую дыру</strong>, что ему <strong>крайне не нравится</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Гадюка! Как смеешь!</blockquote>
 
 <blockquote>А я, дурак, надеялся, что в твоих банках данных остались хоть какие-то представления о чести!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Тебе ли говорить про честь, Август! </blockquote>
 
 <blockquote>Сдавайся! Сейчас же!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Ты думаешь, что я сдамся после лишь одного укуса?</blockquote>
 
 ## >преградить Августу путь и провести ему ВОСПИТАТЕЛЬНУЮ КРЫСЕДУ
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_224_5.png)
 
 Широким <strong>взмахом хвоста</strong> Августу удаётся <strong>освободиться </strong>от твоей хватки! Ты вынуждена <strong>отступить</strong>, дабы не попасть под атаку старого знакомого.
 
@@ -96,26 +96,26 @@ permalink: /225
 <strong>Воспитательная крыседа </strong>тут явно не помешает (<em>это как «беседа», но исключительно между крысами</em>).
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Должна признать, мой дорогой Август, твоя выдержка определённо заслуживает уважения.</blockquote>
 
 <blockquote>Давай не будем усложнять ситуацию дальше. Раскайся в своих злодеяниях и достойно понеси наказание! Может, тогда Корона сможет принять тебя назад с распростёртыми объятиями!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— В сахаре твоих слов — привкус яда, принцесса. Очень хорошо знакомый мне привкус.</blockquote>
 
 <blockquote>Под крыло Короны я вернусь только по частям! Так <strong>Им </strong>и передай.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Сам передашь, когда вернёшься. Заметь, не «если» вернёшься! Как стало очевидно, тебе ни в коем случае нельзя доверять выбор в подобных вопросах.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Augustus.png)
 
 <blockquote>— Хочешь, чтоб я вернулся? Так заставь меня! </blockquote>
 

@@ -8,26 +8,26 @@ permalink: /252
 # >обескуражить Архимеда ведром краски
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_1.png)
 
 Одного вида схваченного противником <strong>компаньона </strong>достаточно, чтобы привести твоё тело в <strong>действие</strong>. <em>Тебе не до красочных описаний происходящего</em>.
 
 <strong>Резким</strong>, практически <strong>рефлекторным </strong>движением руки ты заставляешь <strong>краску</strong> лететь из ведра в примерную сторону <strong>гигантской робо-крысы</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_2.png)
 
 <strong>Архимед </strong>оказался <strong>слишком увлечён</strong> рассматриванием пленника. Он не сразу замечает летящий в него <strong>комок полузасохшей краски</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_3.png)
 
 А замечает он его слишком <strong>поздно</strong>, чтобы что-то <strong>предпринять</strong>. 
 
 <em>В этот раз молниеносные рефлексы подвели Придворного Трансмутатора.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_4.png)
 
 <strong>Архимед </strong>теряет визуальную связь со всем, что находится справа от него. Ему остаётся лишь <strong>счищать </strong>слой <strong>краски</strong>, образовавшийся поверх его единственного правого <strong>глаза</strong>.
 
@@ -38,7 +38,7 @@ permalink: /252
 ## >героически спасти Марио с помощью «фонаря»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_5.png)
 
 …<strong>спасти?</strong> <strong>Как!?</strong> <em>Нет, подожди, глупый вопрос</em>. 
 
@@ -47,7 +47,7 @@ permalink: /252
 <strong>Двумя дрожащими руками</strong> ты хватаешься за <strong>устройство</strong>, одной поддерживая снизу, а другую держа на <strong>переключателе</strong>. Теперь надо <strong>прицелиться</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_6.gif)
 
 <em>Мимы не отличаются особой меткостью</em>. Особенно те <strong>мимы</strong>, которые должны <strong>в полумраке </strong>попасть <strong>с расстояния</strong> в цель из <strong>увесистой </strong>и <strong>неуклюжей</strong> штуковины <strong>без прицела</strong>.
 
@@ -56,7 +56,7 @@ permalink: /252
 <em>И содрогающимся сердцем.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_7.png)
 
 <em>Щелчок переключателя</em>. 
 
@@ -65,7 +65,7 @@ permalink: /252
 Ты не сразу понимаешь, что ты <strong>сдел-</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_8.png)
 
 <em>Взрыв</em>. <em>Вспышка</em>. <em>Огненный столп</em>.
 
@@ -76,7 +76,7 @@ permalink: /252
 <em>В <strong><strong>Огне</strong></strong>.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_251_9.png)
 
 <em>Огненный столп исчезает так же быстро, как и появился, но свет его надолго выжег свой образ в твоём разуме</em>.
 

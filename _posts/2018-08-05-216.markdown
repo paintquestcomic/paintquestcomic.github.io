@@ -8,7 +8,7 @@ permalink: /216
 # >забрать конфету (и обёртку!)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_1.png)
 
 Решив на время забыть про крысиные норы, ты возвращаешься в <strong>лабораторию</strong>.
 
@@ -19,36 +19,36 @@ permalink: /216
 ## >попросить Беню «одолжить» лазер, чтобы проделать путь наверх
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_2.png)
 
 <strong>Бенедикт </strong>всё ещё занимается перетаскиванием коробок с одного места на другое. Далеко он пока что не продвинулся.
 
 В то же самое время <strong>Марио </strong>продолжает <strong>сидеть в ожидании</strong> хоть какой-то активности и иногда <strong>побуркивает </strong>в сторону предприимчивого индивидуального предпринимателя.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Прояви хоть какое-то уважение к вещам, барыга! Ты действительно надеешься, что на это найдутся покупатели?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Вы же нашлись, найдутся и другие! Правда в том, что ты и твой приятель не такие уж и особенные, ушастый.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Значит, у тебя есть другие покупатели, которые в то же время не являются роботами?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— …</blockquote>
 
 <blockquote>Ты недооцениваешь роботов.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Я?! Недооцениваю?! Да ты хоть представляешь…</blockquote>
 
@@ -59,7 +59,7 @@ permalink: /216
 Ты бы поддержал беседу <strong>Марио</strong>, но сейчас у тебя другие планы. Тебе нужно одолжить у <strong>Бенедикта </strong>его…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_3.png)
 
 …<strong>лазер</strong>. <em>Да чтоб тебя.</em>
 
@@ -72,7 +72,7 @@ permalink: /216
 ## >достать фонарь и посветить в щель
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_4.png)
 
 <em>Вернёмся к нашим норам.</em>
 
@@ -85,7 +85,7 @@ permalink: /216
 ## >засунуть в щель ногу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_5.png)
 
 <strong>Абсолютно иррациональная мысль</strong> заставляет тебя засунуть в <strong>тёмную щель </strong>одну из своих <strong>ног</strong>.
 
@@ -94,7 +94,7 @@ permalink: /216
 <em>Как вообще естественный отбор допустил твоё существование?!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_6.png)
 
 <strong>Ты чувствуешь пронзительно острую боль в ноге. </strong>
 
@@ -105,7 +105,7 @@ permalink: /216
 ## >взять магнит
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_215_7.png)
 
 <em>А, вот теперь ты хочешь взять магнит, да?</em> 
 

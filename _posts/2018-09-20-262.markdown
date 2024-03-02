@@ -8,7 +8,7 @@ permalink: /262
 # >пусть Бенедикт выстрелит в дыру на месте левого глаза
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_8.png)
 
 <em>Ага, да, конечно.</em>
 
@@ -23,7 +23,7 @@ permalink: /262
 ## >съесть Архимеда своим большим ртом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_9.png)
 
 <strong><em>Да чтоб тебя!</em></strong>
 
@@ -32,14 +32,14 @@ permalink: /262
 ## >накинь халат на голову Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_1.png)
 
 <em>Так, уже лучше.</em>
 
 Из <strong>непривычного вертикального положения</strong> ты возвращаешься в положение всё ещё <strong>вертикальное</strong>, но теперь более <strong>привычное</strong>. Быстрым движением руки ты снимаешь <strong>продырявленный халат </strong>с крюка, а затем <strong>метишь прямиком в робо-крысу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_2.png)
 
 <strong>Бросок!</strong>
 
@@ -50,21 +50,21 @@ permalink: /262
 ## >спрыгнуть с крюка, эпично выстрелив из пушки в Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_3.png)
 
 Ты покидаешь <strong>крюк</strong>, предварительно вооружившись более <strong>дальнобойным орудием</strong>. В полёте ты прицеливаешься в робота, надеясь, что <strong>этот выстрел</strong> окажется <strong>последним</strong>.
 
 Ещё <strong>немного</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_4.png)
 
 <em>Стоп. А это ещё что?</em>
 
 Неожиданно ты замечаешь, как в твою сторону летит <strong>металлическая когтистая лапа</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_5.png)
 
 <strong>Лапа крепко хватается за устройство!</strong>
 
@@ -73,14 +73,14 @@ permalink: /262
 <em>Тебе приятней думать, что эта штуковина вообще способна совершать ошибки.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_6.png)
 
 <strong>Лапа резко тянет устройство в сторону!</strong> Ты пытаешься <strong>удержаться</strong>, но <strong>не можешь совладать</strong> с силой рывка металлической конечности!
 
 <strong>Ты выпускаешь устройство из рук, а сам по инерции летишь дальше!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_261_7.png)
 
 <strong>Недюжинная сила</strong> отправляет твое хилое мимское тельце <strong>прямо через груду металлолома</strong>! Твое лицо корчится от <strong>боли </strong>столкновения с твёрдым объектом, да ещё и <strong>на такой скорости</strong>.
 

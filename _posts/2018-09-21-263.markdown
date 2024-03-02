@@ -8,7 +8,7 @@ permalink: /263
 # >принять пантомимные обезболивающие и искренне поверить в их действие
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_1.png)
 
 В руке тебя появляется <strong>невидимая бутылка</strong>, из которой ты вытряхиваешь на свою ладонь парочку таких же невидимых <strong>таблеток обезболивающего</strong>.
 
@@ -17,7 +17,7 @@ permalink: /263
 <em>Тебе кажется, что на тему как раз был отдельный Закон, но ты сейчас не в той форме, чтобы вспоминать горы (порой очень запутанного) текста.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_2.png)
 
 Но ты всё равно <strong>закидываешь внутрь себя фантомные таблетки</strong>. <em>Тебе нечего терять</em>.
 
@@ -28,7 +28,7 @@ permalink: /263
 ## >попытаться найти в мусоре что-нибудь полезное
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_3.png)
 
 Твоя рука натыкается на <strong>очередную металлическую пластину</strong>. Сойдёт за «<strong>что-нибудь полезное</strong>»?
 
@@ -37,22 +37,22 @@ permalink: /263
 Да и не думал ли ты, что тебе крайне повезёт в поиске полезных вещей в буквальном мусоре <strong>уже второй раз</strong>? <em>Кто же знал, что твоя первая находка окажется в когтистых лапах оппонента.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_4.png)
 
 В любом случае, теперь у тебя есть <strong>металлическая пластина</strong>. Не думаю, что от неё можно ждать особой <strong>помощи</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_5.png)
 
 <em>К слову про помощь и её ожидание.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_262_6.png)
 
 Завидев твоё плачевное положение, <strong>Марио </strong>с <strong>Бенедиктом </strong>пришли тебе на <strong>подмогу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Так, кажется, живой.</blockquote>
 
@@ -61,7 +61,7 @@ permalink: /263
 <blockquote>Это может неплохо сыграть нам на руку!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Да и затянулась наша беготня, скажу откровенно. С этой крысой пора разобраться раз и навсегда!</blockquote>
 

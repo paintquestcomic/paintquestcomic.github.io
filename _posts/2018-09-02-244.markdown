@@ -8,7 +8,7 @@ permalink: /244
 # >продолжать слушать историю
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_1.png)
 
 <strong>Ты не можешь продолжать слушать историю, потому что ты и не начинал её слушать!</strong>
 
@@ -17,12 +17,12 @@ permalink: /244
 <em>И что не собирается с него двигаться.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_2.png)
 
 <em>Где-то под вами один грызун внимательно слушает рассказ другого.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— С наступлением всеобщего просветления в наших головах стали возникать мысли. Большие, сложные, светлые.</blockquote>
 
@@ -37,10 +37,10 @@ permalink: /244
 <blockquote>Нужна <strong>сила</strong>.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Откровение принимало разные формы. Были и те, кому оно вылилось в недюжинный ум. Их новшества не подрывали наши устои — напротив, они лишь служили им во благо.</blockquote>
 
@@ -51,10 +51,10 @@ permalink: /244
 <blockquote>Но и на этом не закончились его изыскания.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Он нашёл нашу форму… неподходящей для жизни в окружающих землях. Повсюду видел недочёты и ошибки. Логично, что ему захотелось их исправить.</blockquote>
 
@@ -69,10 +69,10 @@ permalink: /244
 На этой фразе принцесса меняется в лице, словно вспомнив неприятный факт. Такой, который следовало бы упомянуть.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_5.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— …а потом он зашёл слишком далеко. Он стал считать, что его разум заслуживает большего, что он выше остальных. <strong>Выше Короны</strong>.</blockquote>
 
@@ -87,12 +87,12 @@ permalink: /244
 ## >предупредить компаньонов об опасности и приготовиться к битве
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_6.png)
 
 <em>Твоих компаньонов нет нужды предупреждать — они и сами прекрасно видят грозный силуэт в поднявшемся облаке пыли. Что касается готовности…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_7.gif)
 
 <em>Из пыли на тебя смотрят больше красных огней, чем следовало бы, и каждый озаряет частички пыли недобрым светом.</em>
 
@@ -101,6 +101,6 @@ permalink: /244
 <em>Облако рассеивается, пыль медленно оседает на пол…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_243_8.png)
 
 <em>Перед тобой <strong><strong>Архимед, Трансмутатор-Изгнанник.</strong></strong></em>

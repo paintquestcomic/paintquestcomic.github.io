@@ -8,14 +8,14 @@ permalink: /275
 # >убедить крыс отступить с помощью влияния Короны
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_1.png)
 
 Ты решаешь вновь попробовать <strong>пригрозить </strong>крысам той самой загадочной «<strong>Короной</strong>», в этот раз в более спокойной обстановке.
 
 Стоит тебе только встать в соответствующе <strong>коронно-грозную позу</strong>, как <strong>робо-крысы</strong> разом <strong>вздрагивают</strong>…
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_2.png)
 
 … и <strong>разбегаются </strong>куда сенсоры глядят. Ты даже не успел сделать что-то действительно <strong>угрожающее</strong>.
 
@@ -24,7 +24,7 @@ permalink: /275
 ## >поискать у Архимеда ключ-карту
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_3.png)
 
 Избавившись от лишних зрителей, ты возвращаешься к куче металлолома под именем «<strong>Архимед</strong>». <strong>Марио </strong>вовсю занимается <strong>разбором </strong>корпуса и <strong>сортировкой</strong> всего, что он находит внутри. Он делает это с <strong>особой лёгкостью</strong>, словно копаться в кибернетических внутренностях — <strong>привычное для него занятие</strong>.
 
@@ -33,19 +33,19 @@ permalink: /275
 <em>Но ты роешься и не находишь, всё роешься и всё не находишь.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_4.png)
 
 <strong>Да сколько можно!</strong>
 
 В ярости от неплодотворных поисков ты <strong>бьёшь кулаком </strong>по <strong>корпусу</strong>! <em>Марио этот жест не особо оценил.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Чего творишь?! Я тут пытаюсь более-менее целые детали вытащить, а ты до конца хочешь всё сломать?! Ты знаешь, в каком состоянии большая часть микросхем после огня и когтей?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_5.png)
 
 И тут из области подразумеваемого рта Архимеда что-то <strong>вылетает</strong>, похоже, <strong>вытолкнутое </strong>твоим <strong>ударом</strong>. 
 
@@ -54,17 +54,17 @@ permalink: /275
 <em>Но вдруг твоё внимание перехватывает голос позади тебя.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Эй, молчун! Ты тут точно всё хорошо обыскал?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_274_6.png)
 
 Похоже, <strong>торговец </strong>устроил себе <strong>небольшую экскурсию</strong> по площадке, пока ты возился с крысами и корпусом Архимеда.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Тут подозрительно нетронутый участок остался. На тебя это не похоже, ты уверен, что не пропустил его?</blockquote>
 

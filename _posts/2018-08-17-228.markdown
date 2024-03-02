@@ -8,7 +8,7 @@ permalink: /228
 # >Джеки Вайр 2.4
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_1.png)
 
 <strong>Джеки</strong>? Никогда бы не подумал. <em>У меня лично был другой вариант, но какая уже разница?</em>
 
@@ -17,92 +17,92 @@ permalink: /228
 <em>Но определённо не Микки. Такие судебные разбирательства я точно не переживу.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— М-меня зовут Джеки. Джеки Вайр 2.4. </blockquote>
 
 <blockquote>Да, меня определённо так зовут. Сто процентов. Гарантирую.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— А почему «2.4»?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— А почему «IV»?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Хм. Справедливо.</blockquote>
 
 ## >провести быстрый боевой инструктаж
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_2.png)
 
 Только <strong>поглядите </strong>на него, он же от первой <strong>царапины </strong>отрубится! Нужно хоть как-то <strong>подготовить </strong>его, чтобы его <strong>шансы выжить</strong> в схватке с неприятелем выросли с <strong>0%</strong> до…
 
 …<strong>любого другого значения</strong>. <em>Эх.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Так, Джеки, навыками боя владеем? Любыми, мы не привередливые.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Боя? Да что ты, принцесса! Не знаю, для чего я был создан, но уж точно не для боевых действий.</blockquote>
 
 <blockquote>Боюсь спросить, а почему тебя вдруг это заинтересовало?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Да так, соображения безопасности. Твоей безопасности.</blockquote>
 
 <blockquote>Скажу прямо: тебе без должной подготовки тут долго не протянуть. Даю один жизненно важный совет: целься зубами в одиночные пластины, они скрывают повреждения в корпусе.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Н-но у меня нет зубов!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Тогда второй совет: блокируй колёса хвостом. Обездвиженные крысы очень легко и просто превращаются в дохлых крыс.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Х-х-хвост?! Да мой хвост на части рассыпется от неосторожного обращения!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Тогда выбирай: либо от «неосторожного обращения» рассыпается твой хвост, либо рассыпаешься ты.</blockquote>
 
 <blockquote>Не самый сложный выбор, если спросишь.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Это же ш-шутка, правда!? Т-т-традиционный юмор! Верно?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Стой. Мы на месте.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_3.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Не подходи близко к краю. Если упадёшь, тебя по кусочкам собирать не будут.</blockquote>
 
@@ -113,95 +113,95 @@ permalink: /228
 Кажется,<strong> крыса с разбитым лицом</strong> держит в хвосте ещё одну <strong>странную пробку</strong>!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Вот и источник шума. Интересно, как же эти дебоширы умудрились угодить в драконьи лапы?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Что, прости? «Драконьи»?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— А ты не видишь? Смотри же, как он их за спины ухватил! </blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Нет, всё ещё не виж- </blockquote>
 
 <blockquote>Постой, ты про магнит сейчас говоришь!?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Что? Какой ещё «магнит»? Я эту тварь хорошенько запомнила! Она однажды и меня схватила! Пока не появился мой…</blockquote>
 
 <blockquote>Вот же он!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_4.png)
 
 Вы переводите взгляд <strong>повыше</strong>. Вам открывается <strong>загримированная исполинская фигура</strong>, уже знакомая всем присутствующим.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Мой рыцарь-гигант, мой спаситель!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Он? Постой, так я его знаю! </blockquote>
 
 <blockquote>Я его… «друг», в некотором смысле?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Ты знаешь его? Как? Неужели такие совпадения случаются?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Да-да, это определённо он! Добрый паренёк, чуть ли не до наивности. Рассеянный, правда.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Но почему он выглядит таким печальным? Что его беспокоит? Что за несчастье приключилось с ним?</blockquote>
 
 <blockquote>И кто же поможет ему?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_5.png)
 
 <em>А вот и кавалерия.</em>
 
 Вдруг, в комнату забегают <strong>двое </strong>(<em>точнее, один забегает, а другой следует за ним прогулочной походкой</em>). Они держат в руках <strong>листы бумаги</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Гарри, не беспокойся, помощь прибыла!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Слушай, ещё не поздно перерисовать?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Раньше надо было думать, теперь пришла пора действовать!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_227_6.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Все приготовились!</blockquote>
 

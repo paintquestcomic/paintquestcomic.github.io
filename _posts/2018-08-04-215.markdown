@@ -8,19 +8,19 @@ permalink: /215
 # >забрать тролля с собой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_1.png)
 
 Необъяснимая <strong>ностальгия </strong>не даёт тебе расстаться с этим бесполезным и странно выглядящим клочком <strong>бумаги</strong>. Ты кладёшь его в свой <strong>инвентарь</strong>, в котором каким-то магическим образом осталось свободное место.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_2.png)
 
 <blockquote><strong>«ТРОЛЛЬ» </strong>ДОБАВЛЕН В ИНВЕНТАРЬ</blockquote>
 
 ## >проверить, остался ли ожог на руке, а также поискать его источник
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_3.png)
 
 <strong>Тебе повезло</strong>. В том плане, что большую половину болезненной части получения ожога ты провёл <strong>без сознания</strong>.
 
@@ -31,7 +31,7 @@ permalink: /215
 ## >сохраниться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_4.png)
 
 Никогда не помешает. Не хочется терять весь проделанный прогресс. <em>И вновь оказаться раздавленным ты точно не собираешься.</em>
 
@@ -44,7 +44,7 @@ permalink: /215
 ## >начать Дружбаталию™ с Бенедиктом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_5.png)
 
 <em>Не путай мне тут торговые марки! Мне хватило денег только на регистрацию ДРУЖБОМЕТРА™, я вам не олигарх.</em>
 
@@ -57,44 +57,44 @@ permalink: /215
 Тебе нужно поговорить с ним по душам, с помощью старой-доброй <strong>Дружбаталии</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Знаешь, ты отличное место нашёл! Я даже не догадывался, что внутрь этой штуковины можно залезть. Только погляди на эти несметные богатства, на эти (потенциально) золотые горы!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— …</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Что не так? Чем я тебе в этот раз не угодил, мой молчаливый партнёр?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Подозреваю, ему не понравилось, что ты тут же развёл тут бессовестное мародёрств-</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_6.png)
 
 Он полностью <strong>игнорирует </strong>твою попытку начать <strong>Дружбаталию</strong>. <em>Так вообще можно делать?!</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Бла-бла-бла, абсолютно не интересует! Наш договор — 50% от добычи идёт мне!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Какой-какой договор?!</blockquote>
 
 ## >поискать, через что можно было вводить код
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_7.png)
 
 <em>…вводить код.</em>
 
@@ -107,7 +107,7 @@ permalink: /215
 ## >спуститься к реактору и заглянуть в щели, в которые могли убежать робо-крысы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_214_8.png)
 
 Ты спускаешься <strong>вниз </strong>и рассматриваешь одну из <strong>дыр </strong>в стене.
 

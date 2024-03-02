@@ -8,7 +8,7 @@ permalink: /239
 # >сохраниться, осознавая, что может стать ещё хуже
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_1.png)
 
 <strong>Хорошая идея</strong>, как и всегда. Ты <strong>сохр-</strong>
 
@@ -23,14 +23,14 @@ permalink: /239
 Ну и ладно, ты никогда не был любителем <strong>философских рассуждений</strong>. Важно то, что сейчас ты <strong>не можешь сохраниться</strong>, потому что где-то рядом, видите ли, «<em>опасность</em>».
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_2.png)
 
 <em>Где-то.</em>
 
 ## >сделать из листка бумажный самолетик и отправить его вниз
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_3.png)
 
 Из <strong>этого </strong>листка? <em>Вот, видишь, я его кучей стрелок отметил?</em> 
 
@@ -43,7 +43,7 @@ permalink: /239
 ## >раскачать крюк
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_4.png)
 
 Ты начинаешь <strong>ритмично дёргать</strong> всеми своими свободно висящими конечностями то в одну, то в другую сторону, пытаясь <strong>раскачать крюк</strong>, пленивший тебя в воздухе.
 
@@ -54,50 +54,50 @@ permalink: /239
 ## >раскачавшись, попытаться уронить шкаф
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_5.png)
 
 Оказавшись как можно ближе к <strong>шкафу</strong>, ты <strong>хватаешься за него</strong>! Твоей хватки <strong>недостаточно</strong>, чтобы хорошенько закрепить своё положение и вскарабкаться на него, да и <strong>крюк</strong>, словно маятник, <strong>тянет тебя по инерции назад</strong>, что тоже не способствует вскарабкиванию.
 
 …зато ты можешь <strong>навести шуму</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_6.gif)
 
 Потянув со всей (<em>хилой и мимской, но всё-таки</em>) <strong>силой</strong>, ты <strong>опрокидываешь шкаф</strong>! Он и его содержимое с <strong>грохотом </strong>ударяются об пол!
 
 Такого грохота должно хватить, чтобы оповестить <strong>ближайшую спасательную бригаду</strong> о твоём <strong>бедственном положении</strong>. <em>К слову о ближайшей бригаде…</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_7.png)
 
 Где-то на уровне ниже <strong>Марио </strong>и <strong>Бенедикт </strong>становятся свидетелями <strong>ужасающего звука</strong>, доносящегося <strong>сверху</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>—<strong> Это ещё что такое?!</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Я бы сказал, что это наш выход. Вперёд!</blockquote>
 
 Дождавшись <strong>символического сигнала</strong>, твои компаньоны начинают своё восхождение на <strong>смотровую площадку</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_8.png)
 
 Вскоре в твоём поле зрения появляется <strong>знакомый ушастый силуэт</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Как ты… А, даже знать не хочу. Мне следует перестать удивляться тем передрягам, в которые ты постоянно попадаешь.</blockquote>
 
 Ну что за человек(<em>?</em>), <strong>никакого сострадания</strong> к твоему <strong>положению</strong>! <em>К твоему положению в паре-тройке метров над поверхностью пола.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И халат снимать ты не пробовал, конечно же...</blockquote>
 
@@ -106,7 +106,7 @@ permalink: /239
 ## >снять халат и как можно аккуратнее приземлиться на пол
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_238_9.png)
 
 <em>Пришло время расстаться с невероятно стильным лабораторным халатом.</em>
 

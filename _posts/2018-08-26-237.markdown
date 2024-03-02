@@ -8,7 +8,7 @@ permalink: /237
 # >задрать голову вверх и узнать, как держится крюк
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_1.png)
 
 <strong>Крюк </strong>оказывается прикреплён к <strong>металлической конструкции</strong>, подвешенной прямо под <strong>куполом </strong>смотровой площадки. <em>Простота системы немного огорчает тебя.</em>
 
@@ -17,7 +17,7 @@ permalink: /237
 ## >поднести зарядку к панели с кнопками
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_2.png)
 
 Ты возвращаешься к <strong>верстаку</strong>, держа в руках <strong>недостающий кусочек пазла </strong>— <strong>электроэнергию </strong>(<em>в виде беспроводной зарядки, естественно, держать чистое электричество в голых руках было бы как минимум опасно</em>).
 
@@ -26,12 +26,12 @@ permalink: /237
 <strong>Лампа загорается!</strong> Правая лампа, как и следовало ожидать.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_3.png)
 
 Аналогичным методом <strong>включается </strong>и <strong>левая лампа</strong>, <em>что было довольно очевидно, но дополнительная проверка лишней ещё никогда не оказывалась</em>.<em> Кажется</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_4.png)
 
 Вот только есть <strong>один момент</strong>, который повергает тебя в <strong>недоумение</strong>.
 
@@ -46,7 +46,7 @@ permalink: /237
 ## >прислонить конец провода паяльника к зарядному устройству
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_5.png)
 
 Работающий <strong>паяльник </strong>открыл бы перед тобой целую <strong>гору новых возможностей</strong> (<em>включая возможности серьёзно нанести себе увечья</em>).
 
@@ -61,7 +61,7 @@ permalink: /237
 ## >рассмотреть бумажку с какими-то записями в баррикаде
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_6.png)
 
 Старательно избегая <em>заражения крови от контакта с металлом далеко не первой свежести</em>, ты взбираешься на <strong>баррикаду</strong>. Чуть ранее тебе удалось рассмотреть в груде мусора <strong>лист с каким-то</strong> <strong>текстом</strong>, <em>а потом за работу принялось твоё любопытство.</em>
 
@@ -82,42 +82,42 @@ permalink: /237
 К слову о <em>влиянии на других с помощью сомнительных методов</em>, как там <strong>твои спутники</strong> поживают?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_236_7.png)
 
 <strong>Марио </strong>и <strong>Бенедикт </strong>задумчиво стоят и рассматривают <strong>лестницу</strong>, ведущую к <strong>смотровой площадке</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Может, поднимемся уже?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Рано. Молчун ещё не все ловушки успел активировать, гарантирую.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И как же ты поймёшь, что он <strong>все </strong>активировал?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Скрежет металла, запах горелой плоти, крики о помощи… Мне продолжать?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— С криками ты точно переборщил, он даже перед лицом смерти будет сохранять молчание. Случаи уже были.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Возможно. В любом случае, я бы скорее ещё подождал тут, в комфортабельной комнате отдыха с диваном, кофейным столиком и приятной глазу растительностью.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Дело твоё, но я бы предпочёл, если бы этот мим остался в живых. Хм…</blockquote>
 

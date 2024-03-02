@@ -8,7 +8,7 @@ permalink: /234
 # >показать Марио и Бенедикту, как классно ты проходишь «Сокровища Альдора»
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_1.png)
 
 Ты не совсем понял, <strong>что </strong>сейчас произошло.
 
@@ -21,46 +21,46 @@ permalink: /234
 <em>Похоже, с карьерой профессионального игрока в компьютерные игры тебе придётся завязать.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_2.png)
 
 Вдруг ты слышишь <strong>знакомый голос</strong>, доносящийся <strong>сверху</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, Гарри! Ты слышал этот шум?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_3.png)
 
 Ты покидаешь компьютер и подходишь поближе к <strong>лестнице</strong>, чтобы лучше слышать слова своего <strong>спутника</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Мне кажется, он доносился откуда-то сверху! Иди сюда!</blockquote>
 
 ## >оценить состояние люка
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_4.png)
 
 Твои непревзойдённые дедуктивные способности подсказывают тебе, что <strong>загадочным звуком</strong> сверху был <strong>звук открытия</strong> защищённого люка. Не тратя времени, ты быстренько <strong>вскарабкиваешься </strong>к тому месту, где раньше была <strong>непроходимая преграда</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эй, ты куда? Постой, там что, люк открылся?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Для кого-то — люк, а для кого-то — новый источник поставок!</blockquote>
 
 ## >попробовать засунуть в люк голову
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_5.png)
 
 Если верить твоему <strong>прошлому опыту</strong>, то засовывать свою <strong>голову </strong>в неизвестное отверстие было бы <strong>крайне глупо</strong>…
 
@@ -71,12 +71,12 @@ permalink: /234
 Как и следовало ожидать, твои (<em>всё ещё</em>) <strong>хилые </strong>(<em>всё ещё</em>) <strong>мимские руки </strong>без труда <strong>проходят </strong>через отверстие человеческого размера.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_6.png)
 
 А за ними следует твоя <strong>голова</strong>, чей <strong>пронзительный взор</strong> (<em>вместе с подозрительным прищуром</em>) тут же принимается <strong>осматривать </strong>новое помещение.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_233_7.png)
 
 Вот она какая, <strong>смотровая площадка</strong>. <em>Ты её представлял чуть иначе.</em>
 

@@ -8,7 +8,7 @@ permalink: /257
 # >проверить подвижность текущего состояния Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_1.png)
 
 У <strong>Трансмутатора </strong>был запасной план в виде <strong>четырёх паучьих ног</strong>, которые сейчас торчат из <strong>люка </strong>на его спине. 
 
@@ -17,14 +17,14 @@ permalink: /257
 <strong>Он тебя заметил.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_2.png)
 
 <em>В мгновение ока его металлические когти оказываются перед твоим лицом.</em>
 
 ## >обездвижить Архимеда невидимым кубом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_3.png)
 
 <em>Фух.</em>
 
@@ -33,31 +33,31 @@ permalink: /257
 <em>Ты не знаешь, как долго ты сможешь её поддерживать.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_4.png)
 
 Ты бы хотел подать какой-нибудь <strong>знак </strong>своим <strong>компаньонам</strong>, но это крайне трудно сделать, когда <em>определённые устои не позволяют тебе разговаривать, а руки заняты поддержанием единственного барьера между тобой и верной гибелью</em>.
 
 Но, похоже, у них есть <strong>свои мысли</strong> насчёт твоей ситуации.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты чего творишь? Не видишь, эта крыса с ног до головы в металле!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Не вижу, в этом и проблема. С такого расстояния трудно будет попасть во что-то, что не является отражающей металлической поверхностью.</blockquote>
 
 <blockquote>Лучше скажи мне, куда бы ты стрелял, если бы тебе надо было обезвредить гигантскую крысу-робота?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— А! В какое-нибудь незакрытое отверстие? Или… глаз! Да, вырубить датчики, перекрыть все каналы связи с внешним миром!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— И ослепить нашего гостя, вот оно что. Учту, ушастый, обязательно учту…</blockquote>
 
@@ -66,7 +66,7 @@ permalink: /257
 ## >достать пушку и выжать из неё залп по Архимеду!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_5.png)
 
 <strong>Уворот!</strong> <em>Ты еле избегаешь когтей робо-крысы!</em>
 
@@ -77,14 +77,14 @@ permalink: /257
 <em>Твой шанс.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_6.png)
 
 <em>К счастью, предметы из инвентаря достаются практически моментально.</em>
 
 <strong>Ты включаешь направленное на Архимеда устройство.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_256_7.png)
 
 Оно… <strong>работает</strong>?
 

@@ -8,7 +8,7 @@ permalink: /240
 # >расстроиться из-за испорченного грима
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_1.png)
 
 Тебе не хочется вставать, но ты понимаешь, что рано или поздно тебе придётся столкнуться со своим <strong>позором</strong>. Может, <strong>берет </strong>и является <strong>гордостью мима</strong>, но <strong>грим </strong>можно считать прямым продолжением если не <strong>души</strong>, то <strong>личности</strong>.
 
@@ -19,38 +19,38 @@ permalink: /240
 <em>Поэтому они носят грим.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_2.png)
 
 <em>Тебе не нужна команда, чтобы быть расстроенным.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_3.png)
 
 Ты <strong>поднимаешься на ноги</strong>, даже не пытаясь скрыть <strong>разочарование </strong>от своего <strong>внешнего вида</strong>. 
 
 Будь оно к счастью или сожалению, но твои <strong>компаньоны </strong>обращают <strong>мало внимания</strong> на твоё <strong>душевное состояние</strong>. Они больше заинтересованы в <strong>обстановке </strong>смотровой площадки.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Тут… просторно. Похоже, в прошлом тут был склад или цех. В этом бардаке сказать трудно, но выглядит всё довольно организованно.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— И не скажи, тут уже всё расфасовано по коробкам! Это значительно упрощает мою жизнь!</blockquote>
 
 <blockquote>Поглядите, я нашёл коробку с кучей… зелёных карточек с золотыми узорами?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote><em>— Платами. Ты нашёл коробку с печатными платами. </em></blockquote>
 
 <blockquote><em>(И довольно качественными, если посмотреть.)</em></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote><em>— Ни слова не понял, но звучит как что-то, в чём очень будет заинтересован мой основной контингент покупателей!</em></blockquote>
 
@@ -59,29 +59,29 @@ permalink: /240
 ## >перелезть через завал на другую часть помещения 
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_4.png)
 
 Ты осторожно <strong>перелезаешь </strong>через <strong>мусорную баррикаду</strong>, в<em>сё ещё пытаясь избежать потенциального заражения крови</em>.
 
 Трудно сказать, что ты ожидал увидеть по ту сторону, но точно не <strong>это</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_5.png)
 
 <em>Горы клеток, сейчас пустых.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_6.png)
 
 <em>Кропотливый труд, в спешке брошенный на столе.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_7.png)
 
 <em>И подозрительно знакомые освежёванные тела, свисающие, словно свиные туши в скотобойне.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_8.png)
 
 Разум подсказывает тебе, что тут была <strong>мастерская</strong>, в которой с помощью металла и инструмента вершился <strong>научно-технический прогресс</strong>.
 
@@ -92,7 +92,7 @@ permalink: /240
 ## >осмотреть комнату ещё раз на наличие опасности
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_239_9.png)
 
 Тебя не покидает <strong>внутреннее беспокойство</strong>. Возможно, так ты реагируешь на <strong>атмосферу </strong>этого места.
 

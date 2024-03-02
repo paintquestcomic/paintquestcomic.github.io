@@ -8,12 +8,12 @@ permalink: /265
 # >схватить кабель и обмотать им Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_1.png)
 
 Пока <strong>Архимед </strong>занят <strong>горением</strong>, у тебя возникает план — <strong>обмотать робо-крысу одним из тех кабелей</strong> на огромных катушках. Пользуясь случаем, ты оббегаешь оппонента и движешься по направлению к <strong>ближайшей такой катушке</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_2.png)
 
 Ты перепрыгиваешь лежащий шкаф и поднимаешь с пола свободный конец <strong>кабеля </strong>с катушки. 
 
@@ -22,33 +22,33 @@ permalink: /265
 ## >кинуть в Архимеда банку с жёлтой жидкостью
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_3.png)
 
 Ах да, та самая банка с <strong>жёлтой жидкостью</strong>, пахнущей <strong>хвоей</strong>. Ты так и не выяснил, <strong>что </strong>же в ней хранится.
 
 <em>Пришла пора определить это экспериментальным путём.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_4.png)
 
 <strong>Архимед </strong>смог снять с себя <strong>горящий халат</strong>, но вот на летящие в него объекты у него <strong>нет времени реагировать</strong>.
 
 <strong>Ты бросаешь банку прямо в Архимеда!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_5.png)
 
 <strong>Банка лопается, а её содержимое растекается по корпусу робота! Жидкость тут же подхватывает остатки пламени, отчего оно разгорается в несколько раз сильнее!</strong>
 
 От огненных языков начинает исходить <strong>едкий дым</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_264_6.png)
 
 Вот только <strong>Марио </strong>не в восторге от происходящего, словно он только что осознал <strong>нечто ужасное</strong>. Его руки рефлекторно прикрывают рот, после чего ты слышишь <strong>заглушённый крик</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— <strong>Скипидар</strong>! <strong>Пары скипидара</strong>! Не вдыхайте, не контактируйте, держитесь как можно дальше от них!</blockquote>
 

@@ -8,7 +8,7 @@ permalink: /261
 # >раскачаться на крюке
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_260_1.png)
 
 Всё ещё держа <strong>нагретый паяльник</strong> в руке, ты начинаешь двигать телом, пытаясь <strong>раскачать </strong>крюк. Крюк поддаётся, и вскоре ты описываешь в воздухе <strong>солидную</strong> <strong>дугу</strong>. Лабораторный халат развевается, подобно флагу. <em>Тебе повезло, что лёгкая голубизна спасла его от участи белого флага.</em>
 
@@ -21,7 +21,7 @@ permalink: /261
 ## >покрепче взять паяльник, подождать подходящего момента и атаковать Архимеда в глаз
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_260_2.png)
 
 <strong>Тень </strong>появляется за твоей спиной. Ты разворачиваешься в полёте, крепко держа <strong>паяльник </strong>и ведя его жало <strong>прямиком в синюю линзу</strong>.
 
@@ -32,12 +32,12 @@ permalink: /261
 <strong>Жало соприкасается с глазом Архимеда.</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_260_3.png)
 
 <strong>Как нож…</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_260_4.png)
 
 <strong>…сквозь масло.</strong>
 
@@ -46,7 +46,7 @@ permalink: /261
 <em>Воздух наполняется химическим запахом чего-то горелого.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_260_5.png)
 
 <strong>Архимед </strong>приземляется на пол, похоже, в <strong>недоумении </strong>от того, что <strong>только что с ним произошло</strong>. Он словно начал осознавать <strong>потерю </strong>своего предпоследнего глаза лишь <strong>сейчас</strong>. Оставшийся его глаз пытается разглядеть <strong>раскалённую рану</strong>, из которой валит токсичный дым.
 

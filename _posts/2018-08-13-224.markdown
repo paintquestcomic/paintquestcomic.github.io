@@ -8,7 +8,7 @@ permalink: /224
 # >Аврора "Талипсо" IV
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_1.png)
 
 <em>Разумеется!</em>
 
@@ -17,7 +17,7 @@ permalink: /224
 <em>Почему «Талипсо» в кавычках и что случилось с Аврорами с первой по третью? Эта информация, право, не несёт много пользы в благородных кругах, так что зачем раздумывать о подобных пустяках?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_2.png)
 
 Всё, <strong>довольно бездействия</strong>! Ты не из <strong>тех принцесс</strong>, что коротают дни среди придворных слуг в вечной подготовке к очередному балу.
 
@@ -28,7 +28,7 @@ permalink: /224
 ## >узнать, что делают плебеи-вторженцы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_3.gif)
 
 Ах да, <strong>эти</strong>.<strong> </strong>Ты заметила кое-что <strong>интересное</strong>.
 
@@ -41,31 +41,31 @@ permalink: /224
 Тебе нужно ещё раз хорошенько на них <strong>взглянуть</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_4.png)
 
 К счастью, ты прекрасно знакома с <strong>этими стенами</strong>, и без труда выслеживаешь <strong>потенциальных рекрутов</strong>.
 
 Они <strong>чем-то </strong>заняты. <em>С высоты пола трудно сказать точнее.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Так, хвост же не считается конечностью?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Что это за вопрос вообще? Какая разница!? Неужели это так принципиально!?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Реализм превыше всего! С точки зрения анатомии конечности имеют совсем другую структуру, чем… остальные части тела!</blockquote>
 
 Они слишком <strong>увлечены</strong>, ты не думаешь, что сможешь привлечь их внимание.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_5.png)
 
 А <strong>это </strong>что такое!?
 
@@ -76,14 +76,14 @@ permalink: /224
 <em>К счастью, ты прекрасно знакома с этими стенами.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_6.png)
 
 <strong>Тут</strong>. Если он и пошёл через ту нору, то <strong>обязан </strong>оказаться в <strong>этих краях</strong>. 
 
 <em>Остаётся только ждать.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_223_7.png)
 
 Вот и <strong>он</strong>! 
 

@@ -8,7 +8,7 @@ permalink: /259
 # >вылить зелёную жижу в сочленение механических лап
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_1.png)
 
 С такой <strong>высоты </strong>тебе открывается прекрасный вид на <strong>люк на спине Архимеда</strong>. Тот самый, из которого торчат <strong>четыре паучьи лапы</strong>.
 
@@ -19,7 +19,7 @@ permalink: /259
 <strong>Ты бросаешь сосуд в робота!</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_2.png)
 
 <strong>Сосуд вдребезги разбивается, разбрасывая осколки стекла и капли своего содержимого повсюду!</strong>
 
@@ -30,7 +30,7 @@ permalink: /259
 ## >залезть на подъёмник полностью
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_3.png)
 
 Найдя точку опоры, ты с лёгкостью <strong>забрасываешь </strong>свои ноги за перила платформы. 
 
@@ -39,10 +39,10 @@ permalink: /259
 ## >залепить оборванный край паяльника пластилином из тролля
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_4.png)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_5.png)
 
 Ты отрываешь немного засохшие <strong>куски пластилина</strong> в виде дубинки и очков от <strong>рисунка тролля</strong> и залепляешь ими оголённый конец провода от ранее найденного тобой <strong>паяльника</strong>.
 
@@ -53,7 +53,7 @@ permalink: /259
 ## >вытащить из пушки зарядку и включить паяльник
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_6.png)
 
 <strong>Да чтоб тебя!</strong>
 
@@ -64,7 +64,7 @@ permalink: /259
 ## >посмотреть на трос с крюком
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_258_7.png)
 
 Точно, <strong>крюк</strong>. Вот он, всё ещё на месте, висит себе достаточно неподалёку. Ты обошёл большую часть обзорной площадки, но так и не нашёл какой-нибудь <strong>пульт управления</strong> для, <em>собственно</em>, <strong>управления </strong>им.
 

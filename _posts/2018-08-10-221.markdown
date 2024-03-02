@@ -8,14 +8,14 @@ permalink: /221
 # >попробовать запугать крыс троллем
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_1.png)
 
 Пришло время вводить в действия <strong>парня</strong>, с которым действительно <strong>лучше не связываться</strong>.
 
 Ты достаёшь из инвентаря <strong>рисунок тролля</strong> и угрожающе демонстрируешь его крысам.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_2.png)
 
 <strong>Робо-крысы</strong> видят <strong>странно выглядящего тролля</strong>, которого держит в руке огромный (<em>по сравнению с троллем</em>) <strong>мим</strong>.
 
@@ -24,31 +24,31 @@ permalink: /221
 ## >отправить Бенедикта и Марио искать средство против робо-крыс
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_3.png)
 
 Пока что ясно лишь <strong>одно</strong>: без <strong>помощи извне </strong>тебе <strong>не справиться</strong> с крысами, а поддерживать <strong>стену </strong>вечно ты тоже <strong>не можешь</strong>. 
 
 Ты подзываешь <strong>Марио </strong>к себе.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Harry.png)
 
 <blockquote>— <strong>🆘! 🚫🐀🐀! </strong>🏃🔎!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Понял тебя!</blockquote>
 
 <blockquote>Беня, ноги в руки и вперёд, мы отправляемся на поиски!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— На поиски чего?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Решения этой проблемы!</blockquote>
 
@@ -59,65 +59,65 @@ permalink: /221
 ## >стать Марио
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_4.png)
 
 <em>Пришло время для нашего традиционного сегмента, в котором Марио пытается вытащить Гарри из очередной неблагоприятной ситуации.</em>
 
 Вы с <strong>Бенедиктом </strong>поднимаетесь наверх и начинаете обдумывать следующий свой <strong>шаг</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Так, какие у нас есть варианты?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Вариантов есть несколько. Можно попробовать заделать стену всяким хламом и тем самым заблокировать этим крысам проход.</blockquote>
 
 <blockquote>Вот только баррикаду надо возводить внизу, а все потенциальные материалы расположены на других этажах. К тому же, надо будет подбирать такие штуки, которые пролезут через отверстие, ведущее вниз. Крупногабаритная мебель тут же отметается, если только не по частям её переносить.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— А если попробовать этих паразитов как-нибудь отвлечь?</blockquote>
 
 <blockquote>Или отпугнуть, тоже версия.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И как же мы их отпугнём?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_5.png)
 
 В памяти <strong>торговца </strong>пробуждаются воспоминания о <strong>девайсе сомнительной работоспособности</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Слушай, существуют же эти штуковины для отпугивания грызунов? Эти, ультразвуковые, кажется?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— «Ультразвуковые»? Отпугивание крыс и мышей при помощи высокочастотного сигнала? Да ты шутишь, коммивояжёр недоделанный.</blockquote>
 
 <blockquote>Сейчас не время для твоих шарлатанских гаджетов!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Так у нас и крысы, не обычные, а электронные! Вдруг на них сработает по-настоящему?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Предположим. И где мы найдём такой отпугиватель?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ладно, эту часть я не продумал. </blockquote>
 
@@ -126,56 +126,56 @@ permalink: /221
 <blockquote>Может, у них где-нибудь мышеловки завалялись?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ага, я видел парочку за ящиком с пятью робо-котами.</blockquote>
 
 ## >спроси у Бенедикта, как он отгонял робо-крыс ранее, раз уж они живут на свалке прям под его хатой
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_220_6.png)
 
 <em>Постойте…</em> Раз уж эти крысы обитают прямо под <strong>магазином</strong>, то Бенедикт просто <strong>не мог не встречаться</strong> с ними ранее! У него обязаны быть хоть какие-то <strong>методы борьбы</strong> с ними!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Погоди, неужели тебе никогда не приходилось разбираться с робо-крысами? Свалка прямо под твоим домом, знаешь ли.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Редкая робо-крыса доберётся до краёв свалки! Почему-то они именно в глубине кучкуются, в основном.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Совсем никогда не встречался?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Эх, ну было пару раз, заносило меня далеко от дома…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Наткнулся на несколько крыс. Хотя, скорее они на меня.</blockquote>
 
 <blockquote>Выстрелил в них лазером. Выявил его крайне неуместную на тот момент тенденцию отражаться от металлических поверхностей.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ну а потом?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Убежал я! Умчался на семи ветрах! Дёру дал! </blockquote>
 
@@ -184,7 +184,7 @@ permalink: /221
 <blockquote>…или же оставим молчуна на растерзание крысам? Минус канал поставки, конечно, но ничего, я справлюсь.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Не рассматривается. Даже не думай об этом.</blockquote>
 

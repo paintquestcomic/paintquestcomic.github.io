@@ -8,7 +8,7 @@ permalink: /274
 # >порыться в обломках робо-крысы
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_273_1.png)
 
 <strong>Ты </strong>и твои <strong>компаньоны </strong>осторожно подходят к тому, что осталось от <strong>корпуса Архимеда</strong>. Вы всё ещё в небольшом <strong>шоке </strong>от того, что вам пришлось лицезреть. Впрочем, вы и сами толком не знаете, <strong>что </strong>именно вы сейчас лицезрели.
 
@@ -21,31 +21,31 @@ permalink: /274
 <strong>Марио </strong>начинает осматривать отдельные части робота, пытаясь окончательно убедиться в безопасности нахождения рядом.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_273_2.png)
 
 Ты присоединяешься к <strong>Марио </strong>в изучении <strong>внутренностей </strong>Архимеда.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Это… выглядело страшно. Даже представить не могу, что могло вызвать подобную реакцию. Повреждение данных? Ошибка в алгоритме? Хм, нет, нет, действия были слишком…</blockquote>
 
 <blockquote>…осмысленными.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Что-нибудь полезное видишь, ушастый?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Пока что нет. Тут полный беспорядок, словно кто-то пытался закинуть как можно больше компонентов в корпус. Тем не менее, все компоненты соединены, так что эта конструкция может оказаться более осмысленной, чем кажется.</blockquote>
 
 <blockquote>Мне нужно больше времени. Сложное устройство, очень сложное…</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_273_3.png)
 
 Ты продолжаешь <strong>рыться </strong>в корпусе в поисках... <em>чего-то</em>? Ты и сам толком не знаешь, <strong>чего</strong>. В <strong>роботах </strong>ты разбираешься мало, да и в <strong>робо-внутренностях</strong> тоже. 
 
@@ -56,7 +56,7 @@ permalink: /274
 ## >сохраниться!
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_273_4.png)
 
 Да, знаешь, <strong>отличная идея</strong>! Я и сам не подобрал бы более подходящего времени для <strong>сохранения</strong>.
 

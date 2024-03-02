@@ -8,24 +8,24 @@ permalink: /219
 # >позвать Бенедикта и Марио в свою «стаю» и начать дружбаталию
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_1.png)
 
 Действительно, чем вы хуже стаи крыс? Раз уж мелкие робо-крысы могут брать числом, то <strong>три бравых молодца</strong> должны быть практически <strong>неуязвимы</strong>!
 
 Ты встаёшь в <strong>позу </strong>и даёшь всем своим видом понять, что тебе требуется <strong>подкрепление </strong>в твою… «<em>стаю</em>»? <em>Надо будет поразмыслить над официальным термином.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Хорошо, а что он теперь делает?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Кажется, я знаю.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_2.png)
 
 Конечно же <strong>Марио </strong>знает! Такие преданные компаньоны понимают <strong>намерения </strong>сопартийцев практически на <strong>телепатическом уровне</strong>.
 
@@ -34,29 +34,29 @@ permalink: /219
 <blockquote><strong>МАРИО </strong>ВЫСТУПАЕТ НА СТОРОНЕ <strong>ГАРРИ</strong>!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Барыга, ты так и будешь стоять?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— А что мне, пробежаться до магазина и обратно?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Вставай рядом, ему нужна помощь.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— «Помощь» в чём? Хотя, неважно.</blockquote>
 
 <blockquote>Разок можно и повеселиться.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_3.png)
 
 Вашу компанию пополняет <strong>третья персона</strong>.
 
@@ -65,14 +65,14 @@ permalink: /219
 Вау, вы почти как настоящая <strong>команда</strong>, грозно позируете в сторону противника и всё такое. Словно сейчас обрушится что-то <strong>серьёзное</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ну что, партнёры?</blockquote>
 
 <blockquote><strong>Развлечёмся?</strong></blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_4.png)
 
 Вы начинаете <strong>Дружбаталию</strong>!
 
@@ -85,7 +85,7 @@ permalink: /219
 ## >бросить злосчастную конфету
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_5.png)
 
 Ты кидаешь <strong>конфету </strong>в сторону <strong>крысиной стаи</strong>.
 
@@ -96,14 +96,14 @@ permalink: /219
 <blockquote><strong>ПОКАЗАНИЯ ДРУЖБОМЕТРА™: 2 </strong>—<strong> </strong>Опасные Оппоненты!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— И это был твой план?!</blockquote>
 
 ## >напантомимить рыцарское обмундирование и поведать крысам о том, как ты спас их принцессу
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_6.png)
 
 Через искусство <strong>пантомимы </strong>ты в <strong>мельчайших подробностях</strong> ты демонстрируешь крысам абсолютно правдивую историю о спасении <strong>наследницы крысиного престола</strong>!
 
@@ -112,7 +112,7 @@ permalink: /219
 <em>Так, где аплодисменты?</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_7.png)
 
 Что-то <strong>не так</strong>.
 
@@ -131,7 +131,7 @@ permalink: /219
 ## >кинуть магнит в робо-крыс
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_8.png)
 
 <em>Да пошли они знаете куда со своей политикой?!</em>
 
@@ -142,12 +142,12 @@ permalink: /219
 Они явно <strong>не посчитали</strong> это жестом доброй воли.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Эмм… А мы так и будем бездействовать?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— У тебя есть другие варианты? Потому что у меня их нет.</blockquote>
 
@@ -156,7 +156,7 @@ permalink: /219
 ## >с помощью пантомимы сделать перед крысами преграду, чтобы они не смогли приблизиться
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_218_9.png)
 
 Воспользовавшись <strong>моментом замешательства</strong>, ты ковыляешь (<em>с куском стены на ноге нормально не походишь</em>) поближе к грызунам и создаёшь <strong>невидимую стенку</strong>.
 
@@ -165,22 +165,22 @@ permalink: /219
 Хм. <strong>А теперь что?</strong>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Гарри, только не говори, что у тебя нет плана дальнейших действий.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ну, этого бояться точно не стоит.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Ты знаешь, что я имею ввиду!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Меня больше интересует, что имел ввиду наш молчун, когда просил нашей помощи.</blockquote>
 

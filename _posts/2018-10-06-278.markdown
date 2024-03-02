@@ -8,7 +8,7 @@ permalink: /278
 # >стать Марио и послушать старания Гарри
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_277_1.png)
 
 Ты становишься <strong>Марио </strong>ровно на то время, которое необходимо для того, чтобы <strong>отреагировать </strong>на неожиданно заигравшую <strong>мелодию</strong>, отвлекшую тебя от разбора Архимеда.
 
@@ -19,27 +19,27 @@ permalink: /278
 ## >звуками лиры призвать Аврору и Джеки
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_277_2.png)
 
 Теперь звук становится слышен и <strong>крысе </strong>с <strong>мышью</strong>, что ждут <strong>внизу</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— Что это? Музыка?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Победный гимн доносится из недр Первобытной Высоты. Предатель повержен.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Jackie.png)
 
 <blockquote>— И что, мы продолжим ждать? Я бы проверил обстановку наверху, если честно.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Aurora.png)
 
 <blockquote>— Воля твоя. Мне дорога туда закрыта эдиктом, ты же не являешься подчинённым Короны. Этот наш закон на тебя не распространяется. </blockquote>
 
@@ -48,14 +48,14 @@ permalink: /278
 ## >оценить пространство под большим столом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_277_3.png)
 
 А, ты тоже помнишь ту <strong>невероятно забавную шутку</strong>, когда ты залезал под каждый встречный <strong>стол </strong>и <strong>оценивал </strong>его по системе, которую ты толком не знал и сам?
 
 Действительно, почему бы не <strong>продолжить дело</strong>, да?
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_277_4.png)
 
 Ты <strong>залезаешь </strong>под <strong>стол </strong>и… <em>оцениваешь его, наверное</em>.
 
@@ -66,7 +66,7 @@ permalink: /278
 <em>Это определённо было полезным времяпрепровождением.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_277_5.png)
 
 Твоё <strong>невероятно важное дело</strong> прерывает появление той <strong>робо-мыши</strong>, что ещё давно за тобой увязалась. 
 

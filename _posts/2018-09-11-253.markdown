@@ -8,7 +8,7 @@ permalink: /253
 # >обнять Марио (по доброй традиции)
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_252_1.png)
 
 Ты <strong>приходишь в себя</strong> после неожиданной и потенциально смертельной для всех окружающих <strong>вспышки </strong>пламени. <em>Которую ты сам и создал, к слову</em>.
 
@@ -17,7 +17,7 @@ permalink: /253
 А, нет, ты <strong>бежишь</strong> прямо к нему, чтобы заключить «вернувшегося» товарища в свои <strong>объятия</strong>. <em>Конечно же, как будто я мог ожидать от тебя что-то другое.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— …что случилось?</blockquote>
 
@@ -32,14 +32,14 @@ permalink: /253
 ## >осмотреть Архимеда
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_252_2.png)
 
 Убедившись в целости и сохранности компаньона, ты <strong>подходишь </strong>(<em>и на этот раз действительно осторожно</em>) к <strong>охваченной пламенем железке</strong>, которая раньше была <strong>Архимедом</strong>. Из любопытства <strong>Марио </strong>следует за тобой.
 
 <strong>Пламя </strong>держится на корпусе робо-крысы <strong>неестественно долго</strong>. Ты не видишь, чтобы какая-то из частей действительно <strong>сгорала</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>— Оно ещё горит? Видимо, моя гипотеза была верна. Внутри ядра горело не просто пламя, а <strong>флогистон</strong>, да ещё сжатый.</blockquote>
 
@@ -50,24 +50,24 @@ permalink: /253
 <blockquote>Это… успокаивает.</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_252_3.png)
 
 <strong>Огонь </strong>постепенно <strong>уменьшается</strong>, а тем временем к импровизированному костру подходит ещё одна <strong>знакомая фигура</strong> с характерной прямоугольной головой.
 
 Похоже, <strong>Бенедикт </strong>тоже обошёлся без значительных ранений. <em>Не считая слегка жёваного котелка</em>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Ну ты и зажигательное шоу устроил, конечно. Откуда ты знал, что эта штуковина бахнет так, что не заденет ушастого?</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Mario.png)
 
 <blockquote>—…«ты»? «<strong>Устроил</strong>»?!</blockquote>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/portraits/PQ_paper_portrait_Ben.png)
 
 <blockquote>— Никогда таких взрывов не видел в своей жизни, а я их видел… две-три штуки точно. Неважно. Важно то, что ты даже не подвёл никого в этот раз, молчун! У меня были некоторые сомнения, если честно.</blockquote>
 
@@ -80,7 +80,7 @@ permalink: /253
 ## >потыкать труп ближайшим продолговатым предметом
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_252_4.gif)
 
 <em>Ты ждёшь, пока пламя совсем не пропадёт. К счастью, долго ждать не приходится.</em>
 

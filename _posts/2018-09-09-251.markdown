@@ -8,7 +8,7 @@ permalink: /251
 # >потрясти зарядку в надежде, что там остался заряд для фонаря
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_1.png)
 
 <em>Или же «фонаря».</em>
 
@@ -21,7 +21,7 @@ permalink: /251
 ## >попытаться включить «фонарь» и направить его на крыс
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_2.png)
 
 <em>Новые свободные руки у тебя не выросли</em>, поэтому ты засовываешь <strong>зарядку </strong>в <strong>отверстие </strong>для держания <strong>фонареподобного устройства</strong>, куда она входит с некоторыми усилиями.
 
@@ -30,7 +30,7 @@ permalink: /251
 Ты <strong>нажимаешь </strong>на переключатель.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_3.png)
 
 Поначалу ты даже <strong>не уверен</strong>, удалось ли тебе <strong>включить</strong> устройство.
 
@@ -39,7 +39,7 @@ permalink: /251
 По крайней мере <strong>на первый взгляд</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_4.png)
 
 Потом ты догадываешься <strong>перевести взгляд на цель</strong>.
 
@@ -52,7 +52,7 @@ permalink: /251
 ## >пробежать над крысами с помощью пантомимы моста
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_5.png)
 
 Даже после выключения устройства <strong>робо-крыса</strong> продолжает пребывать в <strong>ступоре</strong>. <em>В других условиях тебе было бы жалко несчастное создание</em>, но сейчас эта <strong>ситуация </strong>может <strong>сыграть на руку</strong>.
 
@@ -61,13 +61,13 @@ permalink: /251
 Ты спешишь поскорее вернуться с новыми <strong>средствами антикрысиной борьбы</strong> к своим <strong>компаньонам</strong>.
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_6.png)
 
 На всех парах ты <strong>добегаешь </strong>до края <strong>ширмы</strong>, <strong>где-</strong>
 
 <em>О нет.</em>
 
 {: .p-ignore }
-![]({{ site.url }}/pages/REPLACE.png)
+![]({{ site.url }}/pages/comic/PQ_250_7.png)
 
 <strong>О нет.</strong>
